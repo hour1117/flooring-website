@@ -1,0 +1,113 @@
+{
+  "nav": {
+    "home": "الرئيسية",
+    "products": "المنتجات",
+    "about": "من نحن",
+    "oem": "خدمات OEM/ODM",
+    "projects": "المشاريع",
+    "blog": "المدونة",
+    "contact": "اتصل بنا",
+    "search": "بحث",
+    "categories": "الفئات",
+    "allProducts": "جميع المنتجات",
+    "language": "اللغة"
+  },
+  "home": {
+    "heroTitle": "مصنع ومورد أرضيات متميز",
+    "heroSubtitle": "حلول أرضيات عالية الجودة مع أكثر من 20 عامًا من التميز في التصنيع. موثوق من قبل شركاء عالميين لخدمات OEM/ODM.",
+    "heroCta1": "عرض المنتجات",
+    "heroCta2": "اتصل بنا",
+    "categoriesTitle": "فئات المنتجات",
+    "bestSellersTitle": "الأكثر مبيعًا",
+    "aboutTitle": "من نحن",
+    "aboutText": "نحن شركة رائدة في تصنيع الأرضيات مع مرافق إنتاج حديثة، نقدم حلول أرضيات عالية الجودة للعملاء في جميع أنحاء العالم.",
+    "aboutCta": "اعرف المزيد",
+    "certificatesTitle": "الشهادات",
+    "newsTitle": "آخر الأخبار",
+    "ctaTitle": "هل أنت مستعد لبدء مشروعك؟",
+    "ctaText": "اتصل بنا اليوم للحصول على استشارة مجانية وطلب عينات.",
+    "ctaButton": "احصل على عرض سعر",
+    "viewAll": "عرض الكل"
+  },
+  "products": {
+    "title": "منتجاتنا",
+    "description": "تصفح مجموعتنا الكاملة من منتجات الأرضيات",
+    "searchPlaceholder": "ابحث عن المنتجات...",
+    "allCategories": "جميع الفئات",
+    "noProducts": "لم يتم العثور على منتجات",
+    "specifications": "المواصفات",
+    "relatedProducts": "منتجات ذات صلة",
+    "downloadPDF": "تحميل ورقة المواصفات",
+    "watchVideo": "شاهد الفيديو",
+    "inquireNow": "استفسر الآن",
+    "category": "الفئة",
+    "filterBy": "تصفية حسب"
+  },
+  "about": {
+    "title": "من نحن",
+    "companyIntro": "مقدمة عن الشركة",
+    "factoryInfo": "مصنعنا",
+    "teamSection": "فريقنا",
+    "videoTitle": "فيديو الشركة"
+  },
+  "oem": {
+    "title": "خدمات OEM/ODM",
+    "intro": "حلول تصنيع مخصصة",
+    "process": "عمليتنا",
+    "capabilities": "قدراتنا"
+  },
+  "projects": {
+    "title": "حالات المشاريع",
+    "location": "الموقع",
+    "productsUsed": "المنتجات المستخدمة",
+    "viewProject": "عرض المشروع"
+  },
+  "blog": {
+    "title": "المدونة والأخبار",
+    "readMore": "اقرأ المزيد",
+    "categories": "الفئات",
+    "recentPosts": "أحدث المنشورات",
+    "tags": "الوسوم",
+    "shareArticle": "شارك المقال",
+    "publishedOn": "نُشر في"
+  },
+  "contact": {
+    "title": "اتصل بنا",
+    "subtitle": "تواصل مع فريقنا",
+    "whatsapp": "واتساب",
+    "email": "البريد الإلكتروني",
+    "phone": "الهاتف",
+    "address": "العنوان",
+    "formTitle": "أرسل لنا رسالة",
+    "name": "اسمك",
+    "emailField": "بريدك الإلكتروني",
+    "phoneField": "رقم هاتفك",
+    "company": "اسم الشركة",
+    "message": "رسالتك",
+    "submit": "إرسال الرسالة",
+    "submitSuccess": "شكرًا لك! سنتواصل معك قريبًا.",
+    "submitError": "حدث خطأ ما. يرجى المحاولة مرة أخرى."
+  },
+  "search": {
+    "title": "نتائج البحث",
+    "placeholder": "ابحث عن منتجات، مقالات، مشاريع...",
+    "noResults": "لم يتم العثور على نتائج لـ",
+    "productsTab": "المنتجات",
+    "blogTab": "المقالات",
+    "projectsTab": "المشاريع"
+  },
+  "footer": {
+    "quickLinks": "روابط سريعة",
+    "products": "المنتجات",
+    "services": "الخدمات",
+    "contactInfo": "معلومات الاتصال",
+    "followUs": "تابعنا",
+    "copyright": "جميع الحقوق محفوظة."
+  },
+  "common": {
+    "backToTop": "العودة للأعلى",
+    "loading": "جاري التحميل...",
+    "error": "حدث خطأ ما",
+    "home": "الرئيسية"
+  }
+}
