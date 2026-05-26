@@ -1,0 +1,110 @@
+{
+  "slug": "assaria-walnut",
+  "title": {
+    "en": "Assaria — Walnut Parquet",
+    "ru": "Ассария — Ореховый Паркет",
+    "zh": "阿萨利亚 — 黑胡桃拼花"
+  },
+  "category": "parquet-flooring",
+  "featured_image": "/images/uploads/products/parquet-4.png",
+  "gallery": [
+    "/images/uploads/products/parquet-4.png"
+  ],
+  "short_description": {
+    "en": "Special-shaped parquet series. Black walnut with Italian coating on Russian birch base. 520×300mm. ENF certified.",
+    "ru": "Паркет специальной формы. Черный орех, 520×300мм, итальянское покрытие на российской березе. ENF.",
+    "zh": "异性拼花系列。黑胡桃材质，520×300mm，意式涂装，俄罗斯进口全桦基材。ENF认证。"
+  },
+  "body": {
+    "en": "## Assaria Walnut Parquet\n\nElegant Assaria design in black walnut. Precision-cut to 520×300mm with Italian coating. Russian birch base ensures lasting dimensional stability.\n\n### Specifications\n- **Wood Species**: Black Walnut\n- **Model**: Assaria\n- **Size**: 520×300mm\n- **Finish**: Italian Coating\n- **Base**: Russian Imported Birch\n- **Lock**: Flat Lock\n- **Certification**: ENF",
+    "ru": "## Ассария\n\nЭлегантный дизайн Ассария из черного ореха. Размер 520×300мм с итальянским покрытием.",
+    "zh": "## 阿萨利亚 黑胡桃拼花\n\n优雅的阿萨利亚黑胡桃拼花。520×300mm规格，意式涂装工艺，俄罗斯全桦基材。\n\n### 产品参数\n- **木种**: 黑胡桃\n- **型号**: 阿萨利亚\n- **规格**: 520×300mm\n- **工艺**: 意式涂装\n- **基材**: 俄罗斯进口全桦\n- **扣型**: 平扣\n- **认证**: ENF"
+  },
+  "specs": [
+    {
+      "name": {
+        "en": "木种",
+        "ru": "木种",
+        "zh": "木种"
+      },
+      "value": {
+        "en": "黑胡桃",
+        "ru": "黑胡桃",
+        "zh": "黑胡桃"
+      }
+    },
+    {
+      "name": {
+        "en": "型号",
+        "ru": "型号",
+        "zh": "型号"
+      },
+      "value": {
+        "en": "阿萨利亚",
+        "ru": "阿萨利亚",
+        "zh": "阿萨利亚"
+      }
+    },
+    {
+      "name": {
+        "en": "规格",
+        "ru": "规格",
+        "zh": "规格"
+      },
+      "value": {
+        "en": "520×300mm",
+        "ru": "520×300mm",
+        "zh": "520×300mm"
+      }
+    },
+    {
+      "name": {
+        "en": "工艺",
+        "ru": "工艺",
+        "zh": "工艺"
+      },
+      "value": {
+        "en": "意式涂装",
+        "ru": "意式涂装",
+        "zh": "意式涂装"
+      }
+    },
+    {
+      "name": {
+        "en": "基材",
+        "ru": "基材",
+        "zh": "基材"
+      },
+      "value": {
+        "en": "俄罗斯进口全桦",
+        "ru": "俄罗斯进口全桦",
+        "zh": "俄罗斯进口全桦"
+      }
+    },
+    {
+      "name": {
+        "en": "扣型",
+        "ru": "扣型",
+        "zh": "扣型"
+      },
+      "value": {
+        "en": "平扣",
+        "ru": "平扣",
+        "zh": "平扣"
+      }
+    },
+    {
+      "name": {
+        "en": "认证",
+        "ru": "认证",
+        "zh": "认证"
+      },
+      "value": {
+        "en": "ENF",
+        "ru": "ENF",
+        "zh": "ENF"
+      }
+    }
+  ],
+  "is_featured": true
+}

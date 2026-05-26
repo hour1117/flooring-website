@@ -1,13 +1,12 @@
 // Multilingual field: each locale has its own value
-export type Locale = 'en' | 'ar' | 'es' | 'fr';
-export const locales: Locale[] = ['en', 'ar', 'es', 'fr'];
+export type Locale = 'en' | 'ru' | 'zh';
+export const locales: Locale[] = ['en', 'ru', 'zh'];
 export const defaultLocale: Locale = 'en';
 
 export interface LocalizedString {
   en: string;
-  ar: string;
-  es: string;
-  fr: string;
+  ru: string;
+  zh: string;
 }
 
 // Product category
@@ -90,6 +89,8 @@ export interface SiteSettings {
   social: {
     facebook?: string;
     instagram?: string;
+    tiktok?: string;
+    vk?: string;
     linkedin?: string;
     youtube?: string;
   };

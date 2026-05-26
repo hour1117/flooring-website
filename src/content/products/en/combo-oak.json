@@ -1,0 +1,98 @@
+{
+  "slug": "combo-oak",
+  "title": {
+    "en": "Combo — Oak Parquet",
+    "ru": "Комбо — Дубовый Паркет",
+    "zh": "组合拼 — 橡木拼花"
+  },
+  "category": "parquet-flooring",
+  "featured_image": "/images/uploads/products/parquet-7.png",
+  "gallery": [
+    "/images/uploads/products/parquet-7.png"
+  ],
+  "short_description": {
+    "en": "Special-shaped combination parquet. Oak with Italian coating on Russian birch base. ENF certified.",
+    "ru": "Комбинированный паркет из дуба. Итальянское покрытие на российской березовой основе. ENF.",
+    "zh": "异性拼花系列。橡木材质，意式涂装，俄罗斯进口全桦基材。ENF认证。"
+  },
+  "body": {
+    "en": "## Combo Oak Parquet\n\nCreative combination parquet in premium oak. Mix-and-match pattern design with Italian coating. Russian birch base for lasting stability.\n\n### Specifications\n- **Wood Species**: Oak\n- **Model**: Combo\n- **Finish**: Italian Coating\n- **Base**: Russian Imported Birch\n- **Lock**: Flat Lock\n- **Certification**: ENF",
+    "ru": "## Комбо\n\nКреативный комбинированный паркет из дуба. Дизайн микс-энд-матч с итальянским покрытием.",
+    "zh": "## 组合拼 橡木拼花\n\n创意组合拼花地板。橡木材质，意式涂装工艺。自由组合图案设计。\n\n### 产品参数\n- **木种**: 橡木\n- **型号**: 组合拼\n- **工艺**: 意式涂装\n- **基材**: 俄罗斯进口全桦\n- **扣型**: 平扣\n- **认证**: ENF"
+  },
+  "specs": [
+    {
+      "name": {
+        "en": "木种",
+        "ru": "木种",
+        "zh": "木种"
+      },
+      "value": {
+        "en": "橡木",
+        "ru": "橡木",
+        "zh": "橡木"
+      }
+    },
+    {
+      "name": {
+        "en": "型号",
+        "ru": "型号",
+        "zh": "型号"
+      },
+      "value": {
+        "en": "组合拼",
+        "ru": "组合拼",
+        "zh": "组合拼"
+      }
+    },
+    {
+      "name": {
+        "en": "工艺",
+        "ru": "工艺",
+        "zh": "工艺"
+      },
+      "value": {
+        "en": "意式涂装",
+        "ru": "意式涂装",
+        "zh": "意式涂装"
+      }
+    },
+    {
+      "name": {
+        "en": "基材",
+        "ru": "基材",
+        "zh": "基材"
+      },
+      "value": {
+        "en": "俄罗斯进口全桦",
+        "ru": "俄罗斯进口全桦",
+        "zh": "俄罗斯进口全桦"
+      }
+    },
+    {
+      "name": {
+        "en": "扣型",
+        "ru": "扣型",
+        "zh": "扣型"
+      },
+      "value": {
+        "en": "平扣",
+        "ru": "平扣",
+        "zh": "平扣"
+      }
+    },
+    {
+      "name": {
+        "en": "认证",
+        "ru": "认证",
+        "zh": "认证"
+      },
+      "value": {
+        "en": "ENF",
+        "ru": "ENF",
+        "zh": "ENF"
+      }
+    }
+  ],
+  "is_featured": true
+}

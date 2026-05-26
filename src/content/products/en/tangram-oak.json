@@ -1,0 +1,98 @@
+{
+  "slug": "tangram-oak",
+  "title": {
+    "en": "Tangram — Oak Parquet",
+    "ru": "Танграм — Дубовый Паркет",
+    "zh": "七巧板 — 橡木拼花"
+  },
+  "category": "parquet-flooring",
+  "featured_image": "/images/uploads/products/parquet-8.png",
+  "gallery": [
+    "/images/uploads/products/parquet-8.png"
+  ],
+  "short_description": {
+    "en": "Special-shaped parquet series. Oak with Italian coating on Russian birch base. Puzzle-inspired design. ENF certified.",
+    "ru": "Паркет специальной формы из дуба. Дизайн в стиле головоломки. ENF.",
+    "zh": "异性拼花系列。橡木材质，七巧板设计，意式涂装，俄罗斯进口全桦基材。ENF认证。"
+  },
+  "body": {
+    "en": "## Tangram Oak Parquet\n\nPlayful tangram-inspired parquet in oak. Geometric puzzle pieces create unique floor art. Italian coating on Russian birch base.\n\n### Specifications\n- **Wood Species**: Oak\n- **Model**: Tangram\n- **Finish**: Italian Coating\n- **Base**: Russian Imported Birch\n- **Lock**: Flat Lock\n- **Certification**: ENF",
+    "ru": "## Танграм\n\nИгривый паркет в стиле танграм из дуба. Геометрические части создают уникальный дизайн пола.",
+    "zh": "## 七巧板 橡木拼花\n\n趣味七巧板橡木拼花。几何拼图设计，意式涂装工艺。打造独特地板艺术。\n\n### 产品参数\n- **木种**: 橡木\n- **型号**: 七巧板\n- **工艺**: 意式涂装\n- **基材**: 俄罗斯进口全桦\n- **扣型**: 平扣\n- **认证**: ENF"
+  },
+  "specs": [
+    {
+      "name": {
+        "en": "木种",
+        "ru": "木种",
+        "zh": "木种"
+      },
+      "value": {
+        "en": "橡木",
+        "ru": "橡木",
+        "zh": "橡木"
+      }
+    },
+    {
+      "name": {
+        "en": "型号",
+        "ru": "型号",
+        "zh": "型号"
+      },
+      "value": {
+        "en": "七巧板",
+        "ru": "七巧板",
+        "zh": "七巧板"
+      }
+    },
+    {
+      "name": {
+        "en": "工艺",
+        "ru": "工艺",
+        "zh": "工艺"
+      },
+      "value": {
+        "en": "意式涂装",
+        "ru": "意式涂装",
+        "zh": "意式涂装"
+      }
+    },
+    {
+      "name": {
+        "en": "基材",
+        "ru": "基材",
+        "zh": "基材"
+      },
+      "value": {
+        "en": "俄罗斯进口全桦",
+        "ru": "俄罗斯进口全桦",
+        "zh": "俄罗斯进口全桦"
+      }
+    },
+    {
+      "name": {
+        "en": "扣型",
+        "ru": "扣型",
+        "zh": "扣型"
+      },
+      "value": {
+        "en": "平扣",
+        "ru": "平扣",
+        "zh": "平扣"
+      }
+    },
+    {
+      "name": {
+        "en": "认证",
+        "ru": "认证",
+        "zh": "认证"
+      },
+      "value": {
+        "en": "ENF",
+        "ru": "ENF",
+        "zh": "ENF"
+      }
+    }
+  ],
+  "is_featured": true
+}

@@ -1,0 +1,7 @@
+[
+  { "name": "ISO 9001:2015", "image": "/images/uploads/certificates/iso9001.png", "issuer": "ISO", "order": 1 },
+  { "name": "ISO 14001:2015", "image": "/images/uploads/certificates/iso14001.png", "issuer": "ISO", "order": 2 },
+  { "name": "CE Marking", "image": "/images/uploads/certificates/ce-mark.png", "issuer": "European Union", "order": 3 },
+  { "name": "FSC Certification", "image": "/images/uploads/certificates/fsc.png", "issuer": "Forest Stewardship Council", "order": 4 },
+  { "name": "FloorScore", "image": "/images/uploads/certificates/floorscore.png", "issuer": "SCS Global Services", "order": 5 }
+]

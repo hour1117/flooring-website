@@ -1,0 +1,11 @@
+{
+  "slug": "parquet-flooring",
+  "title": { "en": "Parquet Flooring", "ar": "أرضيات باركيه", "es": "Piso de Parquet", "fr": "Parquet" },
+  "description": {
+    "en": "Elegant geometric patterns. Herringbone, chevron, and custom parquet designs for premium interiors.",
+    "ar": "أنماط هندسية أنيقة. تصميمات هيرنجبون وشيفرون وباركيه مخصصة للديكورات الفاخرة.",
+    "es": "Elegantes patrones geométricos. Diseños de espiga, chevron y parquet personalizado para interiores premium.",
+    "fr": "Élégants motifs géométriques. Designs à chevrons, chevron et parquet personnalisé pour intérieurs premium."
+  },
+  "order": 4
+}

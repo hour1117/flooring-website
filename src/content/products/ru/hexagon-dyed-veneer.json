@@ -1,0 +1,98 @@
+{
+  "slug": "hexagon-dyed-veneer",
+  "title": {
+    "en": "Hexagon — Dyed Veneer Parquet",
+    "ru": "Гексагон — Паркет из Крашеного Шпона",
+    "zh": "六边形 — 染色木皮拼花"
+  },
+  "category": "parquet-flooring",
+  "featured_image": "/images/uploads/products/parquet-3.png",
+  "gallery": [
+    "/images/uploads/products/parquet-3.png"
+  ],
+  "short_description": {
+    "en": "Special-shaped parquet series. Dyed wood veneer with Italian coating on Russian birch base. ENF certified.",
+    "ru": "Паркет специальной формы. Крашеный шпон с итальянским покрытием на российской березовой основе. ENF.",
+    "zh": "异性拼花系列。染色木皮材质，意式涂装，俄罗斯进口全桦基材。ENF认证。"
+  },
+  "body": {
+    "en": "## Hexagon Parquet\n\nUnique hexagon-shaped parquet with dyed wood veneer surface. Italian coating on Russian birch base creates a distinctive geometric pattern for modern interiors.\n\n### Specifications\n- **Wood Species**: Dyed Veneer\n- **Model**: Hexagon\n- **Finish**: Italian Coating\n- **Base**: Russian Imported Birch\n- **Lock**: Flat Lock\n- **Certification**: ENF",
+    "ru": "## Гексагон\n\nУникальный шестиугольный паркет с крашеным шпоном. Геометрический узор для современных интерьеров.",
+    "zh": "## 六边形 染色木皮拼花\n\n独特六边形拼花地板，染色木皮表面，意式涂装。几何图案设计，适用于现代风格空间。\n\n### 产品参数\n- **木种**: 染色木皮\n- **型号**: 六边形\n- **工艺**: 意式涂装\n- **基材**: 俄罗斯进口全桦\n- **扣型**: 平扣\n- **认证**: ENF"
+  },
+  "specs": [
+    {
+      "name": {
+        "en": "木种",
+        "ru": "木种",
+        "zh": "木种"
+      },
+      "value": {
+        "en": "染色木皮",
+        "ru": "染色木皮",
+        "zh": "染色木皮"
+      }
+    },
+    {
+      "name": {
+        "en": "型号",
+        "ru": "型号",
+        "zh": "型号"
+      },
+      "value": {
+        "en": "六边形",
+        "ru": "六边形",
+        "zh": "六边形"
+      }
+    },
+    {
+      "name": {
+        "en": "工艺",
+        "ru": "工艺",
+        "zh": "工艺"
+      },
+      "value": {
+        "en": "意式涂装",
+        "ru": "意式涂装",
+        "zh": "意式涂装"
+      }
+    },
+    {
+      "name": {
+        "en": "基材",
+        "ru": "基材",
+        "zh": "基材"
+      },
+      "value": {
+        "en": "俄罗斯进口全桦",
+        "ru": "俄罗斯进口全桦",
+        "zh": "俄罗斯进口全桦"
+      }
+    },
+    {
+      "name": {
+        "en": "扣型",
+        "ru": "扣型",
+        "zh": "扣型"
+      },
+      "value": {
+        "en": "平扣",
+        "ru": "平扣",
+        "zh": "平扣"
+      }
+    },
+    {
+      "name": {
+        "en": "认证",
+        "ru": "认证",
+        "zh": "认证"
+      },
+      "value": {
+        "en": "ENF",
+        "ru": "ENF",
+        "zh": "ENF"
+      }
+    }
+  ],
+  "is_featured": true
+}

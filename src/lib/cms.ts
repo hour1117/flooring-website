@@ -157,7 +157,7 @@ export function getAllSearchData(locale: Locale): SearchResult[] {
 
 // ---- Localized value helper ----
 export function localizedValue(
-  value: { en: string; ar: string; es: string; fr: string } | undefined,
+  value: { en: string; ru: string; zh?: string } | undefined,
   locale: Locale
 ): string {
   if (!value) return '';

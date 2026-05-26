@@ -1,0 +1,110 @@
+{
+  "slug": "annie-princess-walnut",
+  "title": {
+    "en": "Anne Princess — Walnut Parquet",
+    "ru": "Анна Принцесса — Ореховый Паркет",
+    "zh": "安妮公主 — 黑胡桃拼花"
+  },
+  "category": "parquet-flooring",
+  "featured_image": "/images/uploads/products/parquet-5.png",
+  "gallery": [
+    "/images/uploads/products/parquet-5.png"
+  ],
+  "short_description": {
+    "en": "Special-shaped parquet series. Black walnut with Italian coating on Russian birch base. 785×785mm. ENF certified.",
+    "ru": "Паркет специальной формы. Черный орех, 785×785мм, итальянское покрытие на российской березе. ENF.",
+    "zh": "异性拼花系列。黑胡桃材质，785×785mm，意式涂装，俄罗斯进口全桦基材。ENF认证。"
+  },
+  "body": {
+    "en": "## Anne Princess Walnut Parquet\n\nThe Anne Princess design in rich black walnut. Large 785×785mm format with Italian coating. A bold statement for grand interiors.\n\n### Specifications\n- **Wood Species**: Black Walnut\n- **Model**: Anne Princess\n- **Size**: 785×785mm\n- **Finish**: Italian Coating\n- **Base**: Russian Imported Birch\n- **Lock**: Flat Lock\n- **Certification**: ENF",
+    "ru": "## Анна Принцесса\n\nДизайн Анна Принцесса из черного ореха. Крупный формат 785×785мм с итальянским покрытием.",
+    "zh": "## 安妮公主 黑胡桃拼花\n\n安妮公主黑胡桃拼花。大规格785×785mm，意式涂装工艺。适合大空间豪宅。\n\n### 产品参数\n- **木种**: 黑胡桃\n- **型号**: 安妮公主\n- **规格**: 785×785mm\n- **工艺**: 意式涂装\n- **基材**: 俄罗斯进口全桦\n- **扣型**: 平扣\n- **认证**: ENF"
+  },
+  "specs": [
+    {
+      "name": {
+        "en": "木种",
+        "ru": "木种",
+        "zh": "木种"
+      },
+      "value": {
+        "en": "黑胡桃",
+        "ru": "黑胡桃",
+        "zh": "黑胡桃"
+      }
+    },
+    {
+      "name": {
+        "en": "型号",
+        "ru": "型号",
+        "zh": "型号"
+      },
+      "value": {
+        "en": "安妮公主",
+        "ru": "安妮公主",
+        "zh": "安妮公主"
+      }
+    },
+    {
+      "name": {
+        "en": "规格",
+        "ru": "规格",
+        "zh": "规格"
+      },
+      "value": {
+        "en": "785×785mm",
+        "ru": "785×785mm",
+        "zh": "785×785mm"
+      }
+    },
+    {
+      "name": {
+        "en": "工艺",
+        "ru": "工艺",
+        "zh": "工艺"
+      },
+      "value": {
+        "en": "意式涂装",
+        "ru": "意式涂装",
+        "zh": "意式涂装"
+      }
+    },
+    {
+      "name": {
+        "en": "基材",
+        "ru": "基材",
+        "zh": "基材"
+      },
+      "value": {
+        "en": "俄罗斯进口全桦",
+        "ru": "俄罗斯进口全桦",
+        "zh": "俄罗斯进口全桦"
+      }
+    },
+    {
+      "name": {
+        "en": "扣型",
+        "ru": "扣型",
+        "zh": "扣型"
+      },
+      "value": {
+        "en": "平扣",
+        "ru": "平扣",
+        "zh": "平扣"
+      }
+    },
+    {
+      "name": {
+        "en": "认证",
+        "ru": "认证",
+        "zh": "认证"
+      },
+      "value": {
+        "en": "ENF",
+        "ru": "ENF",
+        "zh": "ENF"
+      }
+    }
+  ],
+  "is_featured": true
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "dubai-hotel-project",
+  "title": {
+    "en": "Dubai Five-Star Hotel - 15,000 sqm SPC Flooring Installation",
+    "ar": "فندق دبي خمس نجوم - تركيب 15,000 متر مربع من أرضيات SPC",
+    "es": "Hotel Cinco Estrellas Dubái - Instalación de 15,000 m² de Piso SPC",
+    "fr": "Hôtel Cinq Étoiles Dubaï - Installation de 15 000 m² de Revêtement SPC"
+  },
+  "location": "Dubai, UAE",
+  "completion_date": "2025-03-10",
+  "featured_image": "/images/uploads/projects/dubai-hotel-main.jpg",
+  "gallery": [
+    "/images/uploads/projects/dubai-hotel-1.jpg",
+    "/images/uploads/projects/dubai-hotel-2.jpg",
+    "/images/uploads/projects/dubai-hotel-3.jpg"
+  ],
+  "body": {
+    "en": "## Project Overview\n\nSupplied and installed 15,000 square meters of premium SPC herringbone flooring for a luxury five-star hotel in Dubai Marina.\n\n### Project Details\n- **Product:** SPC Herringbone - Golden Oak\n- **Area:** 15,000 sqm (guest rooms, corridors, lobby)\n- **Duration:** 4 months\n- **Challenge:** Complex herringbone pattern installation requiring precise alignment\n\n### Results\n- Zero material defects reported\n- Completed 2 weeks ahead of schedule\n- Hotel management commended the acoustic performance and luxury appearance",
+    "ar": "## نظرة عامة على المشروع\n\nتوريد وتركيب 15,000 متر مربع من أرضيات SPC هيرنجبون الفاخرة لفندق خمس نجوم فاخر في دبي مارينا.",
+    "es": "## Resumen del Proyecto\n\nSuministro e instalación de 15,000 metros cuadrados de piso SPC espiga premium para un hotel de lujo cinco estrellas en Dubái Marina.",
+    "fr": "## Aperçu du Projet\n\nFourniture et installation de 15 000 mètres carrés de revêtement SPC chevrons premium pour un hôtel de luxe cinq étoiles à Dubaï Marina."
+  },
+  "products_used": ["parquet-flooring-oak"]
+}

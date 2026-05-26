@@ -1,0 +1,110 @@
+{
+  "nav": {
+    "home": "首页",
+    "products": "产品",
+    "about": "关于我们",
+    "oem": "OEM/ODM",
+    "projects": "项目",
+    "blog": "博客",
+    "contact": "联系",
+    "search": "搜索",
+    "categories": "分类",
+    "allProducts": "全部产品",
+    "language": "语言"
+  },
+  "home": {
+    "heroTitle": "高级拼花地板",
+    "heroSubtitle": "自2003年精工制造。人字拼、鱼骨拼和定制图案，打造卓越室内空间。",
+    "heroCta1": "浏览产品",
+    "heroCta2": "联系我们",
+    "categoriesTitle": "产品分类",
+    "bestSellersTitle": "热销产品",
+    "aboutTitle": "关于我们",
+    "aboutCta": "了解更多",
+    "certificatesTitle": "认证",
+    "newsTitle": "最新动态",
+    "ctaTitle": "准备开始您的项目？",
+    "ctaButton": "获取报价",
+    "viewAll": "查看全部"
+  },
+  "products": {
+    "title": "产品中心",
+    "searchPlaceholder": "搜索产品...",
+    "allCategories": "全部分类",
+    "noProducts": "未找到产品",
+    "specifications": "规格参数",
+    "relatedProducts": "相关产品",
+    "downloadPDF": "下载规格书",
+    "watchVideo": "观看视频",
+    "inquireNow": "立即询价",
+    "category": "分类",
+    "filterBy": "筛选"
+  },
+  "about": {
+    "title": "关于我们",
+    "companyIntro": "公司介绍",
+    "factoryInfo": "我们的工厂",
+    "teamSection": "我们的团队",
+    "videoTitle": "公司视频"
+  },
+  "oem": {
+    "title": "OEM/ODM服务",
+    "intro": "定制生产解决方案",
+    "process": "我们的流程",
+    "capabilities": "我们的能力"
+  },
+  "projects": {
+    "title": "项目案例",
+    "location": "地点",
+    "productsUsed": "使用产品",
+    "viewProject": "查看项目"
+  },
+  "blog": {
+    "title": "博客与新闻",
+    "readMore": "阅读更多",
+    "categories": "分类",
+    "recentPosts": "最新文章",
+    "tags": "标签",
+    "shareArticle": "分享文章",
+    "publishedOn": "发布于"
+  },
+  "contact": {
+    "title": "联系我们",
+    "subtitle": "与我们的团队取得联系",
+    "whatsapp": "WhatsApp",
+    "email": "邮箱",
+    "phone": "电话",
+    "address": "地址",
+    "formTitle": "发送消息",
+    "name": "您的姓名",
+    "emailField": "您的邮箱",
+    "phoneField": "您的电话",
+    "company": "公司名称",
+    "message": "您的消息",
+    "submit": "发送消息",
+    "submitSuccess": "谢谢！我们会在24小时内回复您。",
+    "submitError": "出了点问题，请直接发邮件给我们。"
+  },
+  "search": {
+    "title": "搜索结果",
+    "placeholder": "搜索产品、文章、项目...",
+    "noResults": "未找到结果",
+    "productsTab": "产品",
+    "blogTab": "文章",
+    "projectsTab": "项目"
+  },
+  "footer": {
+    "quickLinks": "快速链接",
+    "products": "产品",
+    "services": "服务",
+    "contactInfo": "联系方式",
+    "followUs": "关注我们",
+    "copyright": "版权所有。"
+  },
+  "common": {
+    "backToTop": "返回顶部",
+    "loading": "加载中...",
+    "error": "出了点问题",
+    "home": "首页"
+  }
+}
