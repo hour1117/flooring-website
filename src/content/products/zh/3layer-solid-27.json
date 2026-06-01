@@ -14,12 +14,12 @@
     "/images/uploads/parquet/3layer-solid/3layer-solid-5.png"
   ],
   "short_description": {
-    "en": "型号: QN-41, 树种: 黑胡桃, 环保: ENF 级, 等级: CDEF, 规格: 1900*192*15/3.0, 芯材: 进口芬兰云杉芯, 槽口: 四边大锁扣, 工艺: 手工浮雕・结巴裂缝",
-    "ru": "型号: QN-41, 树种: 黑胡桃, 环保: ENF 级, 等级: CDEF, 规格: 1900*192*15/3.0, 芯材: 进口芬兰云杉芯, 槽口: 四边大锁扣, 工艺: 手工浮雕・结巴裂缝",
-    "zh": "型号：QN-41，树种：黑胡桃，环保：ENF 级，等级：CDEF，规格：1900*192*15/3.0，芯材：进口芬兰云杉芯，槽口：四边大锁扣，工艺：手工浮雕・结巴裂缝",
-    "es": "型号: QN-41, 树种: 黑胡桃, 环保: ENF 级, 等级: CDEF, 规格: 1900*192*15/3.0, 芯材: 进口芬兰云杉芯, 槽口: 四边大锁扣, 工艺: 手工浮雕・结巴裂缝",
-    "fr": "型号: QN-41, 树种: 黑胡桃, 环保: ENF 级, 等级: CDEF, 规格: 1900*192*15/3.0, 芯材: 进口芬兰云杉芯, 槽口: 四边大锁扣, 工艺: 手工浮雕・结巴裂缝",
-    "pt": "型号: QN-41, 树种: 黑胡桃, 环保: ENF 级, 等级: CDEF, 规格: 1900*192*15/3.0, 芯材: 进口芬兰云杉芯, 槽口: 四边大锁扣, 工艺: 手工浮雕・结巴裂缝"
+    "en": "Model: QN-41 | Wood Species: 黑胡桃 | Eco Standard: ENF 级 | Grade: CDEF | Size: 1900*192*15/3.0 | Core Material: 进口芬兰云杉芯 | Lock Type: 四边大锁扣 | Finish: 手工浮雕・结巴裂缝",
+    "ru": "Модель: QN-41 | Порода: 黑胡桃 | Эко: ENF 级 | Сорт: CDEF | Размер: 1900*192*15/3.0 | Сердцевина: 进口芬兰云杉芯 | Замок: 四边大锁扣 | Отделка: 手工浮雕・结巴裂缝",
+    "zh": "型号：QN-41 | 树种：黑胡桃 | 环保：ENF 级 | 等级：CDEF | 规格：1900*192*15/3.0 | 芯材：进口芬兰云杉芯 | 槽口：四边大锁扣 | 工艺：手工浮雕・结巴裂缝",
+    "es": "Modelo: QN-41 | Especie: 黑胡桃 | Estándar Eco: ENF 级 | Grado: CDEF | Tamaño: 1900*192*15/3.0 | Núcleo: 进口芬兰云杉芯 | Cierre: 四边大锁扣 | Acabado: 手工浮雕・结巴裂缝",
+    "fr": "Modèle: QN-41 | Essence: 黑胡桃 | Norme Éco: ENF 级 | Grade: CDEF | Taille: 1900*192*15/3.0 | Âme: 进口芬兰云杉芯 | Verrou: 四边大锁扣 | Finition: 手工浮雕・结巴裂缝",
+    "pt": "Modelo: QN-41 | Espécie: 黑胡桃 | Padrão Eco: ENF 级 | Grau: CDEF | Tamanho: 1900*192*15/3.0 | Núcleo: 进口芬兰云杉芯 | Fecho: 四边大锁扣 | Acabamento: 手工浮雕・结巴裂缝"
   },
   "body": {
     "en": "",
@@ -32,12 +32,12 @@
   "specs": [
     {
       "name": {
-        "en": "型号",
-        "ru": "型号",
+        "en": "Model",
+        "ru": "Модель",
         "zh": "型号",
-        "es": "型号",
-        "fr": "型号",
-        "pt": "型号"
+        "es": "Modelo",
+        "fr": "Modèle",
+        "pt": "Modelo"
       },
       "value": {
         "en": "QN-41",
@@ -50,12 +50,12 @@
     },
     {
       "name": {
-        "en": "树种",
-        "ru": "树种",
+        "en": "Wood Species",
+        "ru": "Порода",
         "zh": "树种",
-        "es": "树种",
-        "fr": "树种",
-        "pt": "树种"
+        "es": "Especie",
+        "fr": "Essence",
+        "pt": "Espécie"
       },
       "value": {
         "en": "黑胡桃",
@@ -68,12 +68,12 @@
     },
     {
       "name": {
-        "en": "环保",
-        "ru": "环保",
+        "en": "Eco Standard",
+        "ru": "Эко",
         "zh": "环保",
-        "es": "环保",
-        "fr": "环保",
-        "pt": "环保"
+        "es": "Estándar Eco",
+        "fr": "Norme Éco",
+        "pt": "Padrão Eco"
       },
       "value": {
         "en": "ENF 级",
@@ -86,12 +86,12 @@
     },
     {
       "name": {
-        "en": "等级",
-        "ru": "等级",
+        "en": "Grade",
+        "ru": "Сорт",
         "zh": "等级",
-        "es": "等级",
-        "fr": "等级",
-        "pt": "等级"
+        "es": "Grado",
+        "fr": "Grade",
+        "pt": "Grau"
       },
       "value": {
         "en": "CDEF",
@@ -104,12 +104,12 @@
     },
     {
       "name": {
-        "en": "规格",
-        "ru": "规格",
+        "en": "Size",
+        "ru": "Размер",
         "zh": "规格",
-        "es": "规格",
-        "fr": "规格",
-        "pt": "规格"
+        "es": "Tamaño",
+        "fr": "Taille",
+        "pt": "Tamanho"
       },
       "value": {
         "en": "1900*192*15/3.0",
@@ -122,12 +122,12 @@
     },
     {
       "name": {
-        "en": "芯材",
-        "ru": "芯材",
+        "en": "Core Material",
+        "ru": "Сердцевина",
         "zh": "芯材",
-        "es": "芯材",
-        "fr": "芯材",
-        "pt": "芯材"
+        "es": "Núcleo",
+        "fr": "Âme",
+        "pt": "Núcleo"
       },
       "value": {
         "en": "进口芬兰云杉芯",
@@ -140,12 +140,12 @@
     },
     {
       "name": {
-        "en": "槽口",
-        "ru": "槽口",
+        "en": "Lock Type",
+        "ru": "Замок",
         "zh": "槽口",
-        "es": "槽口",
-        "fr": "槽口",
-        "pt": "槽口"
+        "es": "Cierre",
+        "fr": "Verrou",
+        "pt": "Fecho"
       },
       "value": {
         "en": "四边大锁扣",
@@ -158,12 +158,12 @@
     },
     {
       "name": {
-        "en": "工艺",
-        "ru": "工艺",
+        "en": "Finish",
+        "ru": "Отделка",
         "zh": "工艺",
-        "es": "工艺",
-        "fr": "工艺",
-        "pt": "工艺"
+        "es": "Acabado",
+        "fr": "Finition",
+        "pt": "Acabamento"
       },
       "value": {
         "en": "手工浮雕・结巴裂缝",

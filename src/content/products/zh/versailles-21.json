@@ -14,12 +14,12 @@
     "/images/uploads/parquet/versailles/versailles-6.png"
   ],
   "short_description": {
-    "en": "型号: 风车凡尔赛拼花, 基材: 全桦基材, 树皮: 橡木, 工艺: UV漆 拉丝勾线, 槽口: 平扣, 规格: 600x600X15/1.2mm, 等级: AB",
-    "ru": "型号: 风车凡尔赛拼花, 基材: 全桦基材, 树皮: 橡木, 工艺: UV漆 拉丝勾线, 槽口: 平扣, 规格: 600x600X15/1.2mm, 等级: AB",
-    "zh": "型号：风车凡尔赛拼花，基材：全桦基材，树皮：橡木，工艺：UV漆 拉丝勾线，槽口：平扣，规格：600x600X15/1.2mm，等级：AB",
-    "es": "型号: 风车凡尔赛拼花, 基材: 全桦基材, 树皮: 橡木, 工艺: UV漆 拉丝勾线, 槽口: 平扣, 规格: 600x600X15/1.2mm, 等级: AB",
-    "fr": "型号: 风车凡尔赛拼花, 基材: 全桦基材, 树皮: 橡木, 工艺: UV漆 拉丝勾线, 槽口: 平扣, 规格: 600x600X15/1.2mm, 等级: AB",
-    "pt": "型号: 风车凡尔赛拼花, 基材: 全桦基材, 树皮: 橡木, 工艺: UV漆 拉丝勾线, 槽口: 平扣, 规格: 600x600X15/1.2mm, 等级: AB"
+    "en": "Model: 风车凡尔赛拼花 | Core: 全桦基材 | Wood Veneer: 橡木 | Finish: UV漆 拉丝勾线 | Lock Type: 平扣 | Size: 600x600X15/1.2mm | Grade: AB",
+    "ru": "Модель: 风车凡尔赛拼花 | Основа: 全桦基材 | Шпон: 橡木 | Отделка: UV漆 拉丝勾线 | Замок: 平扣 | Размер: 600x600X15/1.2mm | Сорт: AB",
+    "zh": "型号：风车凡尔赛拼花 | 基材：全桦基材 | 树皮：橡木 | 工艺：UV漆 拉丝勾线 | 槽口：平扣 | 规格：600x600X15/1.2mm | 等级：AB",
+    "es": "Modelo: 风车凡尔赛拼花 | Base: 全桦基材 | Chapa: 橡木 | Acabado: UV漆 拉丝勾线 | Cierre: 平扣 | Tamaño: 600x600X15/1.2mm | Grado: AB",
+    "fr": "Modèle: 风车凡尔赛拼花 | Base: 全桦基材 | Placage: 橡木 | Finition: UV漆 拉丝勾线 | Verrou: 平扣 | Taille: 600x600X15/1.2mm | Grade: AB",
+    "pt": "Modelo: 风车凡尔赛拼花 | Base: 全桦基材 | Folheado: 橡木 | Acabamento: UV漆 拉丝勾线 | Fecho: 平扣 | Tamanho: 600x600X15/1.2mm | Grau: AB"
   },
   "body": {
     "en": "",
@@ -32,12 +32,12 @@
   "specs": [
     {
       "name": {
-        "en": "型号",
-        "ru": "型号",
+        "en": "Model",
+        "ru": "Модель",
         "zh": "型号",
-        "es": "型号",
-        "fr": "型号",
-        "pt": "型号"
+        "es": "Modelo",
+        "fr": "Modèle",
+        "pt": "Modelo"
       },
       "value": {
         "en": "风车凡尔赛拼花",
@@ -50,12 +50,12 @@
     },
     {
       "name": {
-        "en": "基材",
-        "ru": "基材",
+        "en": "Core",
+        "ru": "Основа",
         "zh": "基材",
-        "es": "基材",
-        "fr": "基材",
-        "pt": "基材"
+        "es": "Base",
+        "fr": "Base",
+        "pt": "Base"
       },
       "value": {
         "en": "全桦基材",
@@ -68,12 +68,12 @@
     },
     {
       "name": {
-        "en": "树皮",
-        "ru": "树皮",
+        "en": "Wood Veneer",
+        "ru": "Шпон",
         "zh": "树皮",
-        "es": "树皮",
-        "fr": "树皮",
-        "pt": "树皮"
+        "es": "Chapa",
+        "fr": "Placage",
+        "pt": "Folheado"
       },
       "value": {
         "en": "橡木",
@@ -86,12 +86,12 @@
     },
     {
       "name": {
-        "en": "工艺",
-        "ru": "工艺",
+        "en": "Finish",
+        "ru": "Отделка",
         "zh": "工艺",
-        "es": "工艺",
-        "fr": "工艺",
-        "pt": "工艺"
+        "es": "Acabado",
+        "fr": "Finition",
+        "pt": "Acabamento"
       },
       "value": {
         "en": "UV漆 拉丝勾线",
@@ -104,12 +104,12 @@
     },
     {
       "name": {
-        "en": "槽口",
-        "ru": "槽口",
+        "en": "Lock Type",
+        "ru": "Замок",
         "zh": "槽口",
-        "es": "槽口",
-        "fr": "槽口",
-        "pt": "槽口"
+        "es": "Cierre",
+        "fr": "Verrou",
+        "pt": "Fecho"
       },
       "value": {
         "en": "平扣",
@@ -122,12 +122,12 @@
     },
     {
       "name": {
-        "en": "规格",
-        "ru": "规格",
+        "en": "Size",
+        "ru": "Размер",
         "zh": "规格",
-        "es": "规格",
-        "fr": "规格",
-        "pt": "规格"
+        "es": "Tamaño",
+        "fr": "Taille",
+        "pt": "Tamanho"
       },
       "value": {
         "en": "600x600X15/1.2mm",
@@ -140,12 +140,12 @@
     },
     {
       "name": {
-        "en": "等级",
-        "ru": "等级",
+        "en": "Grade",
+        "ru": "Сорт",
         "zh": "等级",
-        "es": "等级",
-        "fr": "等级",
-        "pt": "等级"
+        "es": "Grado",
+        "fr": "Grade",
+        "pt": "Grau"
       },
       "value": {
         "en": "AB",
