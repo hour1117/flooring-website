@@ -1,0 +1,20 @@
+{
+  "slug": "herringbone",
+  "title": {
+    "en": "Herringbone",
+    "ru": "Ёлочка",
+    "zh": "人字拼",
+    "es": "Espiga",
+    "fr": "Chevron",
+    "pt": "Espinha"
+  },
+  "description": {
+    "en": "Herringbone parquet flooring",
+    "ru": "Паркет Ёлочка",
+    "zh": "人字拼拼花地板",
+    "es": "Parquet Espiga",
+    "fr": "Parquet Chevron",
+    "pt": "Parquet Espinha"
+  },
+  "order": 1
+}

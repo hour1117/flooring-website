@@ -7,7 +7,7 @@ import type { SiteSettings, Category } from '@/types';
 import { localizedValue } from '@/lib/utils';
 import LanguageSwitcher from './LanguageSwitcher';
 
-interface Props { locale: 'en' | 'ru' | 'zh';
+interface Props { locale: any;
   settings: SiteSettings;
   categories: Category[];
 }
@@ -15,6 +15,9 @@ interface Props { locale: 'en' | 'ru' | 'zh';
 const navLabels: Record<string, Record<string, string>> = {
   en: { home: 'Home', products: 'Products', about: 'About', oem: 'OEM/ODM', projects: 'Projects', blog: 'Blog', contact: 'Contact' },
   ru: { home: 'Главная', products: 'Продукция', about: 'О Нас', oem: 'OEM/ODM', projects: 'Проекты', blog: 'Блог', contact: 'Контакты' },
+  es: { home: 'Inicio', products: 'Productos', about: 'Nosotros', oem: 'OEM/ODM', projects: 'Proyectos', blog: 'Blog', contact: 'Contacto' },
+  fr: { home: 'Accueil', products: 'Produits', about: 'À Propos', oem: 'OEM/ODM', projects: 'Projets', blog: 'Blog', contact: 'Contact' },
+  pt: { home: 'Início', products: 'Produtos', about: 'Sobre', oem: 'OEM/ODM', projects: 'Projetos', blog: 'Blog', contact: 'Contato' },
   zh: { home: '首页', products: '产品', about: '关于我们', oem: 'OEM/ODM', projects: '项目', blog: '博客', contact: '联系' },
 };
 
@@ -30,7 +33,7 @@ export default function Header({ locale, settings, categories }: Props) {
     return () => window.removeEventListener('scroll', onScroll);
   }, []);
 
-  const isTransparent = !scrolled && (pathname === '/en' || pathname === '/ru' || pathname === '/zh' || pathname === '/');
+  const isTransparent = !scrolled && (pathname === '/en' || pathname === '/ru' || pathname === '/zh' || pathname === '/es' || pathname === '/fr' || pathname === '/pt' || pathname === '/');
 
   return (
     <header className={`fixed top-0 start-0 end-0 z-50 transition-all duration-500 ${
@@ -53,21 +56,38 @@ export default function Header({ locale, settings, categories }: Props) {
 
         {/* Desktop nav */}
         <nav className="hidden lg:flex items-center gap-8">
-          {(['home', 'products', 'about', 'oem', 'projects', 'blog', 'contact'] as const).map((key) => {
+          {(['home', 'products', 'about', 'oem', 'contact'] as const).map((key) => {
             const href = key === 'home' ? '/' : key === 'products' ? '/products' : `/${key === 'oem' ? 'oem-odm' : key}`;
-            const isActive = key === 'home' ? pathname === '/en' || pathname === '/ru' || pathname === '/zh' : pathname.startsWith(href) && href !== '/';
+            const isActive = key === 'home' ? pathname.replace(/^\/(en|ru|zh|es|fr|pt)/, '/') === '/' : pathname.startsWith(href) && href !== '/';
 
             if (key === 'products') {
               return (
-                <Link
-                  key={key}
-                  href="/products"
-                  className={`text-xs font-extralight tracking-[0.15em] uppercase transition-colors ${
-                    isActive ? 'opacity-100' : 'opacity-50 hover:opacity-100'
-                  }`}
-                >
-                  {navLabels[locale]?.products || 'Products'}
-                </Link>
+                <div key={key} className="relative" onMouseEnter={() => setProductsOpen(true)} onMouseLeave={() => setProductsOpen(false)}>
+                  <Link
+                    href="/products"
+                    className={`flex items-center gap-1 text-xs font-extralight tracking-[0.15em] uppercase transition-colors ${
+                      isActive ? 'opacity-100' : 'opacity-50 hover:opacity-100'
+                    }`}
+                  >
+                    {navLabels[locale]?.products || 'Products'}
+                    <ChevronDown className={`h-3 w-3 transition-transform ${productsOpen ? 'rotate-180' : ''}`} />
+                  </Link>
+                  {productsOpen && (
+                    <div className="absolute start-1/2 -translate-x-1/2 top-full pt-3 w-56">
+                      <div className="rounded-2xl bg-white shadow-xl ring-1 ring-black/5 overflow-hidden py-2">
+                        <Link href="/products" onClick={() => setProductsOpen(false)} className="block px-5 py-2.5 text-sm text-black hover:bg-neutral-50 transition-colors font-medium">
+                          {locale === 'en' ? 'All Products' : locale === 'ru' ? 'Все Продукты' : locale === 'es' ? 'Todos' : locale === 'fr' ? 'Tout' : locale === 'pt' ? 'Todos' : '全部产品'}
+                        </Link>
+                        <div className="mx-4 my-1 border-t border-neutral-100" />
+                        {categories.map((cat) => (
+                          <Link key={cat.slug} href={`/categories/${cat.slug}`} onClick={() => setProductsOpen(false)} className="block px-5 py-2.5 text-sm text-neutral-600 hover:text-black hover:bg-neutral-50 transition-colors">
+                            {localizedValue(cat.title, locale)}
+                          </Link>
+                        ))}
+                      </div>
+                    </div>
+                  )}
+                </div>
               );
             }
 
@@ -101,7 +121,7 @@ export default function Header({ locale, settings, categories }: Props) {
       {mobileOpen && (
         <div className="lg:hidden bg-white text-black border-t border-neutral-100">
           <div className="container-custom py-4 space-y-1">
-            {['home', 'products', 'about', 'oem', 'projects', 'blog', 'contact'].map((key) => (
+            {['home', 'products', 'about', 'oem', 'contact'].map((key) => (
               <Link
                 key={key}
                 href={key === 'home' ? '/' : key === 'products' ? '/products' : `/${key === 'oem' ? 'oem-odm' : key}`}

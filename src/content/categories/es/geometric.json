@@ -1,0 +1,20 @@
+{
+  "slug": "geometric",
+  "title": {
+    "en": "Geometric",
+    "ru": "Геометрический",
+    "zh": "几何拼",
+    "es": "Geométrico",
+    "fr": "Géométrique",
+    "pt": "Geométrico"
+  },
+  "description": {
+    "en": "Geometric parquet flooring",
+    "ru": "Паркет Геометрический",
+    "zh": "几何拼拼花地板",
+    "es": "Parquet Geométrico",
+    "fr": "Parquet Géométrique",
+    "pt": "Parquet Geométrico"
+  },
+  "order": 2
+}

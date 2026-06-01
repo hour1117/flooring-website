@@ -1,0 +1,20 @@
+{
+  "slug": "versailles",
+  "title": {
+    "en": "Versailles",
+    "ru": "Версаль",
+    "zh": "凡尔赛",
+    "es": "Versalles",
+    "fr": "Versailles",
+    "pt": "Versalhes"
+  },
+  "description": {
+    "en": "Versailles parquet flooring",
+    "ru": "Паркет Версаль",
+    "zh": "凡尔赛拼花地板",
+    "es": "Parquet Versalles",
+    "fr": "Parquet Versailles",
+    "pt": "Parquet Versalhes"
+  },
+  "order": 3
+}

@@ -9,6 +9,9 @@ export async function generateMetadata(): Promise<Metadata> { return { title: 'S
 
 const labels: Record<string, Record<string, string>> = {
   en: { title: 'Search', placeholder: 'Search...', noResults: 'No results for', results: 'results' },
+  es: { title: 'Buscar', placeholder: 'Buscar...', noResults: 'Sin resultados', results: 'resultados' },
+  fr: { title: 'Rechercher', placeholder: 'Rechercher...', noResults: 'Aucun résultat', results: 'résultats' },
+  pt: { title: 'Buscar', placeholder: 'Buscar...', noResults: 'Sem resultados', results: 'resultados' },
   ru: { title: 'Поиск', placeholder: 'Поиск...', noResults: 'Ничего не найдено для', results: 'результатов' },
   zh: { title: '搜索', placeholder: '搜索...', noResults: '未找到', results: '结果' },
 };

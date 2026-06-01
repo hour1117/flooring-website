@@ -3,12 +3,15 @@ import type { SiteSettings, Category } from '@/types';
 import { localizedValue } from '@/lib/utils';
 
 interface Props {
-  locale: 'en' | 'ru' | 'zh';
+  locale: any;
   settings: SiteSettings;
   categories: Category[];
 }
 
 const footerLabels: Record<string, Record<string, string>> = {
+  es: { products: 'Colecciones', contact: 'Contacto', followUs: 'Síguenos' },
+  fr: { products: 'Collections', contact: 'Contact', followUs: 'Suivez-nous' },
+  pt: { products: 'Coleções', contact: 'Contato', followUs: 'Siga-nos' },
   zh: { products: '产品系列', contact: '联系', followUs: '关注我们' },
   en: { products: 'Collections', contact: 'Contact', followUs: 'Follow Us' },
   ru: { products: 'Коллекции', contact: 'Контакты', followUs: 'Подписывайтесь' },
@@ -22,7 +25,7 @@ export default function Footer({ locale, settings, categories }: Props) {
       <div className="container-custom py-20 md:py-28">
         <div className="grid gap-16 md:grid-cols-4">
           <div className="md:col-span-2">
-            <img src="/images/logo.png" alt={localizedValue(settings.company_name, locale)} className="h-24 md:h-32 w-auto" />
+            <img src="/images/logo-footer.png" alt={localizedValue(settings.company_name, locale)} className="h-24 md:h-32 w-auto" />
             <p className="mt-6 max-w-sm text-sm font-light text-neutral-400">
               {localizedValue(settings.site_description, locale)}
             </p>

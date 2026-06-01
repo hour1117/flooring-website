@@ -2,17 +2,26 @@
   "site_title": {
     "en": "Liwin Flooring | Premium Parquet Manufacturer",
     "ru": "Liwin Flooring | Производитель Паркета",
-    "zh": "Liwin Flooring | 高级拼花地板制造商"
+    "zh": "Liwin Flooring | 高级拼花地板制造商",
+    "es": "Liwin Flooring | Fabricante Premium de Parquet",
+    "fr": "Liwin Flooring | Fabricant Premium de Parquet",
+    "pt": "Liwin Flooring | Fabricante Premium de Parquet"
   },
   "site_description": {
     "en": "Professional parquet flooring manufacturer with 15 years of export experience. Serving 20+ countries worldwide.",
     "ru": "Профессиональный производитель паркета с 15-летним экспортным опытом. Обслуживаем 20+ стран.",
-    "zh": "专业拼花地板制造商，15年出口经验，服务全球20+国家。"
+    "zh": "专业拼花地板制造商，15年出口经验，服务全球20+国家。",
+    "es": "Fabricante profesional de parquet con 15 años de experiencia exportando a más de 20 países.",
+    "fr": "Fabricant professionnel de parquet avec 15 ans d'expérience exportant vers plus de 20 pays.",
+    "pt": "Fabricante profissional de parquet com 15 anos de experiência exportando para mais de 20 países."
   },
   "company_name": {
     "en": "Liwin Flooring",
     "ru": "Liwin Flooring",
-    "zh": "Liwin Flooring"
+    "zh": "Liwin Flooring",
+    "es": "Liwin Flooring",
+    "fr": "Liwin Flooring",
+    "pt": "Liwin Flooring"
   },
   "email": "info@floorpro-flooring.com",
   "phone": "+86-571-8888-9999",
@@ -20,7 +29,10 @@
   "address": {
     "en": "No. 88, Flooring Industrial Park, Changzhou, Jiangsu, China",
     "ru": "No. 88, Промышленный Парк Напольных Покрытий, Чанчжоу, Цзянсу, Китай",
-    "zh": "中国江苏省常州市地板工业园88号"
+    "zh": "中国江苏省常州市地板工业园88号",
+    "es": "No. 88, Parque Industrial de Pisos, Changzhou, Jiangsu, China",
+    "fr": "No. 88, Parc Industriel du Revêtement, Changzhou, Jiangsu, Chine",
+    "pt": "No. 88, Parque Industrial de Pisos, Changzhou, Jiangsu, China"
   },
   "maps_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3336.1234567890!2d119.123456!3d31.123456!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzHCsDA3JzI0LjQiTiAxMTnCsDA3JzI0LjQiRQ!5e0!3m2!1sen!2sus!4v1234567890",
   "social": {

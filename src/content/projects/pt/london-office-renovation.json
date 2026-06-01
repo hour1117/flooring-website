@@ -1,0 +1,23 @@
+{
+  "slug": "london-office-renovation",
+  "title": {
+    "en": "London Office Tower - 8,000 sqm Engineered Wood Flooring",
+    "ar": "برج مكاتب لندن - 8,000 متر مربع من أرضيات الخشب الهندسي",
+    "es": "Torre de Oficinas Londres - 8,000 m² de Piso de Madera Ingeniería",
+    "fr": "Tour de Bureaux Londres - 8 000 m² de Parquet Bois d'Ingénierie"
+  },
+  "location": "London, UK",
+  "completion_date": "2025-01-22",
+  "featured_image": "/images/uploads/projects/london-office-main.jpg",
+  "gallery": [
+    "/images/uploads/projects/london-office-1.jpg",
+    "/images/uploads/projects/london-office-2.jpg"
+  ],
+  "body": {
+    "en": "## Project Overview\n\nPremium engineered oak flooring supplied for a major office renovation in central London. Wide plank design created a modern, open atmosphere.\n\n### Project Details\n- **Product:** Engineered Oak - 190mm Wide Plank\n- **Area:** 8,000 sqm (executive floors, meeting rooms, boardrooms)\n- **Duration:** 3 months\n\n### Results\n- Exceeded acoustic insulation requirements\n- Client requested additional supply for phase 2 expansion",
+    "ar": "## نظرة عامة على المشروع\n\nتوريد أرضيات خشب هندسي بلوط فاخر لتجديد مكتب كبير في وسط لندن.",
+    "es": "## Resumen del Proyecto\n\nSuministro de piso de madera de ingeniería roble premium para una importante renovación de oficinas en el centro de Londres.",
+    "fr": "## Aperçu du Projet\n\nFourniture de parquet bois d'ingénierie chêne premium pour une rénovation majeure de bureaux dans le centre de Londres."
+  },
+  "products_used": ["parquet-flooring-walnut"]
+}

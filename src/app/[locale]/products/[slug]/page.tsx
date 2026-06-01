@@ -31,10 +31,10 @@ export default function ProductDetailPage({ params }: Props) {
   const relatedProducts = (product.related_products || []).map((slug: string) => allProducts.find((p) => p.slug === slug)).filter(Boolean);
   return (
     <div className="section-padding"><div className="container-custom">
-      <Link href="/products" className="mb-6 inline-flex items-center gap-1 text-sm text-neutral-400 hover:text-black transition-colors">&larr; {locale==="en"?"Back to Products":locale==="ru"?"Назад к Продукции":"返回产品"}</Link>
-      <nav className="mb-2 flex items-center gap-2 text-sm text-neutral-400"><Link href="/" className="hover:text-black">{locale==="en"?"Home":locale==="ru"?"Главная":"首页"}</Link><span>/</span><Link href="/products" className="hover:text-black">{locale==="en"?"Products":locale==="ru"?"Продукция":"产品"}</Link><span>/</span><span className="text-black">{localizedValue(product.title, locale)}</span></nav>
+      <Link href="/products" className="mb-6 inline-flex items-center gap-1 text-sm text-neutral-400 hover:text-black transition-colors">&larr; {locale==='en'?'Back to Products':locale==='ru'?'Назад к Продукции':locale==='es'?'Volver a Productos':locale==='fr'?'Retour aux Produits':locale==='pt'?'Voltar aos Produtos':'返回产品'}</Link>
+      <nav className="mb-2 flex items-center gap-2 text-sm text-neutral-400"><Link href="/" className="hover:text-black">{locale==='en'?'Home':locale==='ru'?'Главная':locale==='es'?'Inicio':locale==='fr'?'Accueil':locale==='pt'?'Início':'首页'}</Link><span>/</span><Link href="/products" className="hover:text-black">{locale==='en'?'Products':locale==='ru'?'Продукция':locale==='es'?'Productos':locale==='fr'?'Produits':locale==='pt'?'Produtos':'产品'}</Link><span>/</span><span className="text-black">{localizedValue(product.title, locale)}</span></nav>
       <div className="grid gap-12 lg:grid-cols-2">
-        <ProductGallery images={[product.featured_image, ...(product.gallery || [])]} alt={localizedValue(product.title, locale)}/>
+        <ProductGallery images={(product.gallery && product.gallery.length > 0) ? product.gallery : [product.featured_image]} alt={localizedValue(product.title, locale)}/>
         <div>
           
           <h1 className="mt-2 text-3xl font-light text-black sm:text-4xl">{localizedValue(product.title, locale)}</h1>

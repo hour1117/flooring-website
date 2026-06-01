@@ -11,7 +11,7 @@ type Props = {
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
-    title: params.locale === 'en' ? 'Products' : 'Продукция',
+    title: params.locale === 'en' ? 'Products' : params.locale === 'ru' ? 'Продукция' : params.locale === 'es' ? 'Productos' : params.locale === 'fr' ? 'Produits' : params.locale === 'pt' ? 'Produtos' : '产品',
   };
 }
 
@@ -58,7 +58,7 @@ export default function ProductsPage({ params }: Props) {
                 </div>
                 <div className="mt-4">
                   <span className="text-xs font-medium text-neutral-700 uppercase tracking-wider">
-                    {(locale==='en'?'Parquet Flooring':locale==='ru'?'Паркет':'拼花地板')}
+                    {(locale==='en'?'Parquet Flooring':locale==='ru'?'Паркет':locale==='es'?'Parquet':locale==='fr'?'Parquet':locale==='pt'?'Parquet':'拼花地板')}
                   </span>
                   <h3 className="mt-1 text-lg font-semibold text-gray-900 group-hover:text-neutral-700 transition-colors">
                     {localizedValue(product.title, locale)}

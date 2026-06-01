@@ -1,12 +1,15 @@
 // Multilingual field: each locale has its own value
-export type Locale = 'en' | 'ru' | 'zh';
-export const locales: Locale[] = ['en', 'ru', 'zh'];
+export type Locale = 'en' | 'ru' | 'zh' | 'es' | 'fr' | 'pt';
+export const locales: Locale[] = ['en', 'ru', 'zh', 'es', 'fr', 'pt'];
 export const defaultLocale: Locale = 'en';
 
 export interface LocalizedString {
   en: string;
   ru: string;
   zh: string;
+  es: string;
+  fr: string;
+  pt: string;
 }
 
 // Product category

@@ -9,6 +9,9 @@ export async function generateMetadata(): Promise<Metadata> { return { title: 'B
 
 const labels: Record<string, Record<string, string>> = {
   en: { title: 'Blog & News', readMore: 'Read More', noPosts: 'No articles yet' },
+  es: { title: 'Blog', readMore: 'Leer Más', noPosts: 'Sin artículos' },
+  fr: { title: 'Blog', readMore: 'Lire Plus', noPosts: 'Aucun article' },
+  pt: { title: 'Blog', readMore: 'Ler Mais', noPosts: 'Sem artigos' },
   ru: { title: 'Блог и Новости', readMore: 'Читать', noPosts: 'Статей пока нет' },
   zh: { title: '博客与新闻', readMore: '阅读更多', noPosts: '暂无文章' },
 };

@@ -5,7 +5,7 @@ import FactoryCarousel from './FactoryCarousel';
 
 type Props = { params: { locale: string } };
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
-  return { title: params.locale === 'en' ? 'About Us' : 'О Нас' };
+  return { title: params.locale==='en'?'About Us':params.locale==='ru'?'О Нас':params.locale==='es'?'Sobre Nosotros':params.locale==='fr'?'À Propos':params.locale==='pt'?'Sobre':'关于我们' };
 }
 
 const content: Record<string, Record<string, string>> = {
@@ -50,14 +50,14 @@ export default function AboutPage({ params }: Props) {
       <section className="bg-black py-12 md:py-16">
         <div className="px-12 sm:px-20 lg:px-28">
           <h2 className="text-[clamp(2rem,3vw,3rem)] font-light text-white mb-10">
-            {locale === 'en' ? 'Our Factory' : locale === 'ru' ? 'Наша Фабрика' : '我们的工厂'}
+            {locale==='en'?'Our Factory':locale==='ru'?'Наша Фабрика':locale==='es'?'Nuestra Fábrica':locale==='fr'?'Notre Usine':locale==='pt'?'Nossa Fábrica':'我们的工厂'}
           </h2>
           <FactoryCarousel />
         </div>
       </section>
 
       {certificates.length > 0 && (
-        <section className="section-padding bg-neutral-50"><div className="container-custom text-center"><h2 className="section-title">{locale === 'en' ? 'Certificates' : 'Сертификаты'}</h2><div className="mt-8 flex flex-wrap justify-center gap-8">{certificates.map((cert, i) => (<div key={i} className="rounded-xl bg-white p-6 shadow-sm"><img src={cert.image} alt={cert.name} className="h-20 w-20 object-contain grayscale hover:grayscale-0 transition-all" /><p className="mt-2 text-sm font-medium">{cert.name}</p></div>))}</div></div></section>
+        <section className="section-padding bg-neutral-50"><div className="container-custom text-center"><h2 className="section-title">{locale==='en'?'Certificates':locale==='ru'?'Сертификаты':locale==='es'?'Certificados':locale==='fr'?'Certificats':locale==='pt'?'Certificados':'认证'}</h2><div className="mt-8 flex flex-wrap justify-center gap-8">{certificates.map((cert, i) => (<div key={i} className="rounded-xl bg-white p-6 shadow-sm"><img src={cert.image} alt={cert.name} className="h-20 w-20 object-contain grayscale hover:grayscale-0 transition-all" /><p className="mt-2 text-sm font-medium">{cert.name}</p></div>))}</div></div></section>
       )}
     </div>
   );

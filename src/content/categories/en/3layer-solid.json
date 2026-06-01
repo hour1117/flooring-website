@@ -1,0 +1,20 @@
+{
+  "slug": "3layer-solid",
+  "title": {
+    "en": "3-Layer Solid Wood",
+    "ru": "3-Слойный Массив",
+    "zh": "纯三层实木",
+    "es": "Madera 3 Capas",
+    "fr": "Bois Massif 3 Couches",
+    "pt": "Madeira 3 Camadas"
+  },
+  "description": {
+    "en": "3-Layer Solid Wood parquet flooring",
+    "ru": "Паркет 3-Слойный Массив",
+    "zh": "纯三层实木拼花地板",
+    "es": "Parquet Madera 3 Capas",
+    "fr": "Parquet Bois Massif 3 Couches",
+    "pt": "Parquet Madeira 3 Camadas"
+  },
+  "order": 4
+}

@@ -9,6 +9,9 @@ export async function generateMetadata(): Promise<Metadata> { return { title: 'P
 
 const labels: Record<string, Record<string, string>> = {
   en: { title: 'Project Cases', view: 'View Project', noProjects: 'No projects yet' },
+  es: { title: 'Proyectos', view: 'Ver Proyecto', noProjects: 'Sin proyectos' },
+  fr: { title: 'Projets', view: 'Voir le Projet', noProjects: 'Aucun projet' },
+  pt: { title: 'Projetos', view: 'Ver Projeto', noProjects: 'Sem projetos' },
   ru: { title: 'Проекты', view: 'Смотреть Проект', noProjects: 'Проектов пока нет' },
   zh: { title: '项目案例', view: '查看项目', noProjects: '暂无项目' },
 };

@@ -8,6 +8,9 @@ const localeNames: Record<string, string> = {
   en: 'English',
   ru: 'Русский',
   zh: '中文',
+  es: 'Español',
+  fr: 'Français',
+  pt: 'Português',
 };
 
 export default function LanguageSwitcher() {

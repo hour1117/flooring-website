@@ -8,22 +8,28 @@ export async function generateMetadata(): Promise<Metadata> { return { title: 'O
 
 const content: Record<string, Record<string, string>> = {
   en: { title: 'OEM/ODM Services', headline: 'Custom Manufacturing Solutions', intro: 'With 20+ years of parquet manufacturing expertise and two in-house factories, we offer comprehensive OEM and ODM services.', process: 'Our Process' },
-  ru: { title: 'Услуги OEM/ODM', headline: 'Индивидуальные Производственные Решения', intro: 'С более чем 20-летним опытом производства паркета и двумя фабриками, мы предлагаем полные услуги OEM и ODM.', process: 'Наш Процесс' },
-  zh: { title: 'OEM/ODM服务', headline: '定制制造解决方案', intro: '拥有20+年拼花地板制造经验和两家工厂，我们提供全面的OEM和ODM服务。', process: '我们的流程' },
+  ru: { title: 'Услуги OEM/ODM', headline: 'Индивидуальные Производственные Решения', intro: 'OEM/ODM услуги для вашего бизнеса.', process: 'Наш Процесс' },
+  zh: { title: 'OEM/ODM服务', headline: '定制制造解决方案', intro: 'OEM/ODM服务。', process: '我们的流程' },
+  es: { title: 'Servicios OEM/ODM', headline: 'Soluciones Personalizadas', intro: 'Servicios OEM/ODM para su negocio.', process: 'Proceso' },
+  fr: { title: 'Services OEM/ODM', headline: 'Solutions Personnalisées', intro: 'Services OEM/ODM pour votre entreprise.', process: 'Processus' },
+  pt: { title: 'Serviços OEM/ODM', headline: 'Soluções Personalizadas', intro: 'Serviços OEM/ODM para o seu negócio.', process: 'Processo' },
 };
 
 const steps = [
-  { icon: PenTool, title: { en: 'Design Consultation', ru: 'Консультация по Дизайну', zh: '设计咨询' }, desc: { en: 'Share your requirements with our design team', ru: 'Обсуждение требований', zh: '与设计团队沟通需求' } },
-  { icon: Settings, title: { en: 'Sample Production', ru: 'Производство Образцов', zh: '样品生产' }, desc: { en: 'Custom samples within 7-10 days', ru: 'Образцы за 7-10 дней', zh: '7-10天出定制样品' } },
-  { icon: Factory, title: { en: 'Mass Production', ru: 'Массовое Производство', zh: '批量生产' }, desc: { en: 'Full-scale manufacturing with strict QC', ru: 'Производство с контролем', zh: '严格品控的规模生产' } },
-  { icon: CheckCircle, title: { en: 'Quality Inspection', ru: 'Проверка Качества', zh: '品质检验' }, desc: { en: 'Rigorous testing before shipment', ru: 'Тестирование перед отправкой', zh: '出货前严格检测' } },
-  { icon: Truck, title: { en: 'Global Delivery', ru: 'Глобальная Доставка', zh: '全球配送' }, desc: { en: 'Secure packaging and worldwide shipping', ru: 'Надёжная упаковка', zh: '安全包装全球运输' } },
+  { icon: PenTool, title: { en: 'Design', ru: 'Дизайн', zh: '设计', es: 'Diseño', fr: 'Design', pt: 'Design' }, desc: { en: 'Share requirements', ru: 'Обсуждение', zh: '沟通', es: 'Requisitos', fr: 'Besoins', pt: 'Requisitos' } },
+  { icon: Settings, title: { en: 'Samples', ru: 'Образцы', zh: '样品', es: 'Muestras', fr: 'Échantillons', pt: 'Amostras' }, desc: { en: 'Samples in 7-10 days', ru: '7-10 дней', zh: '7-10天', es: '7-10 días', fr: '7-10 jours', pt: '7-10 dias' } },
+  { icon: Factory, title: { en: 'Production', ru: 'Производство', zh: '生产', es: 'Producción', fr: 'Production', pt: 'Produção' }, desc: { en: 'Full-scale manufacturing', ru: 'Производство', zh: '规模生产', es: 'Fabricación', fr: 'Fabrication', pt: 'Fabricação' } },
+  { icon: CheckCircle, title: { en: 'Quality', ru: 'Качество', zh: '质检', es: 'Calidad', fr: 'Qualité', pt: 'Qualidade' }, desc: { en: 'Testing before shipment', ru: 'Тестирование', zh: '出货检测', es: 'Pruebas', fr: 'Tests', pt: 'Testes' } },
+  { icon: Truck, title: { en: 'Delivery', ru: 'Доставка', zh: '配送', es: 'Entrega', fr: 'Livraison', pt: 'Entrega' }, desc: { en: 'Worldwide shipping', ru: 'Доставка', zh: '全球运输', es: 'Envío', fr: 'Expédition', pt: 'Envio' } },
 ];
 
 const ctaText: Record<string, { ready: string; contact: string }> = {
   en: { ready: 'Ready to Start?', contact: 'Contact Us' },
-  ru: { ready: 'Готовы Начать?', contact: 'Связаться' },
+  ru: { ready: 'Готовы?', contact: 'Связаться' },
   zh: { ready: '准备开始？', contact: '联系我们' },
+  es: { ready: 'Listo?', contact: 'Contáctenos' },
+  fr: { ready: 'Prêt?', contact: 'Contactez-nous' },
+  pt: { ready: 'Pronto?', contact: 'Contate-nos' },
 };
 
 export default function OEMODMPage({ params }: Props) {

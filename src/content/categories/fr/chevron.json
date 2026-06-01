@@ -1,0 +1,20 @@
+{
+  "slug": "chevron",
+  "title": {
+    "en": "Chevron",
+    "ru": "Шеврон",
+    "zh": "鱼骨拼",
+    "es": "Chevron",
+    "fr": "Chevron",
+    "pt": "Chevron"
+  },
+  "description": {
+    "en": "Chevron parquet flooring",
+    "ru": "Паркет Шеврон",
+    "zh": "鱼骨拼拼花地板",
+    "es": "Parquet Chevron",
+    "fr": "Parquet Chevron",
+    "pt": "Parquet Chevron"
+  },
+  "order": 6
+}

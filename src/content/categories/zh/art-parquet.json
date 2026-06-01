@@ -1,0 +1,20 @@
+{
+  "slug": "art-parquet",
+  "title": {
+    "en": "Art Parquet",
+    "ru": "Арт Паркет",
+    "zh": "艺术拼花",
+    "es": "Parquet Artístico",
+    "fr": "Parquet Artistique",
+    "pt": "Parquet Artístico"
+  },
+  "description": {
+    "en": "Art Parquet parquet flooring",
+    "ru": "Паркет Арт Паркет",
+    "zh": "艺术拼花拼花地板",
+    "es": "Parquet Parquet Artístico",
+    "fr": "Parquet Parquet Artistique",
+    "pt": "Parquet Parquet Artístico"
+  },
+  "order": 5
+}

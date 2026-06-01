@@ -1,0 +1,113 @@
+{
+  "nav": {
+    "home": "Início",
+    "products": "Produtos",
+    "about": "Sobre",
+    "oem": "OEM/ODM",
+    "projects": "Projetos",
+    "blog": "Blog",
+    "contact": "Contato",
+    "search": "Buscar",
+    "categories": "Categorias",
+    "allProducts": "Todos",
+    "language": "Idioma"
+  },
+  "home": {
+    "heroTitle": "Premium Flooring Manufacturer & Supplier",
+    "heroSubtitle": "High-quality flooring solutions with 20+ years of manufacturing excellence. Trusted by global partners for OEM/ODM services.",
+    "heroCta1": "View Products",
+    "heroCta2": "Contact Us",
+    "categoriesTitle": "Product Categories",
+    "bestSellersTitle": "Best Sellers",
+    "aboutTitle": "About Us",
+    "aboutText": "We are a leading flooring manufacturer with state-of-the-art production facilities, delivering premium quality flooring solutions to customers worldwide.",
+    "aboutCta": "Learn More",
+    "certificatesTitle": "Certificates",
+    "newsTitle": "Latest News",
+    "ctaTitle": "Ready to Start Your Project?",
+    "ctaText": "Contact us today for a free consultation and sample request.",
+    "ctaButton": "Get a Quote",
+    "viewAll": "View All"
+  },
+  "products": {
+    "title": "Our Products",
+    "description": "Browse our complete range of flooring products",
+    "searchPlaceholder": "Search products...",
+    "allCategories": "All Categories",
+    "noProducts": "No products found",
+    "specifications": "Specifications",
+    "relatedProducts": "Related Products",
+    "downloadPDF": "Download Spec Sheet",
+    "watchVideo": "Watch Video",
+    "inquireNow": "Inquire Now",
+    "category": "Category",
+    "filterBy": "Filter by"
+  },
+  "about": {
+    "title": "About Us",
+    "companyIntro": "Company Introduction",
+    "factoryInfo": "Our Factory",
+    "teamSection": "Our Team",
+    "videoTitle": "Company Video"
+  },
+  "oem": {
+    "title": "OEM/ODM Services",
+    "intro": "Custom Manufacturing Solutions",
+    "process": "Our Process",
+    "capabilities": "Our Capabilities"
+  },
+  "projects": {
+    "title": "Project Cases",
+    "location": "Location",
+    "productsUsed": "Products Used",
+    "viewProject": "View Project"
+  },
+  "blog": {
+    "title": "Blog & News",
+    "readMore": "Read More",
+    "categories": "Categories",
+    "recentPosts": "Recent Posts",
+    "tags": "Tags",
+    "shareArticle": "Share This Article",
+    "publishedOn": "Published on"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch with our team",
+    "whatsapp": "WhatsApp",
+    "email": "Email",
+    "phone": "Phone",
+    "address": "Address",
+    "formTitle": "Send us a message",
+    "name": "Your Name",
+    "emailField": "Your Email",
+    "phoneField": "Your Phone",
+    "company": "Company Name",
+    "message": "Your Message",
+    "submit": "Send Message",
+    "submitSuccess": "Thank you! We will get back to you soon.",
+    "submitError": "Something went wrong. Please try again."
+  },
+  "search": {
+    "title": "Search Results",
+    "placeholder": "Search products, articles, projects...",
+    "noResults": "No results found for",
+    "productsTab": "Products",
+    "blogTab": "Articles",
+    "projectsTab": "Projects"
+  },
+  "footer": {
+    "quickLinks": "Links",
+    "products": "Produtos",
+    "services": "Serviços",
+    "contactInfo": "Contato",
+    "followUs": "Siga-nos",
+    "copyright": "Todos os direitos reservados."
+  },
+  "common": {
+    "backToTop": "Voltar ao Topo",
+    "loading": "Carregando...",
+    "error": "Algo deu errado",
+    "home": "Início"
+  }
+}
