@@ -121,10 +121,37 @@ export default function Header({ locale, settings, categories }: Props) {
       {mobileOpen && (
         <div className="lg:hidden bg-white text-black border-t border-neutral-100">
           <div className="container-custom py-4 space-y-1">
-            {['home', 'products', 'about', 'oem', 'contact'].map((key) => (
+            {(['home'] as const).map((key) => (
+              <Link key={key} href="/" onClick={() => setMobileOpen(false)} className="block px-3 py-3 text-sm font-light text-neutral-700 hover:text-black transition-colors">
+                {navLabels[locale]?.home || 'Home'}
+              </Link>
+            ))}
+            {/* Products — expandable */}
+            <div>
+              <button
+                onClick={() => setProductsOpen(!productsOpen)}
+                className="flex items-center justify-between w-full px-3 py-3 text-sm font-light text-neutral-700 hover:text-black transition-colors"
+              >
+                <span>{navLabels[locale]?.products || 'Products'}</span>
+                <ChevronDown className={`h-4 w-4 transition-transform ${productsOpen ? 'rotate-180' : ''}`} />
+              </button>
+              {productsOpen && (
+                <div className="ml-4 border-l border-neutral-100 pl-4 space-y-1">
+                  <Link href="/products" onClick={() => { setMobileOpen(false); setProductsOpen(false); }} className="block px-3 py-2 text-sm font-medium text-black hover:text-neutral-600 transition-colors">
+                    {locale === 'en' ? 'All Products' : locale === 'ru' ? 'Все Продукты' : locale === 'es' ? 'Todos' : locale === 'fr' ? 'Tout' : locale === 'pt' ? 'Todos' : '全部产品'}
+                  </Link>
+                  {categories.map((cat) => (
+                    <Link key={cat.slug} href={`/categories/${cat.slug}`} onClick={() => { setMobileOpen(false); setProductsOpen(false); }} className="block px-3 py-2 text-sm font-light text-neutral-600 hover:text-black transition-colors">
+                      {localizedValue(cat.title, locale)}
+                    </Link>
+                  ))}
+                </div>
+              )}
+            </div>
+            {(['about', 'oem', 'contact'] as const).map((key) => (
               <Link
                 key={key}
-                href={key === 'home' ? '/' : key === 'products' ? '/products' : `/${key === 'oem' ? 'oem-odm' : key}`}
+                href={key === 'oem' ? '/oem-odm' : `/${key}`}
                 onClick={() => setMobileOpen(false)}
                 className="block px-3 py-3 text-sm font-light text-neutral-700 hover:text-black transition-colors"
               >
