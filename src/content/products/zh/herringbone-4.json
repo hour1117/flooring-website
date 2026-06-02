@@ -14,12 +14,12 @@
     "/images/uploads/parquet/herringbone/herringbone-4.jpg"
   ],
   "short_description": {
-    "en": "Model: 人字拼 | Core: 全桦基材 | Wood Veneer: 橡木 | Finish: UV漆 平面 | Lock: 锁扣 | Size: 450*75*15/0.6mm  | Grade: AB",
-    "ru": "Модель: 人字拼 | Основа: 全桦基材 | Шпон: 橡木 | Отделка: UV漆 平面 | Замок: 锁扣 | Размер: 450*75*15/0.6mm  | Сорт: AB",
+    "en": "Model: 人字拼 | Core: Birch Plywood | Wood Veneer: Oak | Finish: UV Matte | Lock: Click Lock | Size: 450*75*15/0.6mm  | Grade: AB",
+    "ru": "Модель: 人字拼 | Основа: Березовая Фанера | Шпон: Дуб | Отделка: УФ Матовый | Замок: Click Замок | Размер: 450*75*15/0.6mm  | Сорт: AB",
     "zh": "型号: 人字拼 | 基材: 全桦基材 | 树皮: 橡木 | 工艺: UV漆 平面 | 槽口: 锁扣 | 规格: 450*75*15/0.6mm  | 等级: AB",
-    "es": "Modelo: 人字拼 | Base: 全桦基材 | Chapa: 橡木 | Acabado: UV漆 平面 | Cierre: 锁扣 | Tamaño: 450*75*15/0.6mm  | Grado: AB",
-    "fr": "Modèle: 人字拼 | Base: 全桦基材 | Placage: 橡木 | Finition: UV漆 平面 | Verrou: 锁扣 | Taille: 450*75*15/0.6mm  | Grade: AB",
-    "pt": "Modelo: 人字拼 | Base: 全桦基材 | Folheado: 橡木 | Acabamento: UV漆 平面 | Fecho: 锁扣 | Tamanho: 450*75*15/0.6mm  | Grau: AB"
+    "es": "Modelo: 人字拼 | Base: Contrachapado Abedul | Chapa: Roble | Acabado: UV Mate | Cierre: Click | Tamaño: 450*75*15/0.6mm  | Grado: AB",
+    "fr": "Modèle: 人字拼 | Base: Contreplaqué Bouleau | Placage: Chêne | Finition: UV Mat | Verrou: Clips | Taille: 450*75*15/0.6mm  | Grade: AB",
+    "pt": "Modelo: 人字拼 | Base: Compensado Bétula | Folheado: Carvalho | Acabamento: UV Mate | Fecho: Click | Tamanho: 450*75*15/0.6mm  | Grau: AB"
   },
   "body": {
     "en": "",
@@ -58,12 +58,12 @@
         "pt": "Base"
       },
       "value": {
-        "en": "全桦基材",
-        "ru": "全桦基材",
+        "en": "Birch Plywood",
+        "ru": "Березовая Фанера",
         "zh": "全桦基材",
-        "es": "全桦基材",
-        "fr": "全桦基材",
-        "pt": "全桦基材"
+        "es": "Contrachapado Abedul",
+        "fr": "Contreplaqué Bouleau",
+        "pt": "Compensado Bétula"
       }
     },
     {
@@ -76,12 +76,12 @@
         "pt": "Folheado"
       },
       "value": {
-        "en": "橡木",
-        "ru": "橡木",
+        "en": "Oak",
+        "ru": "Дуб",
         "zh": "橡木",
-        "es": "橡木",
-        "fr": "橡木",
-        "pt": "橡木"
+        "es": "Roble",
+        "fr": "Chêne",
+        "pt": "Carvalho"
       }
     },
     {
@@ -94,12 +94,12 @@
         "pt": "Acabamento"
       },
       "value": {
-        "en": "UV漆 平面",
-        "ru": "UV漆 平面",
+        "en": "UV Matte",
+        "ru": "УФ Матовый",
         "zh": "UV漆 平面",
-        "es": "UV漆 平面",
-        "fr": "UV漆 平面",
-        "pt": "UV漆 平面"
+        "es": "UV Mate",
+        "fr": "UV Mat",
+        "pt": "UV Mate"
       }
     },
     {
@@ -112,12 +112,12 @@
         "pt": "Fecho"
       },
       "value": {
-        "en": "锁扣",
-        "ru": "锁扣",
+        "en": "Click Lock",
+        "ru": "Click Замок",
         "zh": "锁扣",
-        "es": "锁扣",
-        "fr": "锁扣",
-        "pt": "锁扣"
+        "es": "Click",
+        "fr": "Clips",
+        "pt": "Click"
       }
     },
     {

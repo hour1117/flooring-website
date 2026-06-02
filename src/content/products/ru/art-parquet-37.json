@@ -1,8 +1,8 @@
 {
   "slug": "art-parquet-37",
   "title": {
-    "en": "安妮公主异形拼花  — North American Black Walnut",
-    "ru": "安妮公主异形拼花  — Североамериканский Орех",
+    "en": "安妮公主异形拼花  — N. American Black Walnut",
+    "ru": "安妮公主异形拼花  — Сев.-Амер. Орех",
     "zh": "安妮公主异形拼花  — 北美黑胡桃",
     "es": "安妮公主异形拼花  — Nogal Norteamericano",
     "fr": "安妮公主异形拼花  — Noyer Américain",
@@ -14,12 +14,12 @@
     "/images/uploads/parquet/art-parquet/art-parquet-6.jpg"
   ],
   "short_description": {
-    "en": "Model: 安妮公主异形拼花  | Core: 全桦基材 | Wood Veneer: 北美黑胡桃 | Finish: UV漆 拉丝勾线 | Lock: 平扣 | Size: 600×600×15/1.2mm | Grade: AB",
-    "ru": "Модель: 安妮公主异形拼花  | Основа: 全桦基材 | Шпон: 北美黑胡桃 | Отделка: UV漆 拉丝勾线 | Замок: 平扣 | Размер: 600×600×15/1.2mm | Сорт: AB",
+    "en": "Model: 安妮公主异形拼花  | Core: Birch Plywood | Wood Veneer: N. American Black Walnut | Finish: UV Brushed Grooved | Lock: T&G | Size: 600×600×15/1.2mm | Grade: AB",
+    "ru": "Модель: 安妮公主异形拼花  | Основа: Березовая Фанера | Шпон: Сев.-Амер. Орех | Отделка: УФ Браш с Канавкой | Замок: Шип-Паз | Размер: 600×600×15/1.2mm | Сорт: AB",
     "zh": "型号: 安妮公主异形拼花  | 基材: 全桦基材 | 树皮: 北美黑胡桃 | 工艺: UV漆 拉丝勾线 | 槽口: 平扣 | 规格: 600×600×15/1.2mm | 等级: AB",
-    "es": "Modelo: 安妮公主异形拼花  | Base: 全桦基材 | Chapa: 北美黑胡桃 | Acabado: UV漆 拉丝勾线 | Cierre: 平扣 | Tamaño: 600×600×15/1.2mm | Grado: AB",
-    "fr": "Modèle: 安妮公主异形拼花  | Base: 全桦基材 | Placage: 北美黑胡桃 | Finition: UV漆 拉丝勾线 | Verrou: 平扣 | Taille: 600×600×15/1.2mm | Grade: AB",
-    "pt": "Modelo: 安妮公主异形拼花  | Base: 全桦基材 | Folheado: 北美黑胡桃 | Acabamento: UV漆 拉丝勾线 | Fecho: 平扣 | Tamanho: 600×600×15/1.2mm | Grau: AB"
+    "es": "Modelo: 安妮公主异形拼花  | Base: Contrachapado Abedul | Chapa: Nogal Norteamericano | Acabado: UV Cepillado Ranurado | Cierre: Machihembrado | Tamaño: 600×600×15/1.2mm | Grado: AB",
+    "fr": "Modèle: 安妮公主异形拼花  | Base: Contreplaqué Bouleau | Placage: Noyer Américain | Finition: UV Brossé Rainuré | Verrou: Rainure-Languette | Taille: 600×600×15/1.2mm | Grade: AB",
+    "pt": "Modelo: 安妮公主异形拼花  | Base: Compensado Bétula | Folheado: Nogueira Americana | Acabamento: UV Escovado Ranhurado | Fecho: Macho-Fêmea | Tamanho: 600×600×15/1.2mm | Grau: AB"
   },
   "body": {
     "en": "",
@@ -58,12 +58,12 @@
         "pt": "Base"
       },
       "value": {
-        "en": "全桦基材",
-        "ru": "全桦基材",
+        "en": "Birch Plywood",
+        "ru": "Березовая Фанера",
         "zh": "全桦基材",
-        "es": "全桦基材",
-        "fr": "全桦基材",
-        "pt": "全桦基材"
+        "es": "Contrachapado Abedul",
+        "fr": "Contreplaqué Bouleau",
+        "pt": "Compensado Bétula"
       }
     },
     {
@@ -76,12 +76,12 @@
         "pt": "Folheado"
       },
       "value": {
-        "en": "北美黑胡桃",
-        "ru": "北美黑胡桃",
+        "en": "N. American Black Walnut",
+        "ru": "Сев.-Амер. Орех",
         "zh": "北美黑胡桃",
-        "es": "北美黑胡桃",
-        "fr": "北美黑胡桃",
-        "pt": "北美黑胡桃"
+        "es": "Nogal Norteamericano",
+        "fr": "Noyer Américain",
+        "pt": "Nogueira Americana"
       }
     },
     {
@@ -94,12 +94,12 @@
         "pt": "Acabamento"
       },
       "value": {
-        "en": "UV漆 拉丝勾线",
-        "ru": "UV漆 拉丝勾线",
+        "en": "UV Brushed Grooved",
+        "ru": "УФ Браш с Канавкой",
         "zh": "UV漆 拉丝勾线",
-        "es": "UV漆 拉丝勾线",
-        "fr": "UV漆 拉丝勾线",
-        "pt": "UV漆 拉丝勾线"
+        "es": "UV Cepillado Ranurado",
+        "fr": "UV Brossé Rainuré",
+        "pt": "UV Escovado Ranhurado"
       }
     },
     {
@@ -112,12 +112,12 @@
         "pt": "Fecho"
       },
       "value": {
-        "en": "平扣",
-        "ru": "平扣",
+        "en": "T&G",
+        "ru": "Шип-Паз",
         "zh": "平扣",
-        "es": "平扣",
-        "fr": "平扣",
-        "pt": "平扣"
+        "es": "Machihembrado",
+        "fr": "Rainure-Languette",
+        "pt": "Macho-Fêmea"
       }
     },
     {

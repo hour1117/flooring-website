@@ -1,12 +1,12 @@
 {
   "slug": "geometric-9",
   "title": {
-    "en": "星芒拼花 — 黑胡桃(Black Walnut)",
-    "ru": "星芒拼花 — 黑胡桃(Black Walnut)",
+    "en": "星芒拼花 — Black Walnut",
+    "ru": "星芒拼花 — Черный Орех",
     "zh": "星芒拼花 — 黑胡桃(Black Walnut)",
-    "es": "星芒拼花 — 黑胡桃(Black Walnut)",
-    "fr": "星芒拼花 — 黑胡桃(Black Walnut)",
-    "pt": "星芒拼花 — 黑胡桃(Black Walnut)"
+    "es": "星芒拼花 — Nogal Negro",
+    "fr": "星芒拼花 — Noyer Noir",
+    "pt": "星芒拼花 — Nogueira Preta"
   },
   "category": "geometric",
   "featured_image": "/images/uploads/parquet/geometric/geometric-9.png",
@@ -14,12 +14,12 @@
     "/images/uploads/parquet/geometric/geometric-9.png"
   ],
   "short_description": {
-    "en": "Model: 星芒拼花 | Core: 全桦基材(Birch Plywood Core) | Wood Veneer: 黑胡桃(Black Walnut) | Finish: UV漆 平面 UV coating Smooth surface | Lock: 平扣（Flat Tongue&Groove) | Size: 600×600×15/1.2mm | Grade: AB",
-    "ru": "Модель: 星芒拼花 | Основа: 全桦基材(Birch Plywood Core) | Шпон: 黑胡桃(Black Walnut) | Отделка: UV漆 平面 UV coating Smooth surface | Замок: 平扣（Flat Tongue&Groove) | Размер: 600×600×15/1.2mm | Сорт: AB",
+    "en": "Model: 星芒拼花 | Core: Birch Plywood Core | Wood Veneer: Black Walnut | Finish: UV漆 平面 UV coating Smooth surface | Lock: Flat T&G | Size: 600×600×15/1.2mm | Grade: AB",
+    "ru": "Модель: 星芒拼花 | Основа: Березовая Фанера | Шпон: Черный Орех | Отделка: UV漆 平面 UV coating Smooth surface | Замок: Плоский Шип-Паз | Размер: 600×600×15/1.2mm | Сорт: AB",
     "zh": "型号: 星芒拼花 | 基材: 全桦基材(Birch Plywood Core) | 树皮: 黑胡桃(Black Walnut) | 工艺: UV漆 平面 UV coating Smooth surface | 槽口: 平扣（Flat Tongue&Groove) | 规格: 600×600×15/1.2mm | 等级: AB",
-    "es": "Modelo: 星芒拼花 | Base: 全桦基材(Birch Plywood Core) | Chapa: 黑胡桃(Black Walnut) | Acabado: UV漆 平面 UV coating Smooth surface | Cierre: 平扣（Flat Tongue&Groove) | Tamaño: 600×600×15/1.2mm | Grado: AB",
-    "fr": "Modèle: 星芒拼花 | Base: 全桦基材(Birch Plywood Core) | Placage: 黑胡桃(Black Walnut) | Finition: UV漆 平面 UV coating Smooth surface | Verrou: 平扣（Flat Tongue&Groove) | Taille: 600×600×15/1.2mm | Grade: AB",
-    "pt": "Modelo: 星芒拼花 | Base: 全桦基材(Birch Plywood Core) | Folheado: 黑胡桃(Black Walnut) | Acabamento: UV漆 平面 UV coating Smooth surface | Fecho: 平扣（Flat Tongue&Groove) | Tamanho: 600×600×15/1.2mm | Grau: AB"
+    "es": "Modelo: 星芒拼花 | Base: Núcleo Abedul | Chapa: Nogal Negro | Acabado: UV漆 平面 UV coating Smooth surface | Cierre: Machihembrado Plano | Tamaño: 600×600×15/1.2mm | Grado: AB",
+    "fr": "Modèle: 星芒拼花 | Base: Âme Bouleau | Placage: Noyer Noir | Finition: UV漆 平面 UV coating Smooth surface | Verrou: Rainure-Languette Plate | Taille: 600×600×15/1.2mm | Grade: AB",
+    "pt": "Modelo: 星芒拼花 | Base: Núcleo Bétula | Folheado: Nogueira Preta | Acabamento: UV漆 平面 UV coating Smooth surface | Fecho: Macho-Fêmea Plano | Tamanho: 600×600×15/1.2mm | Grau: AB"
   },
   "body": {
     "en": "",
@@ -58,12 +58,12 @@
         "pt": "Base"
       },
       "value": {
-        "en": "全桦基材(Birch Plywood Core)",
-        "ru": "全桦基材(Birch Plywood Core)",
+        "en": "Birch Plywood Core",
+        "ru": "Березовая Фанера",
         "zh": "全桦基材(Birch Plywood Core)",
-        "es": "全桦基材(Birch Plywood Core)",
-        "fr": "全桦基材(Birch Plywood Core)",
-        "pt": "全桦基材(Birch Plywood Core)"
+        "es": "Núcleo Abedul",
+        "fr": "Âme Bouleau",
+        "pt": "Núcleo Bétula"
       }
     },
     {
@@ -76,12 +76,12 @@
         "pt": "Folheado"
       },
       "value": {
-        "en": "黑胡桃(Black Walnut)",
-        "ru": "黑胡桃(Black Walnut)",
+        "en": "Black Walnut",
+        "ru": "Черный Орех",
         "zh": "黑胡桃(Black Walnut)",
-        "es": "黑胡桃(Black Walnut)",
-        "fr": "黑胡桃(Black Walnut)",
-        "pt": "黑胡桃(Black Walnut)"
+        "es": "Nogal Negro",
+        "fr": "Noyer Noir",
+        "pt": "Nogueira Preta"
       }
     },
     {
@@ -112,12 +112,12 @@
         "pt": "Fecho"
       },
       "value": {
-        "en": "平扣（Flat Tongue&Groove)",
-        "ru": "平扣（Flat Tongue&Groove)",
+        "en": "Flat T&G",
+        "ru": "Плоский Шип-Паз",
         "zh": "平扣（Flat Tongue&Groove)",
-        "es": "平扣（Flat Tongue&Groove)",
-        "fr": "平扣（Flat Tongue&Groove)",
-        "pt": "平扣（Flat Tongue&Groove)"
+        "es": "Machihembrado Plano",
+        "fr": "Rainure-Languette Plate",
+        "pt": "Macho-Fêmea Plano"
       }
     },
     {

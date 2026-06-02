@@ -14,12 +14,12 @@
     "/images/uploads/parquet/versailles/versailles-1.jpg"
   ],
   "short_description": {
-    "en": "Model: 八边凡尔赛拼花 | Core: 全桦基材 | Wood Veneer: 橡木 | Finish: 化变Reactive Stain 平面 | Lock: 榫槽 | Size: 600x600X15/1.2mm  | Grade: AB",
-    "ru": "Модель: 八边凡尔赛拼花 | Основа: 全桦基材 | Шпон: 橡木 | Отделка: 化变Reactive Stain 平面 | Замок: 榫槽 | Размер: 600x600X15/1.2mm  | Сорт: AB",
+    "en": "Model: 八边凡尔赛拼花 | Core: Birch Plywood | Wood Veneer: Oak | Finish: Reactive Stain Matte | Lock: Mortise | Size: 600x600X15/1.2mm  | Grade: AB",
+    "ru": "Модель: 八边凡尔赛拼花 | Основа: Березовая Фанера | Шпон: Дуб | Отделка: Реактивное Тонирование Мат | Замок: Паз | Размер: 600x600X15/1.2mm  | Сорт: AB",
     "zh": "型号: 八边凡尔赛拼花 | 基材: 全桦基材 | 树皮: 橡木 | 工艺: 化变Reactive Stain 平面 | 槽口: 榫槽 | 规格: 600x600X15/1.2mm  | 等级: AB",
-    "es": "Modelo: 八边凡尔赛拼花 | Base: 全桦基材 | Chapa: 橡木 | Acabado: 化变Reactive Stain 平面 | Cierre: 榫槽 | Tamaño: 600x600X15/1.2mm  | Grado: AB",
-    "fr": "Modèle: 八边凡尔赛拼花 | Base: 全桦基材 | Placage: 橡木 | Finition: 化变Reactive Stain 平面 | Verrou: 榫槽 | Taille: 600x600X15/1.2mm  | Grade: AB",
-    "pt": "Modelo: 八边凡尔赛拼花 | Base: 全桦基材 | Folheado: 橡木 | Acabamento: 化变Reactive Stain 平面 | Fecho: 榫槽 | Tamanho: 600x600X15/1.2mm  | Grau: AB"
+    "es": "Modelo: 八边凡尔赛拼花 | Base: Contrachapado Abedul | Chapa: Roble | Acabado: Tinte Reactivo Mate | Cierre: Mortaja | Tamaño: 600x600X15/1.2mm  | Grado: AB",
+    "fr": "Modèle: 八边凡尔赛拼花 | Base: Contreplaqué Bouleau | Placage: Chêne | Finition: Teinture Réactive Mate | Verrou: Mortaise | Taille: 600x600X15/1.2mm  | Grade: AB",
+    "pt": "Modelo: 八边凡尔赛拼花 | Base: Compensado Bétula | Folheado: Carvalho | Acabamento: Tingimento Reativo Mate | Fecho: Encaixe | Tamanho: 600x600X15/1.2mm  | Grau: AB"
   },
   "body": {
     "en": "",
@@ -58,12 +58,12 @@
         "pt": "Base"
       },
       "value": {
-        "en": "全桦基材",
-        "ru": "全桦基材",
+        "en": "Birch Plywood",
+        "ru": "Березовая Фанера",
         "zh": "全桦基材",
-        "es": "全桦基材",
-        "fr": "全桦基材",
-        "pt": "全桦基材"
+        "es": "Contrachapado Abedul",
+        "fr": "Contreplaqué Bouleau",
+        "pt": "Compensado Bétula"
       }
     },
     {
@@ -76,12 +76,12 @@
         "pt": "Folheado"
       },
       "value": {
-        "en": "橡木",
-        "ru": "橡木",
+        "en": "Oak",
+        "ru": "Дуб",
         "zh": "橡木",
-        "es": "橡木",
-        "fr": "橡木",
-        "pt": "橡木"
+        "es": "Roble",
+        "fr": "Chêne",
+        "pt": "Carvalho"
       }
     },
     {
@@ -94,12 +94,12 @@
         "pt": "Acabamento"
       },
       "value": {
-        "en": "化变Reactive Stain 平面",
-        "ru": "化变Reactive Stain 平面",
+        "en": "Reactive Stain Matte",
+        "ru": "Реактивное Тонирование Мат",
         "zh": "化变Reactive Stain 平面",
-        "es": "化变Reactive Stain 平面",
-        "fr": "化变Reactive Stain 平面",
-        "pt": "化变Reactive Stain 平面"
+        "es": "Tinte Reactivo Mate",
+        "fr": "Teinture Réactive Mate",
+        "pt": "Tingimento Reativo Mate"
       }
     },
     {
@@ -112,12 +112,12 @@
         "pt": "Fecho"
       },
       "value": {
-        "en": "榫槽",
-        "ru": "榫槽",
+        "en": "Mortise",
+        "ru": "Паз",
         "zh": "榫槽",
-        "es": "榫槽",
-        "fr": "榫槽",
-        "pt": "榫槽"
+        "es": "Mortaja",
+        "fr": "Mortaise",
+        "pt": "Encaixe"
       }
     },
     {

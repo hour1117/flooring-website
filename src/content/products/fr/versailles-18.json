@@ -14,12 +14,12 @@
     "/images/uploads/parquet/versailles/versailles-3.jpg"
   ],
   "short_description": {
-    "en": "Model: 凡尔赛法式拼花 | Core: 全桦基材 | Wood Veneer: 缅甸柚木 | Finish: UV漆 平面勾线 | Lock: 平扣 | Size: 600×600×15/1.2mm | Grade: AB",
-    "ru": "Модель: 凡尔赛法式拼花 | Основа: 全桦基材 | Шпон: 缅甸柚木 | Отделка: UV漆 平面勾线 | Замок: 平扣 | Размер: 600×600×15/1.2mm | Сорт: AB",
+    "en": "Model: 凡尔赛法式拼花 | Core: Birch Plywood | Wood Veneer: Burmese Teak | Finish: UV Matte Grooved | Lock: T&G | Size: 600×600×15/1.2mm | Grade: AB",
+    "ru": "Модель: 凡尔赛法式拼花 | Основа: Березовая Фанера | Шпон: Бирманский Тик | Отделка: УФ Матовый с Канавкой | Замок: Шип-Паз | Размер: 600×600×15/1.2mm | Сорт: AB",
     "zh": "型号: 凡尔赛法式拼花 | 基材: 全桦基材 | 树皮: 缅甸柚木 | 工艺: UV漆 平面勾线 | 槽口: 平扣 | 规格: 600×600×15/1.2mm | 等级: AB",
-    "es": "Modelo: 凡尔赛法式拼花 | Base: 全桦基材 | Chapa: 缅甸柚木 | Acabado: UV漆 平面勾线 | Cierre: 平扣 | Tamaño: 600×600×15/1.2mm | Grado: AB",
-    "fr": "Modèle: 凡尔赛法式拼花 | Base: 全桦基材 | Placage: 缅甸柚木 | Finition: UV漆 平面勾线 | Verrou: 平扣 | Taille: 600×600×15/1.2mm | Grade: AB",
-    "pt": "Modelo: 凡尔赛法式拼花 | Base: 全桦基材 | Folheado: 缅甸柚木 | Acabamento: UV漆 平面勾线 | Fecho: 平扣 | Tamanho: 600×600×15/1.2mm | Grau: AB"
+    "es": "Modelo: 凡尔赛法式拼花 | Base: Contrachapado Abedul | Chapa: Teca Birmana | Acabado: UV Mate Ranurado | Cierre: Machihembrado | Tamaño: 600×600×15/1.2mm | Grado: AB",
+    "fr": "Modèle: 凡尔赛法式拼花 | Base: Contreplaqué Bouleau | Placage: Teck Birman | Finition: UV Mat Rainuré | Verrou: Rainure-Languette | Taille: 600×600×15/1.2mm | Grade: AB",
+    "pt": "Modelo: 凡尔赛法式拼花 | Base: Compensado Bétula | Folheado: Teca Birmanesa | Acabamento: UV Mate Ranhurado | Fecho: Macho-Fêmea | Tamanho: 600×600×15/1.2mm | Grau: AB"
   },
   "body": {
     "en": "",
@@ -58,12 +58,12 @@
         "pt": "Base"
       },
       "value": {
-        "en": "全桦基材",
-        "ru": "全桦基材",
+        "en": "Birch Plywood",
+        "ru": "Березовая Фанера",
         "zh": "全桦基材",
-        "es": "全桦基材",
-        "fr": "全桦基材",
-        "pt": "全桦基材"
+        "es": "Contrachapado Abedul",
+        "fr": "Contreplaqué Bouleau",
+        "pt": "Compensado Bétula"
       }
     },
     {
@@ -76,12 +76,12 @@
         "pt": "Folheado"
       },
       "value": {
-        "en": "缅甸柚木",
-        "ru": "缅甸柚木",
+        "en": "Burmese Teak",
+        "ru": "Бирманский Тик",
         "zh": "缅甸柚木",
-        "es": "缅甸柚木",
-        "fr": "缅甸柚木",
-        "pt": "缅甸柚木"
+        "es": "Teca Birmana",
+        "fr": "Teck Birman",
+        "pt": "Teca Birmanesa"
       }
     },
     {
@@ -94,12 +94,12 @@
         "pt": "Acabamento"
       },
       "value": {
-        "en": "UV漆 平面勾线",
-        "ru": "UV漆 平面勾线",
+        "en": "UV Matte Grooved",
+        "ru": "УФ Матовый с Канавкой",
         "zh": "UV漆 平面勾线",
-        "es": "UV漆 平面勾线",
-        "fr": "UV漆 平面勾线",
-        "pt": "UV漆 平面勾线"
+        "es": "UV Mate Ranurado",
+        "fr": "UV Mat Rainuré",
+        "pt": "UV Mate Ranhurado"
       }
     },
     {
@@ -112,12 +112,12 @@
         "pt": "Fecho"
       },
       "value": {
-        "en": "平扣",
-        "ru": "平扣",
+        "en": "T&G",
+        "ru": "Шип-Паз",
         "zh": "平扣",
-        "es": "平扣",
-        "fr": "平扣",
-        "pt": "平扣"
+        "es": "Machihembrado",
+        "fr": "Rainure-Languette",
+        "pt": "Macho-Fêmea"
       }
     },
     {

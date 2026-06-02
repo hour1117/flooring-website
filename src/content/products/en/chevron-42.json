@@ -14,12 +14,12 @@
     "/images/uploads/parquet/chevron/chevron-2.jpg"
   ],
   "short_description": {
-    "en": "Model: 鱼骨拼 | Core: 全桦基材 | Wood Veneer: 柚木 | Finish: UV漆 浅拉丝 | Lock: 平扣 | Size: 550*92*15/0.6mm | Grade: AB",
-    "ru": "Модель: 鱼骨拼 | Основа: 全桦基材 | Шпон: 柚木 | Отделка: UV漆 浅拉丝 | Замок: 平扣 | Размер: 550*92*15/0.6mm | Сорт: AB",
+    "en": "Model: 鱼骨拼 | Core: Birch Plywood | Wood Veneer: Teak | Finish: UV Light Brushed | Lock: T&G | Size: 550*92*15/0.6mm | Grade: AB",
+    "ru": "Модель: 鱼骨拼 | Основа: Березовая Фанера | Шпон: Тик | Отделка: УФ Легкое Браширование | Замок: Шип-Паз | Размер: 550*92*15/0.6mm | Сорт: AB",
     "zh": "型号: 鱼骨拼 | 基材: 全桦基材 | 树皮: 柚木 | 工艺: UV漆 浅拉丝 | 槽口: 平扣 | 规格: 550*92*15/0.6mm | 等级: AB",
-    "es": "Modelo: 鱼骨拼 | Base: 全桦基材 | Chapa: 柚木 | Acabado: UV漆 浅拉丝 | Cierre: 平扣 | Tamaño: 550*92*15/0.6mm | Grado: AB",
-    "fr": "Modèle: 鱼骨拼 | Base: 全桦基材 | Placage: 柚木 | Finition: UV漆 浅拉丝 | Verrou: 平扣 | Taille: 550*92*15/0.6mm | Grade: AB",
-    "pt": "Modelo: 鱼骨拼 | Base: 全桦基材 | Folheado: 柚木 | Acabamento: UV漆 浅拉丝 | Fecho: 平扣 | Tamanho: 550*92*15/0.6mm | Grau: AB"
+    "es": "Modelo: 鱼骨拼 | Base: Contrachapado Abedul | Chapa: Teca | Acabado: UV Cepillado Suave | Cierre: Machihembrado | Tamaño: 550*92*15/0.6mm | Grado: AB",
+    "fr": "Modèle: 鱼骨拼 | Base: Contreplaqué Bouleau | Placage: Teck | Finition: UV Légèrement Brossé | Verrou: Rainure-Languette | Taille: 550*92*15/0.6mm | Grade: AB",
+    "pt": "Modelo: 鱼骨拼 | Base: Compensado Bétula | Folheado: Teca | Acabamento: UV Leve Escovado | Fecho: Macho-Fêmea | Tamanho: 550*92*15/0.6mm | Grau: AB"
   },
   "body": {
     "en": "",
@@ -58,12 +58,12 @@
         "pt": "Base"
       },
       "value": {
-        "en": "全桦基材",
-        "ru": "全桦基材",
+        "en": "Birch Plywood",
+        "ru": "Березовая Фанера",
         "zh": "全桦基材",
-        "es": "全桦基材",
-        "fr": "全桦基材",
-        "pt": "全桦基材"
+        "es": "Contrachapado Abedul",
+        "fr": "Contreplaqué Bouleau",
+        "pt": "Compensado Bétula"
       }
     },
     {
@@ -76,12 +76,12 @@
         "pt": "Folheado"
       },
       "value": {
-        "en": "柚木",
-        "ru": "柚木",
+        "en": "Teak",
+        "ru": "Тик",
         "zh": "柚木",
-        "es": "柚木",
-        "fr": "柚木",
-        "pt": "柚木"
+        "es": "Teca",
+        "fr": "Teck",
+        "pt": "Teca"
       }
     },
     {
@@ -94,12 +94,12 @@
         "pt": "Acabamento"
       },
       "value": {
-        "en": "UV漆 浅拉丝",
-        "ru": "UV漆 浅拉丝",
+        "en": "UV Light Brushed",
+        "ru": "УФ Легкое Браширование",
         "zh": "UV漆 浅拉丝",
-        "es": "UV漆 浅拉丝",
-        "fr": "UV漆 浅拉丝",
-        "pt": "UV漆 浅拉丝"
+        "es": "UV Cepillado Suave",
+        "fr": "UV Légèrement Brossé",
+        "pt": "UV Leve Escovado"
       }
     },
     {
@@ -112,12 +112,12 @@
         "pt": "Fecho"
       },
       "value": {
-        "en": "平扣",
-        "ru": "平扣",
+        "en": "T&G",
+        "ru": "Шип-Паз",
         "zh": "平扣",
-        "es": "平扣",
-        "fr": "平扣",
-        "pt": "平扣"
+        "es": "Machihembrado",
+        "fr": "Rainure-Languette",
+        "pt": "Macho-Fêmea"
       }
     },
     {

@@ -14,12 +14,12 @@
     "/images/uploads/parquet/geometric/geometric-6.png"
   ],
   "short_description": {
-    "en": "Model: 钻石几何拼花 | Core: 全桦基材 | Wood Veneer: 柚木 | Finish: UV漆 平面勾线 | Lock: 平扣 | Size: 600x600X15/1.2mm  | Grade: AB",
-    "ru": "Модель: 钻石几何拼花 | Основа: 全桦基材 | Шпон: 柚木 | Отделка: UV漆 平面勾线 | Замок: 平扣 | Размер: 600x600X15/1.2mm  | Сорт: AB",
+    "en": "Model: 钻石几何拼花 | Core: Birch Plywood | Wood Veneer: Teak | Finish: UV Matte Grooved | Lock: T&G | Size: 600x600X15/1.2mm  | Grade: AB",
+    "ru": "Модель: 钻石几何拼花 | Основа: Березовая Фанера | Шпон: Тик | Отделка: УФ Матовый с Канавкой | Замок: Шип-Паз | Размер: 600x600X15/1.2mm  | Сорт: AB",
     "zh": "型号: 钻石几何拼花 | 基材: 全桦基材 | 树皮: 柚木 | 工艺: UV漆 平面勾线 | 槽口: 平扣 | 规格: 600x600X15/1.2mm  | 等级: AB",
-    "es": "Modelo: 钻石几何拼花 | Base: 全桦基材 | Chapa: 柚木 | Acabado: UV漆 平面勾线 | Cierre: 平扣 | Tamaño: 600x600X15/1.2mm  | Grado: AB",
-    "fr": "Modèle: 钻石几何拼花 | Base: 全桦基材 | Placage: 柚木 | Finition: UV漆 平面勾线 | Verrou: 平扣 | Taille: 600x600X15/1.2mm  | Grade: AB",
-    "pt": "Modelo: 钻石几何拼花 | Base: 全桦基材 | Folheado: 柚木 | Acabamento: UV漆 平面勾线 | Fecho: 平扣 | Tamanho: 600x600X15/1.2mm  | Grau: AB"
+    "es": "Modelo: 钻石几何拼花 | Base: Contrachapado Abedul | Chapa: Teca | Acabado: UV Mate Ranurado | Cierre: Machihembrado | Tamaño: 600x600X15/1.2mm  | Grado: AB",
+    "fr": "Modèle: 钻石几何拼花 | Base: Contreplaqué Bouleau | Placage: Teck | Finition: UV Mat Rainuré | Verrou: Rainure-Languette | Taille: 600x600X15/1.2mm  | Grade: AB",
+    "pt": "Modelo: 钻石几何拼花 | Base: Compensado Bétula | Folheado: Teca | Acabamento: UV Mate Ranhurado | Fecho: Macho-Fêmea | Tamanho: 600x600X15/1.2mm  | Grau: AB"
   },
   "body": {
     "en": "",
@@ -58,12 +58,12 @@
         "pt": "Base"
       },
       "value": {
-        "en": "全桦基材",
-        "ru": "全桦基材",
+        "en": "Birch Plywood",
+        "ru": "Березовая Фанера",
         "zh": "全桦基材",
-        "es": "全桦基材",
-        "fr": "全桦基材",
-        "pt": "全桦基材"
+        "es": "Contrachapado Abedul",
+        "fr": "Contreplaqué Bouleau",
+        "pt": "Compensado Bétula"
       }
     },
     {
@@ -76,12 +76,12 @@
         "pt": "Folheado"
       },
       "value": {
-        "en": "柚木",
-        "ru": "柚木",
+        "en": "Teak",
+        "ru": "Тик",
         "zh": "柚木",
-        "es": "柚木",
-        "fr": "柚木",
-        "pt": "柚木"
+        "es": "Teca",
+        "fr": "Teck",
+        "pt": "Teca"
       }
     },
     {
@@ -94,12 +94,12 @@
         "pt": "Acabamento"
       },
       "value": {
-        "en": "UV漆 平面勾线",
-        "ru": "UV漆 平面勾线",
+        "en": "UV Matte Grooved",
+        "ru": "УФ Матовый с Канавкой",
         "zh": "UV漆 平面勾线",
-        "es": "UV漆 平面勾线",
-        "fr": "UV漆 平面勾线",
-        "pt": "UV漆 平面勾线"
+        "es": "UV Mate Ranurado",
+        "fr": "UV Mat Rainuré",
+        "pt": "UV Mate Ranhurado"
       }
     },
     {
@@ -112,12 +112,12 @@
         "pt": "Fecho"
       },
       "value": {
-        "en": "平扣",
-        "ru": "平扣",
+        "en": "T&G",
+        "ru": "Шип-Паз",
         "zh": "平扣",
-        "es": "平扣",
-        "fr": "平扣",
-        "pt": "平扣"
+        "es": "Machihembrado",
+        "fr": "Rainure-Languette",
+        "pt": "Macho-Fêmea"
       }
     },
     {

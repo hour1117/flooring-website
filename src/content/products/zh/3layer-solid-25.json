@@ -14,12 +14,12 @@
     "/images/uploads/parquet/3layer-solid/3layer-solid-3.png"
   ],
   "short_description": {
-    "en": "Model: QN-61 | Wood Species: 黑胡桃 | Eco: ENF 级 | Grade: AB | Size: 1900*192*15/3.0 | Core Material: 进口芬兰云杉芯 | Lock: 四边大锁扣",
-    "ru": "Модель: QN-61 | Порода: 黑胡桃 | Эко: ENF 级 | Сорт: AB | Размер: 1900*192*15/3.0 | Сердцевина: 进口芬兰云杉芯 | Замок: 四边大锁扣",
+    "en": "Model: QN-61 | Wood Species: Black Walnut | Eco: ENF Grade | Grade: AB | Size: 1900*192*15/3.0 | Core Material: Imported Finnish Spruce | Lock: 4-Side Lock",
+    "ru": "Модель: QN-61 | Порода: Черный Орех | Эко: Класс ENF | Сорт: AB | Размер: 1900*192*15/3.0 | Сердцевина: Финская Ель | Замок: 4-Сторонний Замок",
     "zh": "型号: QN-61 | 树种: 黑胡桃 | 环保: ENF 级 | 等级: AB | 规格: 1900*192*15/3.0 | 芯材: 进口芬兰云杉芯 | 槽口: 四边大锁扣",
-    "es": "Modelo: QN-61 | Especie: 黑胡桃 | Eco: ENF 级 | Grado: AB | Tamaño: 1900*192*15/3.0 | Núcleo: 进口芬兰云杉芯 | Cierre: 四边大锁扣",
-    "fr": "Modèle: QN-61 | Essence: 黑胡桃 | Éco: ENF 级 | Grade: AB | Taille: 1900*192*15/3.0 | Âme: 进口芬兰云杉芯 | Verrou: 四边大锁扣",
-    "pt": "Modelo: QN-61 | Espécie: 黑胡桃 | Eco: ENF 级 | Grau: AB | Tamanho: 1900*192*15/3.0 | Núcleo: 进口芬兰云杉芯 | Fecho: 四边大锁扣"
+    "es": "Modelo: QN-61 | Especie: Nogal Negro | Eco: Grado ENF | Grado: AB | Tamaño: 1900*192*15/3.0 | Núcleo: Abeto Finlandés | Cierre: Cierre 4 Lados",
+    "fr": "Modèle: QN-61 | Essence: Noyer Noir | Éco: Grade ENF | Grade: AB | Taille: 1900*192*15/3.0 | Âme: Épicéa Finlandais | Verrou: Verrou 4 Côtés",
+    "pt": "Modelo: QN-61 | Espécie: Nogueira Preta | Eco: Grau ENF | Grau: AB | Tamanho: 1900*192*15/3.0 | Núcleo: Abeto Finlandês | Fecho: Fecho 4 Lados"
   },
   "body": {
     "en": "",
@@ -58,12 +58,12 @@
         "pt": "Espécie"
       },
       "value": {
-        "en": "黑胡桃",
-        "ru": "黑胡桃",
+        "en": "Black Walnut",
+        "ru": "Черный Орех",
         "zh": "黑胡桃",
-        "es": "黑胡桃",
-        "fr": "黑胡桃",
-        "pt": "黑胡桃"
+        "es": "Nogal Negro",
+        "fr": "Noyer Noir",
+        "pt": "Nogueira Preta"
       }
     },
     {
@@ -76,12 +76,12 @@
         "pt": "Eco"
       },
       "value": {
-        "en": "ENF 级",
-        "ru": "ENF 级",
+        "en": "ENF Grade",
+        "ru": "Класс ENF",
         "zh": "ENF 级",
-        "es": "ENF 级",
-        "fr": "ENF 级",
-        "pt": "ENF 级"
+        "es": "Grado ENF",
+        "fr": "Grade ENF",
+        "pt": "Grau ENF"
       }
     },
     {
@@ -130,12 +130,12 @@
         "pt": "Núcleo"
       },
       "value": {
-        "en": "进口芬兰云杉芯",
-        "ru": "进口芬兰云杉芯",
+        "en": "Imported Finnish Spruce",
+        "ru": "Финская Ель",
         "zh": "进口芬兰云杉芯",
-        "es": "进口芬兰云杉芯",
-        "fr": "进口芬兰云杉芯",
-        "pt": "进口芬兰云杉芯"
+        "es": "Abeto Finlandés",
+        "fr": "Épicéa Finlandais",
+        "pt": "Abeto Finlandês"
       }
     },
     {
@@ -148,12 +148,12 @@
         "pt": "Fecho"
       },
       "value": {
-        "en": "四边大锁扣",
-        "ru": "四边大锁扣",
+        "en": "4-Side Lock",
+        "ru": "4-Сторонний Замок",
         "zh": "四边大锁扣",
-        "es": "四边大锁扣",
-        "fr": "四边大锁扣",
-        "pt": "四边大锁扣"
+        "es": "Cierre 4 Lados",
+        "fr": "Verrou 4 Côtés",
+        "pt": "Fecho 4 Lados"
       }
     }
   ],

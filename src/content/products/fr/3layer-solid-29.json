@@ -14,12 +14,12 @@
     "/images/uploads/parquet/3layer-solid/3layer-solid-7.png"
   ],
   "short_description": {
-    "en": "Model: QN-6667 | Wood Species: 欧洲白橡 | Eco: ENF 级 | Adhesive: 芬兰太尔胶 | Size: 1900*192*15/3.0 | Core Material: 进口芬兰云杉芯 | Lock: 覆膜锁扣 | Finish: 微拉丝 / 水性半透 UV",
-    "ru": "Модель: QN-6667 | Порода: 欧洲白橡 | Эко: ENF 级 | Клей: 芬兰太尔胶 | Размер: 1900*192*15/3.0 | Сердцевина: 进口芬兰云杉芯 | Замок: 覆膜锁扣 | Отделка: 微拉丝 / 水性半透 UV",
+    "en": "Model: QN-6667 | Wood Species: European White Oak | Eco: ENF Grade | Adhesive: Finnish Dynea Glue | Size: 1900*192*15/3.0 | Core Material: Imported Finnish Spruce | Lock: Film Lock | Finish: Micro-Brushed Water-Based UV",
+    "ru": "Модель: QN-6667 | Порода: Европейский Белый Дуб | Эко: Класс ENF | Клей: Финский Клей Dynea | Размер: 1900*192*15/3.0 | Сердцевина: Финская Ель | Замок: Пленочный Замок | Отделка: Микро-Браш Водный УФ",
     "zh": "型号: QN-6667 | 树种: 欧洲白橡 | 环保: ENF 级 | 胶水: 芬兰太尔胶 | 规格: 1900*192*15/3.0 | 芯材: 进口芬兰云杉芯 | 槽口: 覆膜锁扣 | 工艺: 微拉丝 / 水性半透 UV",
-    "es": "Modelo: QN-6667 | Especie: 欧洲白橡 | Eco: ENF 级 | Adhesivo: 芬兰太尔胶 | Tamaño: 1900*192*15/3.0 | Núcleo: 进口芬兰云杉芯 | Cierre: 覆膜锁扣 | Acabado: 微拉丝 / 水性半透 UV",
-    "fr": "Modèle: QN-6667 | Essence: 欧洲白橡 | Éco: ENF 级 | Colle: 芬兰太尔胶 | Taille: 1900*192*15/3.0 | Âme: 进口芬兰云杉芯 | Verrou: 覆膜锁扣 | Finition: 微拉丝 / 水性半透 UV",
-    "pt": "Modelo: QN-6667 | Espécie: 欧洲白橡 | Eco: ENF 级 | Adesivo: 芬兰太尔胶 | Tamanho: 1900*192*15/3.0 | Núcleo: 进口芬兰云杉芯 | Fecho: 覆膜锁扣 | Acabamento: 微拉丝 / 水性半透 UV"
+    "es": "Modelo: QN-6667 | Especie: Roble Blanco Europeo | Eco: Grado ENF | Adhesivo: Pegamento Dynea | Tamaño: 1900*192*15/3.0 | Núcleo: Abeto Finlandés | Cierre: Cierre Film | Acabado: Micro Cepillado UV Agua",
+    "fr": "Modèle: QN-6667 | Essence: Chêne Blanc Européen | Éco: Grade ENF | Colle: Colle Dynea | Taille: 1900*192*15/3.0 | Âme: Épicéa Finlandais | Verrou: Verrou Film | Finition: Micro Brossé UV Eau",
+    "pt": "Modelo: QN-6667 | Espécie: Carvalho Branco Europeu | Eco: Grau ENF | Adesivo: Cola Dynea | Tamanho: 1900*192*15/3.0 | Núcleo: Abeto Finlandês | Fecho: Fecho Filme | Acabamento: Micro Escovado UV Água"
   },
   "body": {
     "en": "",
@@ -58,12 +58,12 @@
         "pt": "Espécie"
       },
       "value": {
-        "en": "欧洲白橡",
-        "ru": "欧洲白橡",
+        "en": "European White Oak",
+        "ru": "Европейский Белый Дуб",
         "zh": "欧洲白橡",
-        "es": "欧洲白橡",
-        "fr": "欧洲白橡",
-        "pt": "欧洲白橡"
+        "es": "Roble Blanco Europeo",
+        "fr": "Chêne Blanc Européen",
+        "pt": "Carvalho Branco Europeu"
       }
     },
     {
@@ -76,12 +76,12 @@
         "pt": "Eco"
       },
       "value": {
-        "en": "ENF 级",
-        "ru": "ENF 级",
+        "en": "ENF Grade",
+        "ru": "Класс ENF",
         "zh": "ENF 级",
-        "es": "ENF 级",
-        "fr": "ENF 级",
-        "pt": "ENF 级"
+        "es": "Grado ENF",
+        "fr": "Grade ENF",
+        "pt": "Grau ENF"
       }
     },
     {
@@ -94,12 +94,12 @@
         "pt": "Adesivo"
       },
       "value": {
-        "en": "芬兰太尔胶",
-        "ru": "芬兰太尔胶",
+        "en": "Finnish Dynea Glue",
+        "ru": "Финский Клей Dynea",
         "zh": "芬兰太尔胶",
-        "es": "芬兰太尔胶",
-        "fr": "芬兰太尔胶",
-        "pt": "芬兰太尔胶"
+        "es": "Pegamento Dynea",
+        "fr": "Colle Dynea",
+        "pt": "Cola Dynea"
       }
     },
     {
@@ -130,12 +130,12 @@
         "pt": "Núcleo"
       },
       "value": {
-        "en": "进口芬兰云杉芯",
-        "ru": "进口芬兰云杉芯",
+        "en": "Imported Finnish Spruce",
+        "ru": "Финская Ель",
         "zh": "进口芬兰云杉芯",
-        "es": "进口芬兰云杉芯",
-        "fr": "进口芬兰云杉芯",
-        "pt": "进口芬兰云杉芯"
+        "es": "Abeto Finlandés",
+        "fr": "Épicéa Finlandais",
+        "pt": "Abeto Finlandês"
       }
     },
     {
@@ -148,12 +148,12 @@
         "pt": "Fecho"
       },
       "value": {
-        "en": "覆膜锁扣",
-        "ru": "覆膜锁扣",
+        "en": "Film Lock",
+        "ru": "Пленочный Замок",
         "zh": "覆膜锁扣",
-        "es": "覆膜锁扣",
-        "fr": "覆膜锁扣",
-        "pt": "覆膜锁扣"
+        "es": "Cierre Film",
+        "fr": "Verrou Film",
+        "pt": "Fecho Filme"
       }
     },
     {
@@ -166,12 +166,12 @@
         "pt": "Acabamento"
       },
       "value": {
-        "en": "微拉丝 / 水性半透 UV",
-        "ru": "微拉丝 / 水性半透 UV",
+        "en": "Micro-Brushed Water-Based UV",
+        "ru": "Микро-Браш Водный УФ",
         "zh": "微拉丝 / 水性半透 UV",
-        "es": "微拉丝 / 水性半透 UV",
-        "fr": "微拉丝 / 水性半透 UV",
-        "pt": "微拉丝 / 水性半透 UV"
+        "es": "Micro Cepillado UV Agua",
+        "fr": "Micro Brossé UV Eau",
+        "pt": "Micro Escovado UV Água"
       }
     }
   ],

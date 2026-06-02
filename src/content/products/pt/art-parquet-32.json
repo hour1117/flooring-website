@@ -1,12 +1,12 @@
 {
   "slug": "art-parquet-32",
   "title": {
-    "en": "荷花异形拼花 — 胡桃木/橡木",
-    "ru": "荷花异形拼花 — 胡桃木/橡木",
+    "en": "荷花异形拼花 — Walnut/Oak",
+    "ru": "荷花异形拼花 — Орех/Дуб",
     "zh": "荷花异形拼花 — 胡桃木/橡木",
-    "es": "荷花异形拼花 — 胡桃木/橡木",
-    "fr": "荷花异形拼花 — 胡桃木/橡木",
-    "pt": "荷花异形拼花 — 胡桃木/橡木"
+    "es": "荷花异形拼花 — Nogal/Roble",
+    "fr": "荷花异形拼花 — Noyer/Chêne",
+    "pt": "荷花异形拼花 — Nogueira/Carvalho"
   },
   "category": "art-parquet",
   "featured_image": "/images/uploads/parquet/art-parquet/art-parquet-1.jpg",
@@ -14,12 +14,12 @@
     "/images/uploads/parquet/art-parquet/art-parquet-1.jpg"
   ],
   "short_description": {
-    "en": "Model: 荷花异形拼花 | Core: 全桦基材 | Wood Veneer: 胡桃木/橡木 | Finish: UV漆 平面 | Lock: 平扣 | Size: 600*600*15/1.2mm | Grade: AB",
-    "ru": "Модель: 荷花异形拼花 | Основа: 全桦基材 | Шпон: 胡桃木/橡木 | Отделка: UV漆 平面 | Замок: 平扣 | Размер: 600*600*15/1.2mm | Сорт: AB",
+    "en": "Model: 荷花异形拼花 | Core: Birch Plywood | Wood Veneer: Walnut/Oak | Finish: UV Matte | Lock: T&G | Size: 600*600*15/1.2mm | Grade: AB",
+    "ru": "Модель: 荷花异形拼花 | Основа: Березовая Фанера | Шпон: Орех/Дуб | Отделка: УФ Матовый | Замок: Шип-Паз | Размер: 600*600*15/1.2mm | Сорт: AB",
     "zh": "型号: 荷花异形拼花 | 基材: 全桦基材 | 树皮: 胡桃木/橡木 | 工艺: UV漆 平面 | 槽口: 平扣 | 规格: 600*600*15/1.2mm | 等级: AB",
-    "es": "Modelo: 荷花异形拼花 | Base: 全桦基材 | Chapa: 胡桃木/橡木 | Acabado: UV漆 平面 | Cierre: 平扣 | Tamaño: 600*600*15/1.2mm | Grado: AB",
-    "fr": "Modèle: 荷花异形拼花 | Base: 全桦基材 | Placage: 胡桃木/橡木 | Finition: UV漆 平面 | Verrou: 平扣 | Taille: 600*600*15/1.2mm | Grade: AB",
-    "pt": "Modelo: 荷花异形拼花 | Base: 全桦基材 | Folheado: 胡桃木/橡木 | Acabamento: UV漆 平面 | Fecho: 平扣 | Tamanho: 600*600*15/1.2mm | Grau: AB"
+    "es": "Modelo: 荷花异形拼花 | Base: Contrachapado Abedul | Chapa: Nogal/Roble | Acabado: UV Mate | Cierre: Machihembrado | Tamaño: 600*600*15/1.2mm | Grado: AB",
+    "fr": "Modèle: 荷花异形拼花 | Base: Contreplaqué Bouleau | Placage: Noyer/Chêne | Finition: UV Mat | Verrou: Rainure-Languette | Taille: 600*600*15/1.2mm | Grade: AB",
+    "pt": "Modelo: 荷花异形拼花 | Base: Compensado Bétula | Folheado: Nogueira/Carvalho | Acabamento: UV Mate | Fecho: Macho-Fêmea | Tamanho: 600*600*15/1.2mm | Grau: AB"
   },
   "body": {
     "en": "",
@@ -58,12 +58,12 @@
         "pt": "Base"
       },
       "value": {
-        "en": "全桦基材",
-        "ru": "全桦基材",
+        "en": "Birch Plywood",
+        "ru": "Березовая Фанера",
         "zh": "全桦基材",
-        "es": "全桦基材",
-        "fr": "全桦基材",
-        "pt": "全桦基材"
+        "es": "Contrachapado Abedul",
+        "fr": "Contreplaqué Bouleau",
+        "pt": "Compensado Bétula"
       }
     },
     {
@@ -76,12 +76,12 @@
         "pt": "Folheado"
       },
       "value": {
-        "en": "胡桃木/橡木",
-        "ru": "胡桃木/橡木",
+        "en": "Walnut/Oak",
+        "ru": "Орех/Дуб",
         "zh": "胡桃木/橡木",
-        "es": "胡桃木/橡木",
-        "fr": "胡桃木/橡木",
-        "pt": "胡桃木/橡木"
+        "es": "Nogal/Roble",
+        "fr": "Noyer/Chêne",
+        "pt": "Nogueira/Carvalho"
       }
     },
     {
@@ -94,12 +94,12 @@
         "pt": "Acabamento"
       },
       "value": {
-        "en": "UV漆 平面",
-        "ru": "UV漆 平面",
+        "en": "UV Matte",
+        "ru": "УФ Матовый",
         "zh": "UV漆 平面",
-        "es": "UV漆 平面",
-        "fr": "UV漆 平面",
-        "pt": "UV漆 平面"
+        "es": "UV Mate",
+        "fr": "UV Mat",
+        "pt": "UV Mate"
       }
     },
     {
@@ -112,12 +112,12 @@
         "pt": "Fecho"
       },
       "value": {
-        "en": "平扣",
-        "ru": "平扣",
+        "en": "T&G",
+        "ru": "Шип-Паз",
         "zh": "平扣",
-        "es": "平扣",
-        "fr": "平扣",
-        "pt": "平扣"
+        "es": "Machihembrado",
+        "fr": "Rainure-Languette",
+        "pt": "Macho-Fêmea"
       }
     },
     {

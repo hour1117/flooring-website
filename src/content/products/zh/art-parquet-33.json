@@ -1,8 +1,8 @@
 {
   "slug": "art-parquet-33",
   "title": {
-    "en": "葡萄异形拼花 — North American Black Walnut",
-    "ru": "葡萄异形拼花 — Североамериканский Орех",
+    "en": "葡萄异形拼花 — N. American Black Walnut",
+    "ru": "葡萄异形拼花 — Сев.-Амер. Орех",
     "zh": "葡萄异形拼花 — 北美黑胡桃",
     "es": "葡萄异形拼花 — Nogal Norteamericano",
     "fr": "葡萄异形拼花 — Noyer Américain",
@@ -14,12 +14,12 @@
     "/images/uploads/parquet/art-parquet/art-parquet-2.png"
   ],
   "short_description": {
-    "en": "Model: 葡萄异形拼花 | Core: 全桦基材 | Wood Veneer: 北美黑胡桃 | Finish: UV漆 平面 | Lock: 平扣 | Size: 600*195*15/1.2mm | Grade: AB",
-    "ru": "Модель: 葡萄异形拼花 | Основа: 全桦基材 | Шпон: 北美黑胡桃 | Отделка: UV漆 平面 | Замок: 平扣 | Размер: 600*195*15/1.2mm | Сорт: AB",
+    "en": "Model: 葡萄异形拼花 | Core: Birch Plywood | Wood Veneer: N. American Black Walnut | Finish: UV Matte | Lock: T&G | Size: 600*195*15/1.2mm | Grade: AB",
+    "ru": "Модель: 葡萄异形拼花 | Основа: Березовая Фанера | Шпон: Сев.-Амер. Орех | Отделка: УФ Матовый | Замок: Шип-Паз | Размер: 600*195*15/1.2mm | Сорт: AB",
     "zh": "型号: 葡萄异形拼花 | 基材: 全桦基材 | 树皮: 北美黑胡桃 | 工艺: UV漆 平面 | 槽口: 平扣 | 规格: 600*195*15/1.2mm | 等级: AB",
-    "es": "Modelo: 葡萄异形拼花 | Base: 全桦基材 | Chapa: 北美黑胡桃 | Acabado: UV漆 平面 | Cierre: 平扣 | Tamaño: 600*195*15/1.2mm | Grado: AB",
-    "fr": "Modèle: 葡萄异形拼花 | Base: 全桦基材 | Placage: 北美黑胡桃 | Finition: UV漆 平面 | Verrou: 平扣 | Taille: 600*195*15/1.2mm | Grade: AB",
-    "pt": "Modelo: 葡萄异形拼花 | Base: 全桦基材 | Folheado: 北美黑胡桃 | Acabamento: UV漆 平面 | Fecho: 平扣 | Tamanho: 600*195*15/1.2mm | Grau: AB"
+    "es": "Modelo: 葡萄异形拼花 | Base: Contrachapado Abedul | Chapa: Nogal Norteamericano | Acabado: UV Mate | Cierre: Machihembrado | Tamaño: 600*195*15/1.2mm | Grado: AB",
+    "fr": "Modèle: 葡萄异形拼花 | Base: Contreplaqué Bouleau | Placage: Noyer Américain | Finition: UV Mat | Verrou: Rainure-Languette | Taille: 600*195*15/1.2mm | Grade: AB",
+    "pt": "Modelo: 葡萄异形拼花 | Base: Compensado Bétula | Folheado: Nogueira Americana | Acabamento: UV Mate | Fecho: Macho-Fêmea | Tamanho: 600*195*15/1.2mm | Grau: AB"
   },
   "body": {
     "en": "",
@@ -58,12 +58,12 @@
         "pt": "Base"
       },
       "value": {
-        "en": "全桦基材",
-        "ru": "全桦基材",
+        "en": "Birch Plywood",
+        "ru": "Березовая Фанера",
         "zh": "全桦基材",
-        "es": "全桦基材",
-        "fr": "全桦基材",
-        "pt": "全桦基材"
+        "es": "Contrachapado Abedul",
+        "fr": "Contreplaqué Bouleau",
+        "pt": "Compensado Bétula"
       }
     },
     {
@@ -76,12 +76,12 @@
         "pt": "Folheado"
       },
       "value": {
-        "en": "北美黑胡桃",
-        "ru": "北美黑胡桃",
+        "en": "N. American Black Walnut",
+        "ru": "Сев.-Амер. Орех",
         "zh": "北美黑胡桃",
-        "es": "北美黑胡桃",
-        "fr": "北美黑胡桃",
-        "pt": "北美黑胡桃"
+        "es": "Nogal Norteamericano",
+        "fr": "Noyer Américain",
+        "pt": "Nogueira Americana"
       }
     },
     {
@@ -94,12 +94,12 @@
         "pt": "Acabamento"
       },
       "value": {
-        "en": "UV漆 平面",
-        "ru": "UV漆 平面",
+        "en": "UV Matte",
+        "ru": "УФ Матовый",
         "zh": "UV漆 平面",
-        "es": "UV漆 平面",
-        "fr": "UV漆 平面",
-        "pt": "UV漆 平面"
+        "es": "UV Mate",
+        "fr": "UV Mat",
+        "pt": "UV Mate"
       }
     },
     {
@@ -112,12 +112,12 @@
         "pt": "Fecho"
       },
       "value": {
-        "en": "平扣",
-        "ru": "平扣",
+        "en": "T&G",
+        "ru": "Шип-Паз",
         "zh": "平扣",
-        "es": "平扣",
-        "fr": "平扣",
-        "pt": "平扣"
+        "es": "Machihembrado",
+        "fr": "Rainure-Languette",
+        "pt": "Macho-Fêmea"
       }
     },
     {
