@@ -1,12 +1,12 @@
 {
   "slug": "geometric-11",
   "title": {
-    "en": "棋盘格几何拼花  — Black Walnut",
-    "ru": "棋盘格几何拼花  — Черный Орех",
+    "en": "Chessboard Geometric — 黑胡桃",
+    "ru": "Шахматная Доска Гео — 黑胡桃",
     "zh": "棋盘格几何拼花  — 黑胡桃",
-    "es": "棋盘格几何拼花  — Nogal Negro",
-    "fr": "棋盘格几何拼花  — Noyer Noir",
-    "pt": "棋盘格几何拼花  — Nogueira Preta"
+    "es": "Geométrico Ajedrez — 黑胡桃",
+    "fr": "Géométrique Échiquier — 黑胡桃",
+    "pt": "Geométrico Xadrez — 黑胡桃"
   },
   "category": "geometric",
   "featured_image": "/images/uploads/parquet/geometric/geometric-10.png",
