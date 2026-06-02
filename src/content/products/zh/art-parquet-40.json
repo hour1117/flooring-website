@@ -1,12 +1,12 @@
 {
   "slug": "art-parquet-40",
   "title": {
-    "en": "安妮公主异形拼花 — 缅甸柚木",
-    "ru": "安妮公主异形拼花 — 缅甸柚木",
-    "zh": "安妮公主异形拼花 — 缅甸柚木",
-    "es": "安妮公主异形拼花 — 缅甸柚木",
-    "fr": "安妮公主异形拼花 — 缅甸柚木",
-    "pt": "安妮公主异形拼花 — 缅甸柚木"
+    "en": "安妮公主异形拼花  — Burmese Teak",
+    "ru": "安妮公主异形拼花  — Бирманский Тик",
+    "zh": "安妮公主异形拼花  — 缅甸柚木",
+    "es": "安妮公主异形拼花  — Teca Birmana",
+    "fr": "安妮公主异形拼花  — Teck Birman",
+    "pt": "安妮公主异形拼花  — Teca Birmanesa"
   },
   "category": "art-parquet",
   "featured_image": "/images/uploads/parquet/art-parquet/art-parquet-9.png",
@@ -14,12 +14,12 @@
     "/images/uploads/parquet/art-parquet/art-parquet-9.png"
   ],
   "short_description": {
-    "en": "Model: 安妮公主异形拼花 | Core: 全桦基材 | Wood Veneer: 缅甸柚木 | Finish: UV漆 拉丝勾线 | Lock Type: 平扣 | Size: 600×600×15/1.2mm | Grade: AB",
-    "ru": "Модель: 安妮公主异形拼花 | Основа: 全桦基材 | Шпон: 缅甸柚木 | Отделка: UV漆 拉丝勾线 | Замок: 平扣 | Размер: 600×600×15/1.2mm | Сорт: AB",
-    "zh": "型号：安妮公主异形拼花 | 基材：全桦基材 | 树皮：缅甸柚木 | 工艺：UV漆 拉丝勾线 | 槽口：平扣 | 规格：600×600×15/1.2mm | 等级：AB",
-    "es": "Modelo: 安妮公主异形拼花 | Base: 全桦基材 | Chapa: 缅甸柚木 | Acabado: UV漆 拉丝勾线 | Cierre: 平扣 | Tamaño: 600×600×15/1.2mm | Grado: AB",
-    "fr": "Modèle: 安妮公主异形拼花 | Base: 全桦基材 | Placage: 缅甸柚木 | Finition: UV漆 拉丝勾线 | Verrou: 平扣 | Taille: 600×600×15/1.2mm | Grade: AB",
-    "pt": "Modelo: 安妮公主异形拼花 | Base: 全桦基材 | Folheado: 缅甸柚木 | Acabamento: UV漆 拉丝勾线 | Fecho: 平扣 | Tamanho: 600×600×15/1.2mm | Grau: AB"
+    "en": "Model: 安妮公主异形拼花  | Core: 全桦基材 | Wood Veneer: 缅甸柚木 | Finish: UV漆 拉丝勾线 | Lock: 平扣 | Size: 600×600×15/1.2mm | Grade: AB",
+    "ru": "Модель: 安妮公主异形拼花  | Основа: 全桦基材 | Шпон: 缅甸柚木 | Отделка: UV漆 拉丝勾线 | Замок: 平扣 | Размер: 600×600×15/1.2mm | Сорт: AB",
+    "zh": "型号: 安妮公主异形拼花  | 基材: 全桦基材 | 树皮: 缅甸柚木 | 工艺: UV漆 拉丝勾线 | 槽口: 平扣 | 规格: 600×600×15/1.2mm | 等级: AB",
+    "es": "Modelo: 安妮公主异形拼花  | Base: 全桦基材 | Chapa: 缅甸柚木 | Acabado: UV漆 拉丝勾线 | Cierre: 平扣 | Tamaño: 600×600×15/1.2mm | Grado: AB",
+    "fr": "Modèle: 安妮公主异形拼花  | Base: 全桦基材 | Placage: 缅甸柚木 | Finition: UV漆 拉丝勾线 | Verrou: 平扣 | Taille: 600×600×15/1.2mm | Grade: AB",
+    "pt": "Modelo: 安妮公主异形拼花  | Base: 全桦基材 | Folheado: 缅甸柚木 | Acabamento: UV漆 拉丝勾线 | Fecho: 平扣 | Tamanho: 600×600×15/1.2mm | Grau: AB"
   },
   "body": {
     "en": "",
@@ -40,12 +40,12 @@
         "pt": "Modelo"
       },
       "value": {
-        "en": "安妮公主异形拼花",
-        "ru": "安妮公主异形拼花",
-        "zh": "安妮公主异形拼花",
-        "es": "安妮公主异形拼花",
-        "fr": "安妮公主异形拼花",
-        "pt": "安妮公主异形拼花"
+        "en": "安妮公主异形拼花 ",
+        "ru": "安妮公主异形拼花 ",
+        "zh": "安妮公主异形拼花 ",
+        "es": "安妮公主异形拼花 ",
+        "fr": "安妮公主异形拼花 ",
+        "pt": "安妮公主异形拼花 "
       }
     },
     {
@@ -104,7 +104,7 @@
     },
     {
       "name": {
-        "en": "Lock Type",
+        "en": "Lock",
         "ru": "Замок",
         "zh": "槽口",
         "es": "Cierre",

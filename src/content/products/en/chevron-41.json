@@ -1,12 +1,12 @@
 {
   "slug": "chevron-41",
   "title": {
-    "en": "鱼骨拼 — 胡桃木",
-    "ru": "鱼骨拼 — 胡桃木",
+    "en": "鱼骨拼 — Walnut",
+    "ru": "鱼骨拼 — Орех",
     "zh": "鱼骨拼 — 胡桃木",
-    "es": "鱼骨拼 — 胡桃木",
-    "fr": "鱼骨拼 — 胡桃木",
-    "pt": "鱼骨拼 — 胡桃木"
+    "es": "鱼骨拼 — Nogal",
+    "fr": "鱼骨拼 — Noyer",
+    "pt": "鱼骨拼 — Nogueira"
   },
   "category": "chevron",
   "featured_image": "/images/uploads/parquet/chevron/chevron-1.jpg",
@@ -14,9 +14,9 @@
     "/images/uploads/parquet/chevron/chevron-1.jpg"
   ],
   "short_description": {
-    "en": "Model: 鱼骨拼 | Core: 全桦基材 | Wood Veneer: 胡桃木 | Finish: UV漆 浅拉丝 | Lock Type: 平扣 | Size: 550*92*15/0.6mm | Grade: AB",
+    "en": "Model: 鱼骨拼 | Core: 全桦基材 | Wood Veneer: 胡桃木 | Finish: UV漆 浅拉丝 | Lock: 平扣 | Size: 550*92*15/0.6mm | Grade: AB",
     "ru": "Модель: 鱼骨拼 | Основа: 全桦基材 | Шпон: 胡桃木 | Отделка: UV漆 浅拉丝 | Замок: 平扣 | Размер: 550*92*15/0.6mm | Сорт: AB",
-    "zh": "型号：鱼骨拼 | 基材：全桦基材 | 树皮：胡桃木 | 工艺：UV漆 浅拉丝 | 槽口：平扣 | 规格：550*92*15/0.6mm | 等级：AB",
+    "zh": "型号: 鱼骨拼 | 基材: 全桦基材 | 树皮: 胡桃木 | 工艺: UV漆 浅拉丝 | 槽口: 平扣 | 规格: 550*92*15/0.6mm | 等级: AB",
     "es": "Modelo: 鱼骨拼 | Base: 全桦基材 | Chapa: 胡桃木 | Acabado: UV漆 浅拉丝 | Cierre: 平扣 | Tamaño: 550*92*15/0.6mm | Grado: AB",
     "fr": "Modèle: 鱼骨拼 | Base: 全桦基材 | Placage: 胡桃木 | Finition: UV漆 浅拉丝 | Verrou: 平扣 | Taille: 550*92*15/0.6mm | Grade: AB",
     "pt": "Modelo: 鱼骨拼 | Base: 全桦基材 | Folheado: 胡桃木 | Acabamento: UV漆 浅拉丝 | Fecho: 平扣 | Tamanho: 550*92*15/0.6mm | Grau: AB"
@@ -104,7 +104,7 @@
     },
     {
       "name": {
-        "en": "Lock Type",
+        "en": "Lock",
         "ru": "Замок",
         "zh": "槽口",
         "es": "Cierre",

@@ -14,9 +14,9 @@
     "/images/uploads/parquet/herringbone/herringbone-1.jpg"
   ],
   "short_description": {
-    "en": "Model: 人字拼 | Core: 全桦基材 | Wood Veneer: 柚木/大理石 | Finish: UV漆 平面 | Lock Type: 锁扣 | Size: 450*75*15/0.6mm | Grade: AB",
+    "en": "Model: 人字拼 | Core: 全桦基材 | Wood Veneer: 柚木/大理石 | Finish: UV漆 平面 | Lock: 锁扣 | Size: 450*75*15/0.6mm | Grade: AB",
     "ru": "Модель: 人字拼 | Основа: 全桦基材 | Шпон: 柚木/大理石 | Отделка: UV漆 平面 | Замок: 锁扣 | Размер: 450*75*15/0.6mm | Сорт: AB",
-    "zh": "型号：人字拼 | 基材：全桦基材 | 树皮：柚木/大理石 | 工艺：UV漆 平面 | 槽口：锁扣 | 规格：450*75*15/0.6mm | 等级：AB",
+    "zh": "型号: 人字拼 | 基材: 全桦基材 | 树皮: 柚木/大理石 | 工艺: UV漆 平面 | 槽口: 锁扣 | 规格: 450*75*15/0.6mm | 等级: AB",
     "es": "Modelo: 人字拼 | Base: 全桦基材 | Chapa: 柚木/大理石 | Acabado: UV漆 平面 | Cierre: 锁扣 | Tamaño: 450*75*15/0.6mm | Grado: AB",
     "fr": "Modèle: 人字拼 | Base: 全桦基材 | Placage: 柚木/大理石 | Finition: UV漆 平面 | Verrou: 锁扣 | Taille: 450*75*15/0.6mm | Grade: AB",
     "pt": "Modelo: 人字拼 | Base: 全桦基材 | Folheado: 柚木/大理石 | Acabamento: UV漆 平面 | Fecho: 锁扣 | Tamanho: 450*75*15/0.6mm | Grau: AB"
@@ -104,7 +104,7 @@
     },
     {
       "name": {
-        "en": "Lock Type",
+        "en": "Lock",
         "ru": "Замок",
         "zh": "槽口",
         "es": "Cierre",

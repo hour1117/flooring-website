@@ -1,12 +1,12 @@
 {
   "slug": "art-parquet-39",
   "title": {
-    "en": "太阳异形拼花 — 黑胡桃",
-    "ru": "太阳异形拼花 — 黑胡桃",
+    "en": "太阳异形拼花 — Black Walnut",
+    "ru": "太阳异形拼花 — Черный Орех",
     "zh": "太阳异形拼花 — 黑胡桃",
-    "es": "太阳异形拼花 — 黑胡桃",
-    "fr": "太阳异形拼花 — 黑胡桃",
-    "pt": "太阳异形拼花 — 黑胡桃"
+    "es": "太阳异形拼花 — Nogal Negro",
+    "fr": "太阳异形拼花 — Noyer Noir",
+    "pt": "太阳异形拼花 — Nogueira Preta"
   },
   "category": "art-parquet",
   "featured_image": "/images/uploads/parquet/art-parquet/art-parquet-8.png",
@@ -14,9 +14,9 @@
     "/images/uploads/parquet/art-parquet/art-parquet-8.png"
   ],
   "short_description": {
-    "en": "Model: 太阳异形拼花 | Core: 全桦基材 | Wood Veneer: 黑胡桃 | Finish: UV漆 平面 | Lock Type: 平扣 | Size: 600*600*15/1.2mm | Grade: AB",
+    "en": "Model: 太阳异形拼花 | Core: 全桦基材 | Wood Veneer: 黑胡桃 | Finish: UV漆 平面 | Lock: 平扣 | Size: 600*600*15/1.2mm | Grade: AB",
     "ru": "Модель: 太阳异形拼花 | Основа: 全桦基材 | Шпон: 黑胡桃 | Отделка: UV漆 平面 | Замок: 平扣 | Размер: 600*600*15/1.2mm | Сорт: AB",
-    "zh": "型号：太阳异形拼花 | 基材：全桦基材 | 树皮：黑胡桃 | 工艺：UV漆 平面 | 槽口：平扣 | 规格：600*600*15/1.2mm | 等级：AB",
+    "zh": "型号: 太阳异形拼花 | 基材: 全桦基材 | 树皮: 黑胡桃 | 工艺: UV漆 平面 | 槽口: 平扣 | 规格: 600*600*15/1.2mm | 等级: AB",
     "es": "Modelo: 太阳异形拼花 | Base: 全桦基材 | Chapa: 黑胡桃 | Acabado: UV漆 平面 | Cierre: 平扣 | Tamaño: 600*600*15/1.2mm | Grado: AB",
     "fr": "Modèle: 太阳异形拼花 | Base: 全桦基材 | Placage: 黑胡桃 | Finition: UV漆 平面 | Verrou: 平扣 | Taille: 600*600*15/1.2mm | Grade: AB",
     "pt": "Modelo: 太阳异形拼花 | Base: 全桦基材 | Folheado: 黑胡桃 | Acabamento: UV漆 平面 | Fecho: 平扣 | Tamanho: 600*600*15/1.2mm | Grau: AB"
@@ -104,7 +104,7 @@
     },
     {
       "name": {
-        "en": "Lock Type",
+        "en": "Lock",
         "ru": "Замок",
         "zh": "槽口",
         "es": "Cierre",

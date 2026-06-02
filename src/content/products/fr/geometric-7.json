@@ -1,12 +1,12 @@
 {
   "slug": "geometric-7",
   "title": {
-    "en": "棋盘格几何拼花 — 柚木",
-    "ru": "棋盘格几何拼花 — 柚木",
-    "zh": "棋盘格几何拼花 — 柚木",
-    "es": "棋盘格几何拼花 — 柚木",
-    "fr": "棋盘格几何拼花 — 柚木",
-    "pt": "棋盘格几何拼花 — 柚木"
+    "en": "棋盘格几何拼花  — Teak",
+    "ru": "棋盘格几何拼花  — Тик",
+    "zh": "棋盘格几何拼花  — 柚木",
+    "es": "棋盘格几何拼花  — Teca",
+    "fr": "棋盘格几何拼花  — Teck",
+    "pt": "棋盘格几何拼花  — Teca"
   },
   "category": "geometric",
   "featured_image": "/images/uploads/parquet/geometric/geometric-7.png",
@@ -14,12 +14,12 @@
     "/images/uploads/parquet/geometric/geometric-7.png"
   ],
   "short_description": {
-    "en": "Model: 棋盘格几何拼花 | Core: 全桦基材 | Wood Veneer: 柚木 | Finish: UV漆 平面勾线 | Lock Type: 平扣 | Size: 600x600X15/1.2mm | Grade: AB",
-    "ru": "Модель: 棋盘格几何拼花 | Основа: 全桦基材 | Шпон: 柚木 | Отделка: UV漆 平面勾线 | Замок: 平扣 | Размер: 600x600X15/1.2mm | Сорт: AB",
-    "zh": "型号：棋盘格几何拼花 | 基材：全桦基材 | 树皮：柚木 | 工艺：UV漆 平面勾线 | 槽口：平扣 | 规格：600x600X15/1.2mm | 等级：AB",
-    "es": "Modelo: 棋盘格几何拼花 | Base: 全桦基材 | Chapa: 柚木 | Acabado: UV漆 平面勾线 | Cierre: 平扣 | Tamaño: 600x600X15/1.2mm | Grado: AB",
-    "fr": "Modèle: 棋盘格几何拼花 | Base: 全桦基材 | Placage: 柚木 | Finition: UV漆 平面勾线 | Verrou: 平扣 | Taille: 600x600X15/1.2mm | Grade: AB",
-    "pt": "Modelo: 棋盘格几何拼花 | Base: 全桦基材 | Folheado: 柚木 | Acabamento: UV漆 平面勾线 | Fecho: 平扣 | Tamanho: 600x600X15/1.2mm | Grau: AB"
+    "en": "Model: 棋盘格几何拼花  | Core: 全桦基材 | Wood Veneer: 柚木 | Finish: UV漆 平面勾线 | Lock: 平扣 | Size: 600x600X15/1.2mm  | Grade: AB",
+    "ru": "Модель: 棋盘格几何拼花  | Основа: 全桦基材 | Шпон: 柚木 | Отделка: UV漆 平面勾线 | Замок: 平扣 | Размер: 600x600X15/1.2mm  | Сорт: AB",
+    "zh": "型号: 棋盘格几何拼花  | 基材: 全桦基材 | 树皮: 柚木 | 工艺: UV漆 平面勾线 | 槽口: 平扣 | 规格: 600x600X15/1.2mm  | 等级: AB",
+    "es": "Modelo: 棋盘格几何拼花  | Base: 全桦基材 | Chapa: 柚木 | Acabado: UV漆 平面勾线 | Cierre: 平扣 | Tamaño: 600x600X15/1.2mm  | Grado: AB",
+    "fr": "Modèle: 棋盘格几何拼花  | Base: 全桦基材 | Placage: 柚木 | Finition: UV漆 平面勾线 | Verrou: 平扣 | Taille: 600x600X15/1.2mm  | Grade: AB",
+    "pt": "Modelo: 棋盘格几何拼花  | Base: 全桦基材 | Folheado: 柚木 | Acabamento: UV漆 平面勾线 | Fecho: 平扣 | Tamanho: 600x600X15/1.2mm  | Grau: AB"
   },
   "body": {
     "en": "",
@@ -40,12 +40,12 @@
         "pt": "Modelo"
       },
       "value": {
-        "en": "棋盘格几何拼花",
-        "ru": "棋盘格几何拼花",
-        "zh": "棋盘格几何拼花",
-        "es": "棋盘格几何拼花",
-        "fr": "棋盘格几何拼花",
-        "pt": "棋盘格几何拼花"
+        "en": "棋盘格几何拼花 ",
+        "ru": "棋盘格几何拼花 ",
+        "zh": "棋盘格几何拼花 ",
+        "es": "棋盘格几何拼花 ",
+        "fr": "棋盘格几何拼花 ",
+        "pt": "棋盘格几何拼花 "
       }
     },
     {
@@ -104,7 +104,7 @@
     },
     {
       "name": {
-        "en": "Lock Type",
+        "en": "Lock",
         "ru": "Замок",
         "zh": "槽口",
         "es": "Cierre",
@@ -130,12 +130,12 @@
         "pt": "Tamanho"
       },
       "value": {
-        "en": "600x600X15/1.2mm",
-        "ru": "600x600X15/1.2mm",
-        "zh": "600x600X15/1.2mm",
-        "es": "600x600X15/1.2mm",
-        "fr": "600x600X15/1.2mm",
-        "pt": "600x600X15/1.2mm"
+        "en": "600x600X15/1.2mm ",
+        "ru": "600x600X15/1.2mm ",
+        "zh": "600x600X15/1.2mm ",
+        "es": "600x600X15/1.2mm ",
+        "fr": "600x600X15/1.2mm ",
+        "pt": "600x600X15/1.2mm "
       }
     },
     {

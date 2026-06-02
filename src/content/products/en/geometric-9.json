@@ -14,9 +14,9 @@
     "/images/uploads/parquet/geometric/geometric-9.png"
   ],
   "short_description": {
-    "en": "Model: 星芒拼花 | Core: 全桦基材(Birch Plywood Core) | Wood Veneer: 黑胡桃(Black Walnut) | Finish: UV漆 平面 UV coating Smooth surface | Lock Type: 平扣（Flat Tongue&Groove) | Size: 600×600×15/1.2mm | Grade: AB",
+    "en": "Model: 星芒拼花 | Core: 全桦基材(Birch Plywood Core) | Wood Veneer: 黑胡桃(Black Walnut) | Finish: UV漆 平面 UV coating Smooth surface | Lock: 平扣（Flat Tongue&Groove) | Size: 600×600×15/1.2mm | Grade: AB",
     "ru": "Модель: 星芒拼花 | Основа: 全桦基材(Birch Plywood Core) | Шпон: 黑胡桃(Black Walnut) | Отделка: UV漆 平面 UV coating Smooth surface | Замок: 平扣（Flat Tongue&Groove) | Размер: 600×600×15/1.2mm | Сорт: AB",
-    "zh": "型号：星芒拼花 | 基材：全桦基材(Birch Plywood Core) | 树皮：黑胡桃(Black Walnut) | 工艺：UV漆 平面 UV coating Smooth surface | 槽口：平扣（Flat Tongue&Groove) | 规格：600×600×15/1.2mm | 等级：AB",
+    "zh": "型号: 星芒拼花 | 基材: 全桦基材(Birch Plywood Core) | 树皮: 黑胡桃(Black Walnut) | 工艺: UV漆 平面 UV coating Smooth surface | 槽口: 平扣（Flat Tongue&Groove) | 规格: 600×600×15/1.2mm | 等级: AB",
     "es": "Modelo: 星芒拼花 | Base: 全桦基材(Birch Plywood Core) | Chapa: 黑胡桃(Black Walnut) | Acabado: UV漆 平面 UV coating Smooth surface | Cierre: 平扣（Flat Tongue&Groove) | Tamaño: 600×600×15/1.2mm | Grado: AB",
     "fr": "Modèle: 星芒拼花 | Base: 全桦基材(Birch Plywood Core) | Placage: 黑胡桃(Black Walnut) | Finition: UV漆 平面 UV coating Smooth surface | Verrou: 平扣（Flat Tongue&Groove) | Taille: 600×600×15/1.2mm | Grade: AB",
     "pt": "Modelo: 星芒拼花 | Base: 全桦基材(Birch Plywood Core) | Folheado: 黑胡桃(Black Walnut) | Acabamento: UV漆 平面 UV coating Smooth surface | Fecho: 平扣（Flat Tongue&Groove) | Tamanho: 600×600×15/1.2mm | Grau: AB"
@@ -104,7 +104,7 @@
     },
     {
       "name": {
-        "en": "Lock Type",
+        "en": "Lock",
         "ru": "Замок",
         "zh": "槽口",
         "es": "Cierre",

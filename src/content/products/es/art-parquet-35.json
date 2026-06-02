@@ -1,12 +1,12 @@
 {
   "slug": "art-parquet-35",
   "title": {
-    "en": "小树叶异形拼花 — 缅甸柚木",
-    "ru": "小树叶异形拼花 — 缅甸柚木",
+    "en": "小树叶异形拼花 — Burmese Teak",
+    "ru": "小树叶异形拼花 — Бирманский Тик",
     "zh": "小树叶异形拼花 — 缅甸柚木",
-    "es": "小树叶异形拼花 — 缅甸柚木",
-    "fr": "小树叶异形拼花 — 缅甸柚木",
-    "pt": "小树叶异形拼花 — 缅甸柚木"
+    "es": "小树叶异形拼花 — Teca Birmana",
+    "fr": "小树叶异形拼花 — Teck Birman",
+    "pt": "小树叶异形拼花 — Teca Birmanesa"
   },
   "category": "art-parquet",
   "featured_image": "/images/uploads/parquet/art-parquet/art-parquet-4.png",
@@ -14,9 +14,9 @@
     "/images/uploads/parquet/art-parquet/art-parquet-4.png"
   ],
   "short_description": {
-    "en": "Model: 小树叶异形拼花 | Core: 全桦基材 | Wood Veneer: 缅甸柚木 | Finish: UV漆 拉丝 | Lock Type: 平扣 | Size: 473*300*15/1.2mm | Grade: AB",
+    "en": "Model: 小树叶异形拼花 | Core: 全桦基材 | Wood Veneer: 缅甸柚木 | Finish: UV漆 拉丝 | Lock: 平扣 | Size: 473*300*15/1.2mm | Grade: AB",
     "ru": "Модель: 小树叶异形拼花 | Основа: 全桦基材 | Шпон: 缅甸柚木 | Отделка: UV漆 拉丝 | Замок: 平扣 | Размер: 473*300*15/1.2mm | Сорт: AB",
-    "zh": "型号：小树叶异形拼花 | 基材：全桦基材 | 树皮：缅甸柚木 | 工艺：UV漆 拉丝 | 槽口：平扣 | 规格：473*300*15/1.2mm | 等级：AB",
+    "zh": "型号: 小树叶异形拼花 | 基材: 全桦基材 | 树皮: 缅甸柚木 | 工艺: UV漆 拉丝 | 槽口: 平扣 | 规格: 473*300*15/1.2mm | 等级: AB",
     "es": "Modelo: 小树叶异形拼花 | Base: 全桦基材 | Chapa: 缅甸柚木 | Acabado: UV漆 拉丝 | Cierre: 平扣 | Tamaño: 473*300*15/1.2mm | Grado: AB",
     "fr": "Modèle: 小树叶异形拼花 | Base: 全桦基材 | Placage: 缅甸柚木 | Finition: UV漆 拉丝 | Verrou: 平扣 | Taille: 473*300*15/1.2mm | Grade: AB",
     "pt": "Modelo: 小树叶异形拼花 | Base: 全桦基材 | Folheado: 缅甸柚木 | Acabamento: UV漆 拉丝 | Fecho: 平扣 | Tamanho: 473*300*15/1.2mm | Grau: AB"
@@ -104,7 +104,7 @@
     },
     {
       "name": {
-        "en": "Lock Type",
+        "en": "Lock",
         "ru": "Замок",
         "zh": "槽口",
         "es": "Cierre",

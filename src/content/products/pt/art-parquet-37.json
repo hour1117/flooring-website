@@ -1,12 +1,12 @@
 {
   "slug": "art-parquet-37",
   "title": {
-    "en": "安妮公主异形拼花 — 北美黑胡桃",
-    "ru": "安妮公主异形拼花 — 北美黑胡桃",
-    "zh": "安妮公主异形拼花 — 北美黑胡桃",
-    "es": "安妮公主异形拼花 — 北美黑胡桃",
-    "fr": "安妮公主异形拼花 — 北美黑胡桃",
-    "pt": "安妮公主异形拼花 — 北美黑胡桃"
+    "en": "安妮公主异形拼花  — North American Black Walnut",
+    "ru": "安妮公主异形拼花  — Североамериканский Орех",
+    "zh": "安妮公主异形拼花  — 北美黑胡桃",
+    "es": "安妮公主异形拼花  — Nogal Norteamericano",
+    "fr": "安妮公主异形拼花  — Noyer Américain",
+    "pt": "安妮公主异形拼花  — Nogueira Americana"
   },
   "category": "art-parquet",
   "featured_image": "/images/uploads/parquet/art-parquet/art-parquet-6.jpg",
@@ -14,12 +14,12 @@
     "/images/uploads/parquet/art-parquet/art-parquet-6.jpg"
   ],
   "short_description": {
-    "en": "Model: 安妮公主异形拼花 | Core: 全桦基材 | Wood Veneer: 北美黑胡桃 | Finish: UV漆 拉丝勾线 | Lock Type: 平扣 | Size: 600×600×15/1.2mm | Grade: AB",
-    "ru": "Модель: 安妮公主异形拼花 | Основа: 全桦基材 | Шпон: 北美黑胡桃 | Отделка: UV漆 拉丝勾线 | Замок: 平扣 | Размер: 600×600×15/1.2mm | Сорт: AB",
-    "zh": "型号：安妮公主异形拼花 | 基材：全桦基材 | 树皮：北美黑胡桃 | 工艺：UV漆 拉丝勾线 | 槽口：平扣 | 规格：600×600×15/1.2mm | 等级：AB",
-    "es": "Modelo: 安妮公主异形拼花 | Base: 全桦基材 | Chapa: 北美黑胡桃 | Acabado: UV漆 拉丝勾线 | Cierre: 平扣 | Tamaño: 600×600×15/1.2mm | Grado: AB",
-    "fr": "Modèle: 安妮公主异形拼花 | Base: 全桦基材 | Placage: 北美黑胡桃 | Finition: UV漆 拉丝勾线 | Verrou: 平扣 | Taille: 600×600×15/1.2mm | Grade: AB",
-    "pt": "Modelo: 安妮公主异形拼花 | Base: 全桦基材 | Folheado: 北美黑胡桃 | Acabamento: UV漆 拉丝勾线 | Fecho: 平扣 | Tamanho: 600×600×15/1.2mm | Grau: AB"
+    "en": "Model: 安妮公主异形拼花  | Core: 全桦基材 | Wood Veneer: 北美黑胡桃 | Finish: UV漆 拉丝勾线 | Lock: 平扣 | Size: 600×600×15/1.2mm | Grade: AB",
+    "ru": "Модель: 安妮公主异形拼花  | Основа: 全桦基材 | Шпон: 北美黑胡桃 | Отделка: UV漆 拉丝勾线 | Замок: 平扣 | Размер: 600×600×15/1.2mm | Сорт: AB",
+    "zh": "型号: 安妮公主异形拼花  | 基材: 全桦基材 | 树皮: 北美黑胡桃 | 工艺: UV漆 拉丝勾线 | 槽口: 平扣 | 规格: 600×600×15/1.2mm | 等级: AB",
+    "es": "Modelo: 安妮公主异形拼花  | Base: 全桦基材 | Chapa: 北美黑胡桃 | Acabado: UV漆 拉丝勾线 | Cierre: 平扣 | Tamaño: 600×600×15/1.2mm | Grado: AB",
+    "fr": "Modèle: 安妮公主异形拼花  | Base: 全桦基材 | Placage: 北美黑胡桃 | Finition: UV漆 拉丝勾线 | Verrou: 平扣 | Taille: 600×600×15/1.2mm | Grade: AB",
+    "pt": "Modelo: 安妮公主异形拼花  | Base: 全桦基材 | Folheado: 北美黑胡桃 | Acabamento: UV漆 拉丝勾线 | Fecho: 平扣 | Tamanho: 600×600×15/1.2mm | Grau: AB"
   },
   "body": {
     "en": "",
@@ -40,12 +40,12 @@
         "pt": "Modelo"
       },
       "value": {
-        "en": "安妮公主异形拼花",
-        "ru": "安妮公主异形拼花",
-        "zh": "安妮公主异形拼花",
-        "es": "安妮公主异形拼花",
-        "fr": "安妮公主异形拼花",
-        "pt": "安妮公主异形拼花"
+        "en": "安妮公主异形拼花 ",
+        "ru": "安妮公主异形拼花 ",
+        "zh": "安妮公主异形拼花 ",
+        "es": "安妮公主异形拼花 ",
+        "fr": "安妮公主异形拼花 ",
+        "pt": "安妮公主异形拼花 "
       }
     },
     {
@@ -104,7 +104,7 @@
     },
     {
       "name": {
-        "en": "Lock Type",
+        "en": "Lock",
         "ru": "Замок",
         "zh": "槽口",
         "es": "Cierre",

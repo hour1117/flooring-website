@@ -1,12 +1,12 @@
 {
   "slug": "versailles-16",
   "title": {
-    "en": "八边凡尔赛拼花 — 橡木",
-    "ru": "八边凡尔赛拼花 — 橡木",
+    "en": "八边凡尔赛拼花 — Oak",
+    "ru": "八边凡尔赛拼花 — Дуб",
     "zh": "八边凡尔赛拼花 — 橡木",
-    "es": "八边凡尔赛拼花 — 橡木",
-    "fr": "八边凡尔赛拼花 — 橡木",
-    "pt": "八边凡尔赛拼花 — 橡木"
+    "es": "八边凡尔赛拼花 — Roble",
+    "fr": "八边凡尔赛拼花 — Chêne",
+    "pt": "八边凡尔赛拼花 — Carvalho"
   },
   "category": "versailles",
   "featured_image": "/images/uploads/parquet/versailles/versailles-1.jpg",
@@ -14,12 +14,12 @@
     "/images/uploads/parquet/versailles/versailles-1.jpg"
   ],
   "short_description": {
-    "en": "Model: 八边凡尔赛拼花 | Core: 全桦基材 | Wood Veneer: 橡木 | Finish: 化变Reactive Stain 平面 | Lock Type: 榫槽 | Size: 600x600X15/1.2mm | Grade: AB",
-    "ru": "Модель: 八边凡尔赛拼花 | Основа: 全桦基材 | Шпон: 橡木 | Отделка: 化变Reactive Stain 平面 | Замок: 榫槽 | Размер: 600x600X15/1.2mm | Сорт: AB",
-    "zh": "型号：八边凡尔赛拼花 | 基材：全桦基材 | 树皮：橡木 | 工艺：化变Reactive Stain 平面 | 槽口：榫槽 | 规格：600x600X15/1.2mm | 等级：AB",
-    "es": "Modelo: 八边凡尔赛拼花 | Base: 全桦基材 | Chapa: 橡木 | Acabado: 化变Reactive Stain 平面 | Cierre: 榫槽 | Tamaño: 600x600X15/1.2mm | Grado: AB",
-    "fr": "Modèle: 八边凡尔赛拼花 | Base: 全桦基材 | Placage: 橡木 | Finition: 化变Reactive Stain 平面 | Verrou: 榫槽 | Taille: 600x600X15/1.2mm | Grade: AB",
-    "pt": "Modelo: 八边凡尔赛拼花 | Base: 全桦基材 | Folheado: 橡木 | Acabamento: 化变Reactive Stain 平面 | Fecho: 榫槽 | Tamanho: 600x600X15/1.2mm | Grau: AB"
+    "en": "Model: 八边凡尔赛拼花 | Core: 全桦基材 | Wood Veneer: 橡木 | Finish: 化变Reactive Stain 平面 | Lock: 榫槽 | Size: 600x600X15/1.2mm  | Grade: AB",
+    "ru": "Модель: 八边凡尔赛拼花 | Основа: 全桦基材 | Шпон: 橡木 | Отделка: 化变Reactive Stain 平面 | Замок: 榫槽 | Размер: 600x600X15/1.2mm  | Сорт: AB",
+    "zh": "型号: 八边凡尔赛拼花 | 基材: 全桦基材 | 树皮: 橡木 | 工艺: 化变Reactive Stain 平面 | 槽口: 榫槽 | 规格: 600x600X15/1.2mm  | 等级: AB",
+    "es": "Modelo: 八边凡尔赛拼花 | Base: 全桦基材 | Chapa: 橡木 | Acabado: 化变Reactive Stain 平面 | Cierre: 榫槽 | Tamaño: 600x600X15/1.2mm  | Grado: AB",
+    "fr": "Modèle: 八边凡尔赛拼花 | Base: 全桦基材 | Placage: 橡木 | Finition: 化变Reactive Stain 平面 | Verrou: 榫槽 | Taille: 600x600X15/1.2mm  | Grade: AB",
+    "pt": "Modelo: 八边凡尔赛拼花 | Base: 全桦基材 | Folheado: 橡木 | Acabamento: 化变Reactive Stain 平面 | Fecho: 榫槽 | Tamanho: 600x600X15/1.2mm  | Grau: AB"
   },
   "body": {
     "en": "",
@@ -104,7 +104,7 @@
     },
     {
       "name": {
-        "en": "Lock Type",
+        "en": "Lock",
         "ru": "Замок",
         "zh": "槽口",
         "es": "Cierre",
@@ -130,12 +130,12 @@
         "pt": "Tamanho"
       },
       "value": {
-        "en": "600x600X15/1.2mm",
-        "ru": "600x600X15/1.2mm",
-        "zh": "600x600X15/1.2mm",
-        "es": "600x600X15/1.2mm",
-        "fr": "600x600X15/1.2mm",
-        "pt": "600x600X15/1.2mm"
+        "en": "600x600X15/1.2mm ",
+        "ru": "600x600X15/1.2mm ",
+        "zh": "600x600X15/1.2mm ",
+        "es": "600x600X15/1.2mm ",
+        "fr": "600x600X15/1.2mm ",
+        "pt": "600x600X15/1.2mm "
       }
     },
     {

@@ -1,12 +1,12 @@
 {
   "slug": "3layer-solid-24",
   "title": {
-    "en": "QN-62 — 黑胡桃",
-    "ru": "QN-62 — 黑胡桃",
+    "en": "QN-62 — Black Walnut",
+    "ru": "QN-62 — Черный Орех",
     "zh": "QN-62 — 黑胡桃",
-    "es": "QN-62 — 黑胡桃",
-    "fr": "QN-62 — 黑胡桃",
-    "pt": "QN-62 — 黑胡桃"
+    "es": "QN-62 — Nogal Negro",
+    "fr": "QN-62 — Noyer Noir",
+    "pt": "QN-62 — Nogueira Preta"
   },
   "category": "3layer-solid",
   "featured_image": "/images/uploads/parquet/3layer-solid/3layer-solid-2.png",
@@ -14,12 +14,12 @@
     "/images/uploads/parquet/3layer-solid/3layer-solid-2.png"
   ],
   "short_description": {
-    "en": "Model: QN-62 | Wood Species: 黑胡桃 | Eco Standard: ENF 级 | Grade: AB | Size: 1900*192*15/3.0 | Core Material: 进口芬兰云杉芯 | Lock Type: 四边大锁扣 | Finish: 平面微拉丝",
+    "en": "Model: QN-62 | Wood Species: 黑胡桃 | Eco: ENF 级 | Grade: AB | Size: 1900*192*15/3.0 | Core Material: 进口芬兰云杉芯 | Lock: 四边大锁扣 | Finish: 平面微拉丝",
     "ru": "Модель: QN-62 | Порода: 黑胡桃 | Эко: ENF 级 | Сорт: AB | Размер: 1900*192*15/3.0 | Сердцевина: 进口芬兰云杉芯 | Замок: 四边大锁扣 | Отделка: 平面微拉丝",
-    "zh": "型号：QN-62 | 树种：黑胡桃 | 环保：ENF 级 | 等级：AB | 规格：1900*192*15/3.0 | 芯材：进口芬兰云杉芯 | 槽口：四边大锁扣 | 工艺：平面微拉丝",
-    "es": "Modelo: QN-62 | Especie: 黑胡桃 | Estándar Eco: ENF 级 | Grado: AB | Tamaño: 1900*192*15/3.0 | Núcleo: 进口芬兰云杉芯 | Cierre: 四边大锁扣 | Acabado: 平面微拉丝",
-    "fr": "Modèle: QN-62 | Essence: 黑胡桃 | Norme Éco: ENF 级 | Grade: AB | Taille: 1900*192*15/3.0 | Âme: 进口芬兰云杉芯 | Verrou: 四边大锁扣 | Finition: 平面微拉丝",
-    "pt": "Modelo: QN-62 | Espécie: 黑胡桃 | Padrão Eco: ENF 级 | Grau: AB | Tamanho: 1900*192*15/3.0 | Núcleo: 进口芬兰云杉芯 | Fecho: 四边大锁扣 | Acabamento: 平面微拉丝"
+    "zh": "型号: QN-62 | 树种: 黑胡桃 | 环保: ENF 级 | 等级: AB | 规格: 1900*192*15/3.0 | 芯材: 进口芬兰云杉芯 | 槽口: 四边大锁扣 | 工艺: 平面微拉丝",
+    "es": "Modelo: QN-62 | Especie: 黑胡桃 | Eco: ENF 级 | Grado: AB | Tamaño: 1900*192*15/3.0 | Núcleo: 进口芬兰云杉芯 | Cierre: 四边大锁扣 | Acabado: 平面微拉丝",
+    "fr": "Modèle: QN-62 | Essence: 黑胡桃 | Éco: ENF 级 | Grade: AB | Taille: 1900*192*15/3.0 | Âme: 进口芬兰云杉芯 | Verrou: 四边大锁扣 | Finition: 平面微拉丝",
+    "pt": "Modelo: QN-62 | Espécie: 黑胡桃 | Eco: ENF 级 | Grau: AB | Tamanho: 1900*192*15/3.0 | Núcleo: 进口芬兰云杉芯 | Fecho: 四边大锁扣 | Acabamento: 平面微拉丝"
   },
   "body": {
     "en": "",
@@ -68,12 +68,12 @@
     },
     {
       "name": {
-        "en": "Eco Standard",
+        "en": "Eco",
         "ru": "Эко",
         "zh": "环保",
-        "es": "Estándar Eco",
-        "fr": "Norme Éco",
-        "pt": "Padrão Eco"
+        "es": "Eco",
+        "fr": "Éco",
+        "pt": "Eco"
       },
       "value": {
         "en": "ENF 级",
@@ -140,7 +140,7 @@
     },
     {
       "name": {
-        "en": "Lock Type",
+        "en": "Lock",
         "ru": "Замок",
         "zh": "槽口",
         "es": "Cierre",

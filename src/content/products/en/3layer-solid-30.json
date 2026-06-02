@@ -1,12 +1,12 @@
 {
   "slug": "3layer-solid-30",
   "title": {
-    "en": "QN-6669 — 欧洲白橡",
-    "ru": "QN-6669 — 欧洲白橡",
+    "en": "QN-6669 — European White Oak",
+    "ru": "QN-6669 — Европейский Белый Дуб",
     "zh": "QN-6669 — 欧洲白橡",
-    "es": "QN-6669 — 欧洲白橡",
-    "fr": "QN-6669 — 欧洲白橡",
-    "pt": "QN-6669 — 欧洲白橡"
+    "es": "QN-6669 — Roble Blanco Europeo",
+    "fr": "QN-6669 — Chêne Blanc Européen",
+    "pt": "QN-6669 — Carvalho Branco Europeu"
   },
   "category": "3layer-solid",
   "featured_image": "/images/uploads/parquet/3layer-solid/3layer-solid-8.png",
@@ -14,12 +14,12 @@
     "/images/uploads/parquet/3layer-solid/3layer-solid-8.png"
   ],
   "short_description": {
-    "en": "Model: QN-6669 | Wood Species: 欧洲白橡 | Eco Standard: ENF 级 | Adhesive: 芬兰太尔胶 | Size: 1900*192*15/3.0 | Core Material: 进口芬兰云杉芯 | Lock Type: 覆膜锁扣 | Finish: 微拉丝 / 水性半透 UV",
+    "en": "Model: QN-6669 | Wood Species: 欧洲白橡 | Eco: ENF 级 | Adhesive: 芬兰太尔胶 | Size: 1900*192*15/3.0 | Core Material: 进口芬兰云杉芯 | Lock: 覆膜锁扣 | Finish: 微拉丝 / 水性半透 UV",
     "ru": "Модель: QN-6669 | Порода: 欧洲白橡 | Эко: ENF 级 | Клей: 芬兰太尔胶 | Размер: 1900*192*15/3.0 | Сердцевина: 进口芬兰云杉芯 | Замок: 覆膜锁扣 | Отделка: 微拉丝 / 水性半透 UV",
-    "zh": "型号：QN-6669 | 树种：欧洲白橡 | 环保：ENF 级 | 胶水：芬兰太尔胶 | 规格：1900*192*15/3.0 | 芯材：进口芬兰云杉芯 | 槽口：覆膜锁扣 | 工艺：微拉丝 / 水性半透 UV",
-    "es": "Modelo: QN-6669 | Especie: 欧洲白橡 | Estándar Eco: ENF 级 | Adhesivo: 芬兰太尔胶 | Tamaño: 1900*192*15/3.0 | Núcleo: 进口芬兰云杉芯 | Cierre: 覆膜锁扣 | Acabado: 微拉丝 / 水性半透 UV",
-    "fr": "Modèle: QN-6669 | Essence: 欧洲白橡 | Norme Éco: ENF 级 | Colle: 芬兰太尔胶 | Taille: 1900*192*15/3.0 | Âme: 进口芬兰云杉芯 | Verrou: 覆膜锁扣 | Finition: 微拉丝 / 水性半透 UV",
-    "pt": "Modelo: QN-6669 | Espécie: 欧洲白橡 | Padrão Eco: ENF 级 | Adesivo: 芬兰太尔胶 | Tamanho: 1900*192*15/3.0 | Núcleo: 进口芬兰云杉芯 | Fecho: 覆膜锁扣 | Acabamento: 微拉丝 / 水性半透 UV"
+    "zh": "型号: QN-6669 | 树种: 欧洲白橡 | 环保: ENF 级 | 胶水: 芬兰太尔胶 | 规格: 1900*192*15/3.0 | 芯材: 进口芬兰云杉芯 | 槽口: 覆膜锁扣 | 工艺: 微拉丝 / 水性半透 UV",
+    "es": "Modelo: QN-6669 | Especie: 欧洲白橡 | Eco: ENF 级 | Adhesivo: 芬兰太尔胶 | Tamaño: 1900*192*15/3.0 | Núcleo: 进口芬兰云杉芯 | Cierre: 覆膜锁扣 | Acabado: 微拉丝 / 水性半透 UV",
+    "fr": "Modèle: QN-6669 | Essence: 欧洲白橡 | Éco: ENF 级 | Colle: 芬兰太尔胶 | Taille: 1900*192*15/3.0 | Âme: 进口芬兰云杉芯 | Verrou: 覆膜锁扣 | Finition: 微拉丝 / 水性半透 UV",
+    "pt": "Modelo: QN-6669 | Espécie: 欧洲白橡 | Eco: ENF 级 | Adesivo: 芬兰太尔胶 | Tamanho: 1900*192*15/3.0 | Núcleo: 进口芬兰云杉芯 | Fecho: 覆膜锁扣 | Acabamento: 微拉丝 / 水性半透 UV"
   },
   "body": {
     "en": "",
@@ -68,12 +68,12 @@
     },
     {
       "name": {
-        "en": "Eco Standard",
+        "en": "Eco",
         "ru": "Эко",
         "zh": "环保",
-        "es": "Estándar Eco",
-        "fr": "Norme Éco",
-        "pt": "Padrão Eco"
+        "es": "Eco",
+        "fr": "Éco",
+        "pt": "Eco"
       },
       "value": {
         "en": "ENF 级",
@@ -140,7 +140,7 @@
     },
     {
       "name": {
-        "en": "Lock Type",
+        "en": "Lock",
         "ru": "Замок",
         "zh": "槽口",
         "es": "Cierre",

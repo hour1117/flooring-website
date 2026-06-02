@@ -1,0 +1,161 @@
+{
+  "slug": "chevron-42",
+  "title": {
+    "en": "鱼骨拼 — Teak",
+    "ru": "鱼骨拼 — Тик",
+    "zh": "鱼骨拼 — 柚木",
+    "es": "鱼骨拼 — Teca",
+    "fr": "鱼骨拼 — Teck",
+    "pt": "鱼骨拼 — Teca"
+  },
+  "category": "chevron",
+  "featured_image": "/images/uploads/parquet/chevron/chevron-2.jpg",
+  "gallery": [
+    "/images/uploads/parquet/chevron/chevron-2.jpg"
+  ],
+  "short_description": {
+    "en": "Model: 鱼骨拼 | Core: 全桦基材 | Wood Veneer: 柚木 | Finish: UV漆 浅拉丝 | Lock: 平扣 | Size: 550*92*15/0.6mm | Grade: AB",
+    "ru": "Модель: 鱼骨拼 | Основа: 全桦基材 | Шпон: 柚木 | Отделка: UV漆 浅拉丝 | Замок: 平扣 | Размер: 550*92*15/0.6mm | Сорт: AB",
+    "zh": "型号: 鱼骨拼 | 基材: 全桦基材 | 树皮: 柚木 | 工艺: UV漆 浅拉丝 | 槽口: 平扣 | 规格: 550*92*15/0.6mm | 等级: AB",
+    "es": "Modelo: 鱼骨拼 | Base: 全桦基材 | Chapa: 柚木 | Acabado: UV漆 浅拉丝 | Cierre: 平扣 | Tamaño: 550*92*15/0.6mm | Grado: AB",
+    "fr": "Modèle: 鱼骨拼 | Base: 全桦基材 | Placage: 柚木 | Finition: UV漆 浅拉丝 | Verrou: 平扣 | Taille: 550*92*15/0.6mm | Grade: AB",
+    "pt": "Modelo: 鱼骨拼 | Base: 全桦基材 | Folheado: 柚木 | Acabamento: UV漆 浅拉丝 | Fecho: 平扣 | Tamanho: 550*92*15/0.6mm | Grau: AB"
+  },
+  "body": {
+    "en": "",
+    "ru": "",
+    "zh": "",
+    "es": "",
+    "fr": "",
+    "pt": ""
+  },
+  "specs": [
+    {
+      "name": {
+        "en": "Model",
+        "ru": "Модель",
+        "zh": "型号",
+        "es": "Modelo",
+        "fr": "Modèle",
+        "pt": "Modelo"
+      },
+      "value": {
+        "en": "鱼骨拼",
+        "ru": "鱼骨拼",
+        "zh": "鱼骨拼",
+        "es": "鱼骨拼",
+        "fr": "鱼骨拼",
+        "pt": "鱼骨拼"
+      }
+    },
+    {
+      "name": {
+        "en": "Core",
+        "ru": "Основа",
+        "zh": "基材",
+        "es": "Base",
+        "fr": "Base",
+        "pt": "Base"
+      },
+      "value": {
+        "en": "全桦基材",
+        "ru": "全桦基材",
+        "zh": "全桦基材",
+        "es": "全桦基材",
+        "fr": "全桦基材",
+        "pt": "全桦基材"
+      }
+    },
+    {
+      "name": {
+        "en": "Wood Veneer",
+        "ru": "Шпон",
+        "zh": "树皮",
+        "es": "Chapa",
+        "fr": "Placage",
+        "pt": "Folheado"
+      },
+      "value": {
+        "en": "柚木",
+        "ru": "柚木",
+        "zh": "柚木",
+        "es": "柚木",
+        "fr": "柚木",
+        "pt": "柚木"
+      }
+    },
+    {
+      "name": {
+        "en": "Finish",
+        "ru": "Отделка",
+        "zh": "工艺",
+        "es": "Acabado",
+        "fr": "Finition",
+        "pt": "Acabamento"
+      },
+      "value": {
+        "en": "UV漆 浅拉丝",
+        "ru": "UV漆 浅拉丝",
+        "zh": "UV漆 浅拉丝",
+        "es": "UV漆 浅拉丝",
+        "fr": "UV漆 浅拉丝",
+        "pt": "UV漆 浅拉丝"
+      }
+    },
+    {
+      "name": {
+        "en": "Lock",
+        "ru": "Замок",
+        "zh": "槽口",
+        "es": "Cierre",
+        "fr": "Verrou",
+        "pt": "Fecho"
+      },
+      "value": {
+        "en": "平扣",
+        "ru": "平扣",
+        "zh": "平扣",
+        "es": "平扣",
+        "fr": "平扣",
+        "pt": "平扣"
+      }
+    },
+    {
+      "name": {
+        "en": "Size",
+        "ru": "Размер",
+        "zh": "规格",
+        "es": "Tamaño",
+        "fr": "Taille",
+        "pt": "Tamanho"
+      },
+      "value": {
+        "en": "550*92*15/0.6mm",
+        "ru": "550*92*15/0.6mm",
+        "zh": "550*92*15/0.6mm",
+        "es": "550*92*15/0.6mm",
+        "fr": "550*92*15/0.6mm",
+        "pt": "550*92*15/0.6mm"
+      }
+    },
+    {
+      "name": {
+        "en": "Grade",
+        "ru": "Сорт",
+        "zh": "等级",
+        "es": "Grado",
+        "fr": "Grade",
+        "pt": "Grau"
+      },
+      "value": {
+        "en": "AB",
+        "ru": "AB",
+        "zh": "AB",
+        "es": "AB",
+        "fr": "AB",
+        "pt": "AB"
+      }
+    }
+  ],
+  "is_featured": false
+}

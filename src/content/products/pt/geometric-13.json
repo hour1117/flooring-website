@@ -1,12 +1,12 @@
 {
   "slug": "geometric-13",
   "title": {
-    "en": "钻石几何拼花 — 橡木",
-    "ru": "钻石几何拼花 — 橡木",
+    "en": "钻石几何拼花 — Oak",
+    "ru": "钻石几何拼花 — Дуб",
     "zh": "钻石几何拼花 — 橡木",
-    "es": "钻石几何拼花 — 橡木",
-    "fr": "钻石几何拼花 — 橡木",
-    "pt": "钻石几何拼花 — 橡木"
+    "es": "钻石几何拼花 — Roble",
+    "fr": "钻石几何拼花 — Chêne",
+    "pt": "钻石几何拼花 — Carvalho"
   },
   "category": "geometric",
   "featured_image": "/images/uploads/parquet/geometric/geometric-2.jpg",
@@ -14,12 +14,12 @@
     "/images/uploads/parquet/geometric/geometric-2.jpg"
   ],
   "short_description": {
-    "en": "Model: 钻石几何拼花 | Core: 全桦基材 | Wood Veneer: 橡木 | Finish: UV漆 平面勾线 | Lock Type: 平扣 | Size: 600x600X15/1.2mm | Grade: AB",
-    "ru": "Модель: 钻石几何拼花 | Основа: 全桦基材 | Шпон: 橡木 | Отделка: UV漆 平面勾线 | Замок: 平扣 | Размер: 600x600X15/1.2mm | Сорт: AB",
-    "zh": "型号：钻石几何拼花 | 基材：全桦基材 | 树皮：橡木 | 工艺：UV漆 平面勾线 | 槽口：平扣 | 规格：600x600X15/1.2mm | 等级：AB",
-    "es": "Modelo: 钻石几何拼花 | Base: 全桦基材 | Chapa: 橡木 | Acabado: UV漆 平面勾线 | Cierre: 平扣 | Tamaño: 600x600X15/1.2mm | Grado: AB",
-    "fr": "Modèle: 钻石几何拼花 | Base: 全桦基材 | Placage: 橡木 | Finition: UV漆 平面勾线 | Verrou: 平扣 | Taille: 600x600X15/1.2mm | Grade: AB",
-    "pt": "Modelo: 钻石几何拼花 | Base: 全桦基材 | Folheado: 橡木 | Acabamento: UV漆 平面勾线 | Fecho: 平扣 | Tamanho: 600x600X15/1.2mm | Grau: AB"
+    "en": "Model: 钻石几何拼花 | Core: 全桦基材 | Wood Veneer: 橡木 | Finish: UV漆 平面勾线 | Lock: 平扣 | Size: 600x600X15/1.2mm  | Grade: AB",
+    "ru": "Модель: 钻石几何拼花 | Основа: 全桦基材 | Шпон: 橡木 | Отделка: UV漆 平面勾线 | Замок: 平扣 | Размер: 600x600X15/1.2mm  | Сорт: AB",
+    "zh": "型号: 钻石几何拼花 | 基材: 全桦基材 | 树皮: 橡木 | 工艺: UV漆 平面勾线 | 槽口: 平扣 | 规格: 600x600X15/1.2mm  | 等级: AB",
+    "es": "Modelo: 钻石几何拼花 | Base: 全桦基材 | Chapa: 橡木 | Acabado: UV漆 平面勾线 | Cierre: 平扣 | Tamaño: 600x600X15/1.2mm  | Grado: AB",
+    "fr": "Modèle: 钻石几何拼花 | Base: 全桦基材 | Placage: 橡木 | Finition: UV漆 平面勾线 | Verrou: 平扣 | Taille: 600x600X15/1.2mm  | Grade: AB",
+    "pt": "Modelo: 钻石几何拼花 | Base: 全桦基材 | Folheado: 橡木 | Acabamento: UV漆 平面勾线 | Fecho: 平扣 | Tamanho: 600x600X15/1.2mm  | Grau: AB"
   },
   "body": {
     "en": "",
@@ -104,7 +104,7 @@
     },
     {
       "name": {
-        "en": "Lock Type",
+        "en": "Lock",
         "ru": "Замок",
         "zh": "槽口",
         "es": "Cierre",
@@ -130,12 +130,12 @@
         "pt": "Tamanho"
       },
       "value": {
-        "en": "600x600X15/1.2mm",
-        "ru": "600x600X15/1.2mm",
-        "zh": "600x600X15/1.2mm",
-        "es": "600x600X15/1.2mm",
-        "fr": "600x600X15/1.2mm",
-        "pt": "600x600X15/1.2mm"
+        "en": "600x600X15/1.2mm ",
+        "ru": "600x600X15/1.2mm ",
+        "zh": "600x600X15/1.2mm ",
+        "es": "600x600X15/1.2mm ",
+        "fr": "600x600X15/1.2mm ",
+        "pt": "600x600X15/1.2mm "
       }
     },
     {

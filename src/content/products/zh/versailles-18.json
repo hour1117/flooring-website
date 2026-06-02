@@ -1,12 +1,12 @@
 {
   "slug": "versailles-18",
   "title": {
-    "en": "凡尔赛法式拼花 — 缅甸柚木",
-    "ru": "凡尔赛法式拼花 — 缅甸柚木",
+    "en": "凡尔赛法式拼花 — Burmese Teak",
+    "ru": "凡尔赛法式拼花 — Бирманский Тик",
     "zh": "凡尔赛法式拼花 — 缅甸柚木",
-    "es": "凡尔赛法式拼花 — 缅甸柚木",
-    "fr": "凡尔赛法式拼花 — 缅甸柚木",
-    "pt": "凡尔赛法式拼花 — 缅甸柚木"
+    "es": "凡尔赛法式拼花 — Teca Birmana",
+    "fr": "凡尔赛法式拼花 — Teck Birman",
+    "pt": "凡尔赛法式拼花 — Teca Birmanesa"
   },
   "category": "versailles",
   "featured_image": "/images/uploads/parquet/versailles/versailles-3.jpg",
@@ -14,9 +14,9 @@
     "/images/uploads/parquet/versailles/versailles-3.jpg"
   ],
   "short_description": {
-    "en": "Model: 凡尔赛法式拼花 | Core: 全桦基材 | Wood Veneer: 缅甸柚木 | Finish: UV漆 平面勾线 | Lock Type: 平扣 | Size: 600×600×15/1.2mm | Grade: AB",
+    "en": "Model: 凡尔赛法式拼花 | Core: 全桦基材 | Wood Veneer: 缅甸柚木 | Finish: UV漆 平面勾线 | Lock: 平扣 | Size: 600×600×15/1.2mm | Grade: AB",
     "ru": "Модель: 凡尔赛法式拼花 | Основа: 全桦基材 | Шпон: 缅甸柚木 | Отделка: UV漆 平面勾线 | Замок: 平扣 | Размер: 600×600×15/1.2mm | Сорт: AB",
-    "zh": "型号：凡尔赛法式拼花 | 基材：全桦基材 | 树皮：缅甸柚木 | 工艺：UV漆 平面勾线 | 槽口：平扣 | 规格：600×600×15/1.2mm | 等级：AB",
+    "zh": "型号: 凡尔赛法式拼花 | 基材: 全桦基材 | 树皮: 缅甸柚木 | 工艺: UV漆 平面勾线 | 槽口: 平扣 | 规格: 600×600×15/1.2mm | 等级: AB",
     "es": "Modelo: 凡尔赛法式拼花 | Base: 全桦基材 | Chapa: 缅甸柚木 | Acabado: UV漆 平面勾线 | Cierre: 平扣 | Tamaño: 600×600×15/1.2mm | Grado: AB",
     "fr": "Modèle: 凡尔赛法式拼花 | Base: 全桦基材 | Placage: 缅甸柚木 | Finition: UV漆 平面勾线 | Verrou: 平扣 | Taille: 600×600×15/1.2mm | Grade: AB",
     "pt": "Modelo: 凡尔赛法式拼花 | Base: 全桦基材 | Folheado: 缅甸柚木 | Acabamento: UV漆 平面勾线 | Fecho: 平扣 | Tamanho: 600×600×15/1.2mm | Grau: AB"
@@ -104,7 +104,7 @@
     },
     {
       "name": {
-        "en": "Lock Type",
+        "en": "Lock",
         "ru": "Замок",
         "zh": "槽口",
         "es": "Cierre",

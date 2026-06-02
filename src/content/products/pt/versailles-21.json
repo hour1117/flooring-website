@@ -1,12 +1,12 @@
 {
   "slug": "versailles-21",
   "title": {
-    "en": "风车凡尔赛拼花 — 橡木",
-    "ru": "风车凡尔赛拼花 — 橡木",
+    "en": "风车凡尔赛拼花 — Oak",
+    "ru": "风车凡尔赛拼花 — Дуб",
     "zh": "风车凡尔赛拼花 — 橡木",
-    "es": "风车凡尔赛拼花 — 橡木",
-    "fr": "风车凡尔赛拼花 — 橡木",
-    "pt": "风车凡尔赛拼花 — 橡木"
+    "es": "风车凡尔赛拼花 — Roble",
+    "fr": "风车凡尔赛拼花 — Chêne",
+    "pt": "风车凡尔赛拼花 — Carvalho"
   },
   "category": "versailles",
   "featured_image": "/images/uploads/parquet/versailles/versailles-6.png",
@@ -14,9 +14,9 @@
     "/images/uploads/parquet/versailles/versailles-6.png"
   ],
   "short_description": {
-    "en": "Model: 风车凡尔赛拼花 | Core: 全桦基材 | Wood Veneer: 橡木 | Finish: UV漆 拉丝勾线 | Lock Type: 平扣 | Size: 600x600X15/1.2mm | Grade: AB",
+    "en": "Model: 风车凡尔赛拼花 | Core: 全桦基材 | Wood Veneer: 橡木 | Finish: UV漆 拉丝勾线 | Lock: 平扣 | Size: 600x600X15/1.2mm | Grade: AB",
     "ru": "Модель: 风车凡尔赛拼花 | Основа: 全桦基材 | Шпон: 橡木 | Отделка: UV漆 拉丝勾线 | Замок: 平扣 | Размер: 600x600X15/1.2mm | Сорт: AB",
-    "zh": "型号：风车凡尔赛拼花 | 基材：全桦基材 | 树皮：橡木 | 工艺：UV漆 拉丝勾线 | 槽口：平扣 | 规格：600x600X15/1.2mm | 等级：AB",
+    "zh": "型号: 风车凡尔赛拼花 | 基材: 全桦基材 | 树皮: 橡木 | 工艺: UV漆 拉丝勾线 | 槽口: 平扣 | 规格: 600x600X15/1.2mm | 等级: AB",
     "es": "Modelo: 风车凡尔赛拼花 | Base: 全桦基材 | Chapa: 橡木 | Acabado: UV漆 拉丝勾线 | Cierre: 平扣 | Tamaño: 600x600X15/1.2mm | Grado: AB",
     "fr": "Modèle: 风车凡尔赛拼花 | Base: 全桦基材 | Placage: 橡木 | Finition: UV漆 拉丝勾线 | Verrou: 平扣 | Taille: 600x600X15/1.2mm | Grade: AB",
     "pt": "Modelo: 风车凡尔赛拼花 | Base: 全桦基材 | Folheado: 橡木 | Acabamento: UV漆 拉丝勾线 | Fecho: 平扣 | Tamanho: 600x600X15/1.2mm | Grau: AB"
@@ -104,7 +104,7 @@
     },
     {
       "name": {
-        "en": "Lock Type",
+        "en": "Lock",
         "ru": "Замок",
         "zh": "槽口",
         "es": "Cierre",
