@@ -1,12 +1,12 @@
 {
   "slug": "geometric-12",
   "title": {
-    "en": "Chessboard Geometric — 橡木",
-    "ru": "Шахматная Доска Гео — 橡木",
+    "en": "Chessboard Geometric — Oak",
+    "ru": "Шахматы Гео — Дуб",
     "zh": "棋盘格几何拼花  — 橡木",
-    "es": "Geométrico Ajedrez — 橡木",
-    "fr": "Géométrique Échiquier — 橡木",
-    "pt": "Geométrico Xadrez — 橡木"
+    "es": "Geométrico Ajedrez — Roble",
+    "fr": "Géométrique Échiquier — Chêne",
+    "pt": "Geométrico Xadrez — Carvalho"
   },
   "category": "geometric",
   "featured_image": "/images/uploads/parquet/geometric/geometric-11.png",
