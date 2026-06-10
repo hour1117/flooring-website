@@ -56,7 +56,7 @@ export default function Header({ locale, settings, categories }: Props) {
 
         {/* Desktop nav */}
         <nav className="hidden lg:flex items-center gap-8">
-          {(['home', 'products', 'about', 'oem', 'contact'] as const).map((key) => {
+          {(['home', 'products', 'about', 'projects', 'oem', 'contact'] as const).map((key) => {
             const href = key === 'home' ? '/' : key === 'products' ? '/products' : `/${key === 'oem' ? 'oem-odm' : key}`;
             const isActive = key === 'home' ? pathname.replace(/^\/(en|ru|zh|es|fr|pt)/, '/') === '/' : pathname.startsWith(href) && href !== '/';
 
@@ -148,7 +148,7 @@ export default function Header({ locale, settings, categories }: Props) {
                 </div>
               )}
             </div>
-            {(['about', 'oem', 'contact'] as const).map((key) => (
+            {(['about', 'projects', 'oem', 'contact'] as const).map((key) => (
               <Link
                 key={key}
                 href={key === 'oem' ? '/oem-odm' : `/${key}`}
