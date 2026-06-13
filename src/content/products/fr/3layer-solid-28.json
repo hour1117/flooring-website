@@ -175,5 +175,13 @@
       }
     }
   ],
-  "is_featured": false
+  "is_featured": false,
+  "subcategory": {
+    "en": "European Oak",
+    "ru": "Европейский Дуб",
+    "zh": "欧洲橡木",
+    "es": "Roble Europeo",
+    "fr": "Chêne Européen",
+    "pt": "Carvalho Europeu"
+  }
 }

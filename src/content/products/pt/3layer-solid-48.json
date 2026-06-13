@@ -1,0 +1,187 @@
+{
+  "slug": "3layer-solid-48",
+  "title": {
+    "en": "J101 Wood Wax European Oak",
+    "ru": "J101 Воск Европейский Дуб",
+    "zh": "J101 木蜡 欧洲橡木",
+    "es": "J101 Cera Roble Europeo",
+    "fr": "J101 Cire Chêne Européen",
+    "pt": "J101 Cera Carvalho Europeu"
+  },
+  "category": "3layer-solid",
+  "featured_image": "/images/uploads/parquet/3layer-solid/3layer-solid-48.png",
+  "gallery": [
+    "/images/uploads/parquet/3layer-solid/3layer-solid-48.png"
+  ],
+  "short_description": {
+    "en": "Model: J101 Wood Wax European Oak | Wood: European Oak | Eco: ENF | Grade: AB | Size: 2210*242*15/4mm | Core: Imported Finnish Spruce Core | Lock: 5G Lock | Finish: Light Brushed, UV Oil",
+    "ru": "Model: J101 Воск Европейский Дуб | Wood: Европейский Дуб | Eco: ENF | Grade: AB | Size: 2210*242*15/4mm | Core: Импортный Финский Еловый Сердечник | Lock: 5G Замок | Finish: Легкая Брашировка, УФ Масло",
+    "zh": "Model: J101 木蜡 欧洲橡木 | Wood: 欧洲橡木 | Eco: ENF 级 | Grade: AB | Size: 2210*242*15/4mm | Core: 进口芬兰云杉芯 | Lock: 5G 锁扣 | Finish: 轻拉丝・UV 油",
+    "es": "Model: J101 Cera Roble Europeo | Wood: Roble Europeo | Eco: ENF | Grade: AB | Size: 2210*242*15/4mm | Core: Núcleo de Abeto Finlandés | Lock: Cierre 5G | Finish: Cepillado Ligero, Aceite UV",
+    "fr": "Model: J101 Cire Chêne Européen | Wood: Chêne Européen | Eco: ENF | Grade: AB | Size: 2210*242*15/4mm | Core: Noyau d'Épicéa Finlandais | Lock: Verrou 5G | Finish: Légèrement Brossé, Huile UV",
+    "pt": "Model: J101 Cera Carvalho Europeu | Wood: Carvalho Europeu | Eco: ENF | Grade: AB | Size: 2210*242*15/4mm | Core: Núcleo de Abeto Finlandês | Lock: Trava 5G | Finish: Escovado Leve, Óleo UV"
+  },
+  "body": {
+    "en": "",
+    "ru": "",
+    "zh": "",
+    "es": "",
+    "fr": "",
+    "pt": ""
+  },
+  "specs": [
+    {
+      "name": {
+        "en": "Model",
+        "ru": "Модель",
+        "zh": "型号",
+        "es": "Modelo",
+        "fr": "Modèle",
+        "pt": "Modelo"
+      },
+      "value": {
+        "en": "J101 Wood Wax European Oak",
+        "ru": "J101 Воск Европейский Дуб",
+        "zh": "J101 木蜡 欧洲橡木",
+        "es": "J101 Cera Roble Europeo",
+        "fr": "J101 Cire Chêne Européen",
+        "pt": "J101 Cera Carvalho Europeu"
+      }
+    },
+    {
+      "name": {
+        "en": "Wood Species",
+        "ru": "Порода",
+        "zh": "树种",
+        "es": "Especie",
+        "fr": "Essence",
+        "pt": "Espécie"
+      },
+      "value": {
+        "en": "European Oak",
+        "ru": "Европейский Дуб",
+        "zh": "欧洲橡木",
+        "es": "Roble Europeo",
+        "fr": "Chêne Européen",
+        "pt": "Carvalho Europeu"
+      }
+    },
+    {
+      "name": {
+        "en": "Eco Standard",
+        "ru": "Эко Стандарт",
+        "zh": "环保",
+        "es": "Estándar Eco",
+        "fr": "Norme Éco",
+        "pt": "Padrão Eco"
+      },
+      "value": {
+        "en": "ENF",
+        "ru": "ENF",
+        "zh": "ENF 级",
+        "es": "ENF",
+        "fr": "ENF",
+        "pt": "ENF"
+      }
+    },
+    {
+      "name": {
+        "en": "Grade",
+        "ru": "Сорт",
+        "zh": "等级",
+        "es": "Grado",
+        "fr": "Grade",
+        "pt": "Grau"
+      },
+      "value": {
+        "en": "AB",
+        "ru": "AB",
+        "zh": "AB",
+        "es": "AB",
+        "fr": "AB",
+        "pt": "AB"
+      }
+    },
+    {
+      "name": {
+        "en": "Size",
+        "ru": "Размер",
+        "zh": "规格",
+        "es": "Tamaño",
+        "fr": "Taille",
+        "pt": "Tamanho"
+      },
+      "value": {
+        "en": "2210*242*15/4mm",
+        "ru": "2210*242*15/4mm",
+        "zh": "2210*242*15/4mm",
+        "es": "2210*242*15/4mm",
+        "fr": "2210*242*15/4mm",
+        "pt": "2210*242*15/4mm"
+      }
+    },
+    {
+      "name": {
+        "en": "Core",
+        "ru": "Сердечник",
+        "zh": "芯材",
+        "es": "Núcleo",
+        "fr": "Noyau",
+        "pt": "Núcleo"
+      },
+      "value": {
+        "en": "Imported Finnish Spruce Core",
+        "ru": "Импортный Финский Еловый Сердечник",
+        "zh": "进口芬兰云杉芯",
+        "es": "Núcleo de Abeto Finlandés",
+        "fr": "Noyau d'Épicéa Finlandais",
+        "pt": "Núcleo de Abeto Finlandês"
+      }
+    },
+    {
+      "name": {
+        "en": "Lock",
+        "ru": "Замок",
+        "zh": "槽口",
+        "es": "Cierre",
+        "fr": "Verrou",
+        "pt": "Trava"
+      },
+      "value": {
+        "en": "5G Lock",
+        "ru": "5G Замок",
+        "zh": "5G 锁扣",
+        "es": "Cierre 5G",
+        "fr": "Verrou 5G",
+        "pt": "Trava 5G"
+      }
+    },
+    {
+      "name": {
+        "en": "Finish",
+        "ru": "Отделка",
+        "zh": "工艺",
+        "es": "Acabado",
+        "fr": "Finition",
+        "pt": "Acabamento"
+      },
+      "value": {
+        "en": "Light Brushed, UV Oil",
+        "ru": "Легкая Брашировка, УФ Масло",
+        "zh": "轻拉丝・UV 油",
+        "es": "Cepillado Ligero, Aceite UV",
+        "fr": "Légèrement Brossé, Huile UV",
+        "pt": "Escovado Leve, Óleo UV"
+      }
+    }
+  ],
+  "is_featured": false,
+  "subcategory": {
+    "en": "European Oak",
+    "ru": "Европейский Дуб",
+    "zh": "欧洲橡木",
+    "es": "Roble Europeo",
+    "fr": "Chêne Européen",
+    "pt": "Carvalho Europeu"
+  }
+}

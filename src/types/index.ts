@@ -31,6 +31,7 @@ export interface Product {
   slug: string;
   title: LocalizedString;
   category: string;
+  subcategory?: LocalizedString;
   featured_image: string;
   gallery: string[];
   short_description: LocalizedString;

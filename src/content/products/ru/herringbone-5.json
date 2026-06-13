@@ -1,0 +1,161 @@
+{
+  "slug": "herringbone-5",
+  "title": {
+    "en": "Herringbone — Red Vine",
+    "ru": "Ёлочка — Красная Лоза",
+    "zh": "红萝人字拼",
+    "es": "Espiga — Vid Roja",
+    "fr": "Chevron — Vigne Rouge",
+    "pt": "Espinha — Vinha Vermelha"
+  },
+  "category": "herringbone",
+  "featured_image": "/images/uploads/parquet/herringbone/herringbone-5.png",
+  "gallery": [
+    "/images/uploads/parquet/herringbone/herringbone-5.png"
+  ],
+  "short_description": {
+    "en": "Model: 红萝人字拼 | Core: Birch Plywood | Wood Veneer: Red Vine | Finish: Light Brushed, UV Lacquer | Lock: Flat Lock | Size: 560*80*14/3mm | Grade: AB",
+    "ru": "Модель: 红萝人字拼 | Основа: Березовая Фанера | Шпон: Красная Лоза | Отделка: Легкая Брашировка, УФ Лак | Замок: Плоский Замок | Размер: 560*80*14/3mm | Сорт: AB",
+    "zh": "型号: 红萝人字拼 | 基材: 全桦基材 | 树皮: 红萝 | 工艺: 浅拉丝・UV 漆 | 槽口: 平扣 | 规格: 560*80*14/3mm | 等级: AB",
+    "es": "Modelo: 红萝人字拼 | Base: Contrachapado Abedul | Chapa: Vid Roja | Acabado: Cepillado Ligero, Laca UV | Cierre: Plano | Tamaño: 560*80*14/3mm | Grado: AB",
+    "fr": "Modèle: 红萝人字拼 | Base: Contreplaqué Bouleau | Placage: Vigne Rouge | Finition: Légèrement Brossé, Laque UV | Verrou: Plat | Taille: 560*80*14/3mm | Grade: AB",
+    "pt": "Modelo: 红萝人字拼 | Base: Compensado Bétula | Folheado: Vinha Vermelha | Acabamento: Escovado Leve, Laca UV | Fecho: Plano | Tamanho: 560*80*14/3mm | Grau: AB"
+  },
+  "body": {
+    "en": "",
+    "ru": "",
+    "zh": "",
+    "es": "",
+    "fr": "",
+    "pt": ""
+  },
+  "specs": [
+    {
+      "name": {
+        "en": "Model",
+        "ru": "Модель",
+        "zh": "型号",
+        "es": "Modelo",
+        "fr": "Modèle",
+        "pt": "Modelo"
+      },
+      "value": {
+        "en": "Red Vine Herringbone",
+        "ru": "Ёлочка Красная Лоза",
+        "zh": "红萝人字拼",
+        "es": "Espiga Vid Roja",
+        "fr": "Chevron Vigne Rouge",
+        "pt": "Espinha Vinha Vermelha"
+      }
+    },
+    {
+      "name": {
+        "en": "Core",
+        "ru": "Основа",
+        "zh": "基材",
+        "es": "Base",
+        "fr": "Base",
+        "pt": "Base"
+      },
+      "value": {
+        "en": "Birch Plywood",
+        "ru": "Березовая Фанера",
+        "zh": "全桦基材",
+        "es": "Contrachapado Abedul",
+        "fr": "Contreplaqué Bouleau",
+        "pt": "Compensado Bétula"
+      }
+    },
+    {
+      "name": {
+        "en": "Wood Veneer",
+        "ru": "Шпон",
+        "zh": "树皮",
+        "es": "Chapa",
+        "fr": "Placage",
+        "pt": "Folheado"
+      },
+      "value": {
+        "en": "Red Vine",
+        "ru": "Красная Лоза",
+        "zh": "红萝",
+        "es": "Vid Roja",
+        "fr": "Vigne Rouge",
+        "pt": "Vinha Vermelha"
+      }
+    },
+    {
+      "name": {
+        "en": "Finish",
+        "ru": "Отделка",
+        "zh": "工艺",
+        "es": "Acabado",
+        "fr": "Finition",
+        "pt": "Acabamento"
+      },
+      "value": {
+        "en": "Light Brushed, UV Lacquer",
+        "ru": "Легкая Брашировка, УФ Лак",
+        "zh": "浅拉丝・UV 漆",
+        "es": "Cepillado Ligero, Laca UV",
+        "fr": "Légèrement Brossé, Laque UV",
+        "pt": "Escovado Leve, Laca UV"
+      }
+    },
+    {
+      "name": {
+        "en": "Lock",
+        "ru": "Замок",
+        "zh": "槽口",
+        "es": "Cierre",
+        "fr": "Verrou",
+        "pt": "Fecho"
+      },
+      "value": {
+        "en": "Flat Lock",
+        "ru": "Плоский Замок",
+        "zh": "平扣",
+        "es": "Plano",
+        "fr": "Plat",
+        "pt": "Plano"
+      }
+    },
+    {
+      "name": {
+        "en": "Size",
+        "ru": "Размер",
+        "zh": "规格",
+        "es": "Tamaño",
+        "fr": "Taille",
+        "pt": "Tamanho"
+      },
+      "value": {
+        "en": "560*80*14/3mm",
+        "ru": "560*80*14/3mm",
+        "zh": "560*80*14/3mm",
+        "es": "560*80*14/3mm",
+        "fr": "560*80*14/3mm",
+        "pt": "560*80*14/3mm"
+      }
+    },
+    {
+      "name": {
+        "en": "Grade",
+        "ru": "Сорт",
+        "zh": "等级",
+        "es": "Grado",
+        "fr": "Grade",
+        "pt": "Grau"
+      },
+      "value": {
+        "en": "AB",
+        "ru": "AB",
+        "zh": "AB",
+        "es": "AB",
+        "fr": "AB",
+        "pt": "AB"
+      }
+    }
+  ],
+  "is_featured": false
+}

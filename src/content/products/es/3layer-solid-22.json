@@ -175,5 +175,13 @@
       }
     }
   ],
-  "is_featured": true
+  "is_featured": true,
+  "subcategory": {
+    "en": "Black Walnut",
+    "ru": "Черный Орех",
+    "zh": "黑胡桃",
+    "es": "Nogal Negro",
+    "fr": "Noyer Noir",
+    "pt": "Nogueira Preta"
+  }
 }

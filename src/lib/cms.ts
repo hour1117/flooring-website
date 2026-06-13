@@ -59,6 +59,47 @@ export function getProductsByCategory(locale: Locale, category: string): Product
   return getProducts(locale).filter((p) => p.category === category);
 }
 
+export function groupProductsBySubcategory(locale: Locale, category: string): Map<string, Product[]> {
+  const products = getProductsByCategory(locale, category);
+  const groups = new Map<string, Product[]>();
+  for (const p of products) {
+    const key = p.subcategory?.[locale] || p.subcategory?.en || '_none';
+    if (!groups.has(key)) groups.set(key, []);
+    groups.get(key)!.push(p);
+  }
+  // Sort by actual image aspect ratio — portrait first, then landscape
+  const getImageRatio = (p: Product): number => {
+    try {
+      const imgPath = path.join(process.cwd(), 'public', p.featured_image);
+      if (!fs.existsSync(imgPath)) return 1;
+      const buf = fs.readFileSync(imgPath);
+      // PNG: width at bytes 16-19, height at 20-23 (big-endian)
+      if (buf[1] === 0x50 && buf[2] === 0x4E && buf[3] === 0x47) {
+        const w = buf.readUInt32BE(16);
+        const h = buf.readUInt32BE(20);
+        return w / h;
+      }
+      // JPEG: scan for SOF marker (0xFF 0xC0) to get dimensions
+      if (buf[0] === 0xFF && buf[1] === 0xD8) {
+        let i = 2;
+        while (i < buf.length - 8) {
+          if (buf[i] === 0xFF && (buf[i+1] === 0xC0 || buf[i+1] === 0xC2)) {
+            const h = buf.readUInt16BE(i + 5);
+            const w = buf.readUInt16BE(i + 7);
+            return w / h;
+          }
+          i += buf.readUInt16BE(i + 2) + 2;
+        }
+      }
+    } catch {}
+    return 1;
+  };
+  groups.forEach((prods) => {
+    prods.sort((a, b) => getImageRatio(a) - getImageRatio(b));
+  });
+  return groups;
+}
+
 // ---- Categories ----
 export function getCategories(locale: Locale): Category[] {
   const dir = path.join(CONTENT_ROOT, 'categories', locale);

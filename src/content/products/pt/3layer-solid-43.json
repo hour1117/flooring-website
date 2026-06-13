@@ -1,0 +1,187 @@
+{
+  "slug": "3layer-solid-43",
+  "title": {
+    "en": "QN-65 Oak",
+    "ru": "QN-65 Дуб",
+    "zh": "QN-65 橡木",
+    "es": "QN-65 Roble",
+    "fr": "QN-65 Chêne",
+    "pt": "QN-65 Carvalho"
+  },
+  "category": "3layer-solid",
+  "featured_image": "/images/uploads/parquet/3layer-solid/3layer-solid-43.png",
+  "gallery": [
+    "/images/uploads/parquet/3layer-solid/3layer-solid-43.png"
+  ],
+  "short_description": {
+    "en": "Model: QN-65 Oak | Wood: Oak | Eco: ENF | Grade: AB | Size: 1900*190*14/3mm | Core: Imported Finnish Spruce Core | Lock: 4-Sided Large Click Lock | Finish: Natural Texture, Knot & Crack",
+    "ru": "Model: QN-65 Дуб | Wood: Дуб | Eco: ENF | Grade: AB | Size: 1900*190*14/3mm | Core: Импортный Финский Еловый Сердечник | Lock: 4-Сторонний Большой Замок | Finish: Натуральная Текстура, Сучки и Трещины",
+    "zh": "Model: QN-65 橡木 | Wood: 橡木 | Eco: ENF 级 | Grade: AB | Size: 1900*190*14/3mm | Core: 进口芬兰云杉芯 | Lock: 四边大锁扣 | Finish: 自然纹理・结巴裂缝",
+    "es": "Model: QN-65 Roble | Wood: Roble | Eco: ENF | Grade: AB | Size: 1900*190*14/3mm | Core: Núcleo de Abeto Finlandés | Lock: 4 Lados Click Grande | Finish: Textura Natural, Nudos y Grietas",
+    "fr": "Model: QN-65 Chêne | Wood: Chêne | Eco: ENF | Grade: AB | Size: 1900*190*14/3mm | Core: Noyau d'Épicéa Finlandais | Lock: 4 Côtés Grand Clips | Finish: Texture Naturelle, Nœuds et Fissures",
+    "pt": "Model: QN-65 Carvalho | Wood: Carvalho | Eco: ENF | Grade: AB | Size: 1900*190*14/3mm | Core: Núcleo de Abeto Finlandês | Lock: 4 Lados Click Grande | Finish: Textura Natural, Nós e Rachaduras"
+  },
+  "body": {
+    "en": "",
+    "ru": "",
+    "zh": "",
+    "es": "",
+    "fr": "",
+    "pt": ""
+  },
+  "specs": [
+    {
+      "name": {
+        "en": "Model",
+        "ru": "Модель",
+        "zh": "型号",
+        "es": "Modelo",
+        "fr": "Modèle",
+        "pt": "Modelo"
+      },
+      "value": {
+        "en": "QN-65 Oak",
+        "ru": "QN-65 Дуб",
+        "zh": "QN-65 橡木",
+        "es": "QN-65 Roble",
+        "fr": "QN-65 Chêne",
+        "pt": "QN-65 Carvalho"
+      }
+    },
+    {
+      "name": {
+        "en": "Wood Species",
+        "ru": "Порода",
+        "zh": "树种",
+        "es": "Especie",
+        "fr": "Essence",
+        "pt": "Espécie"
+      },
+      "value": {
+        "en": "Oak",
+        "ru": "Дуб",
+        "zh": "橡木",
+        "es": "Roble",
+        "fr": "Chêne",
+        "pt": "Carvalho"
+      }
+    },
+    {
+      "name": {
+        "en": "Eco Standard",
+        "ru": "Эко Стандарт",
+        "zh": "环保",
+        "es": "Estándar Eco",
+        "fr": "Norme Éco",
+        "pt": "Padrão Eco"
+      },
+      "value": {
+        "en": "ENF",
+        "ru": "ENF",
+        "zh": "ENF 级",
+        "es": "ENF",
+        "fr": "ENF",
+        "pt": "ENF"
+      }
+    },
+    {
+      "name": {
+        "en": "Grade",
+        "ru": "Сорт",
+        "zh": "等级",
+        "es": "Grado",
+        "fr": "Grade",
+        "pt": "Grau"
+      },
+      "value": {
+        "en": "AB",
+        "ru": "AB",
+        "zh": "AB",
+        "es": "AB",
+        "fr": "AB",
+        "pt": "AB"
+      }
+    },
+    {
+      "name": {
+        "en": "Size",
+        "ru": "Размер",
+        "zh": "规格",
+        "es": "Tamaño",
+        "fr": "Taille",
+        "pt": "Tamanho"
+      },
+      "value": {
+        "en": "1900*190*14/3mm",
+        "ru": "1900*190*14/3mm",
+        "zh": "1900*190*14/3mm",
+        "es": "1900*190*14/3mm",
+        "fr": "1900*190*14/3mm",
+        "pt": "1900*190*14/3mm"
+      }
+    },
+    {
+      "name": {
+        "en": "Core",
+        "ru": "Сердечник",
+        "zh": "芯材",
+        "es": "Núcleo",
+        "fr": "Noyau",
+        "pt": "Núcleo"
+      },
+      "value": {
+        "en": "Imported Finnish Spruce Core",
+        "ru": "Импортный Финский Еловый Сердечник",
+        "zh": "进口芬兰云杉芯",
+        "es": "Núcleo de Abeto Finlandés",
+        "fr": "Noyau d'Épicéa Finlandais",
+        "pt": "Núcleo de Abeto Finlandês"
+      }
+    },
+    {
+      "name": {
+        "en": "Lock",
+        "ru": "Замок",
+        "zh": "槽口",
+        "es": "Cierre",
+        "fr": "Verrou",
+        "pt": "Trava"
+      },
+      "value": {
+        "en": "4-Sided Large Click Lock",
+        "ru": "4-Сторонний Большой Замок",
+        "zh": "四边大锁扣",
+        "es": "4 Lados Click Grande",
+        "fr": "4 Côtés Grand Clips",
+        "pt": "4 Lados Click Grande"
+      }
+    },
+    {
+      "name": {
+        "en": "Finish",
+        "ru": "Отделка",
+        "zh": "工艺",
+        "es": "Acabado",
+        "fr": "Finition",
+        "pt": "Acabamento"
+      },
+      "value": {
+        "en": "Natural Texture, Knot & Crack",
+        "ru": "Натуральная Текстура, Сучки и Трещины",
+        "zh": "自然纹理・结巴裂缝",
+        "es": "Textura Natural, Nudos y Grietas",
+        "fr": "Texture Naturelle, Nœuds et Fissures",
+        "pt": "Textura Natural, Nós e Rachaduras"
+      }
+    }
+  ],
+  "is_featured": false,
+  "subcategory": {
+    "en": "European Oak",
+    "ru": "Европейский Дуб",
+    "zh": "欧洲橡木",
+    "es": "Roble Europeo",
+    "fr": "Chêne Européen",
+    "pt": "Carvalho Europeu"
+  }
+}
