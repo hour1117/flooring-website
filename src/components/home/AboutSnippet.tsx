@@ -6,8 +6,8 @@ import type { Locale } from '@/types';
 const content: Record<string, Record<string, string>> = {
   en: {
     overline: 'About Liwin',
-    headline: 'Established in 2015 — 15 Years of Export Excellence',
-    intro: 'Liwin Flooring is a professional wooden flooring manufacturer with 15 years of export experience. Our products reach over 20 countries across North America, Europe, Asia, and Oceania. We support flexible customization and eco-friendly production.',
+    headline: 'Established in 2015 — Nearly a Decade of International Experience',
+    intro: 'Liwin Flooring is a professional wooden flooring manufacturer with nearly a decade of international experience. Our products reach over 50 countries across North America, Europe, Asia, and Oceania. We support flexible customization and eco-friendly production.',
     craftTitle: 'Quality First, Customer Supreme',
     craftText: 'Our core team — most with 5+ years in production, design, and international trade — ensures strict quality control and reliable craftsmanship. We offer a full range of flooring: solid wood, engineered, laminate, and parquet.',
     qualityTitle: 'Trusted in 50+ Countries',
@@ -16,7 +16,7 @@ const content: Record<string, Record<string, string>> = {
   },
   ru: {
     overline: 'Наша История',
-    headline: 'Точное Мастерство Паркета с 2003 Года',
+    headline: 'Основана в 2015 — Почти 10 Лет Международного Опыта',
     intro: 'Мы - специализированный производитель паркета с двумя производственными базами площадью 30 000 кв. м в Чанчжоу. Более 20 лет мы посвятили себя искусству паркета.',
     craftTitle: 'Немецкая и Итальянская Точность',
     craftText: 'Наша фабрика использует 6 линий с немецким и итальянским оборудованием. Каждая доска проходит строгий контроль — от сырья до отделки — допуск 0,1 мм.',
@@ -26,7 +26,7 @@ const content: Record<string, Record<string, string>> = {
   },
   zh: {
     overline: '我们的故事',
-    headline: '成立于2015年 — 15年出口经验',
+    headline: '成立于2015年 — 近十年国际经验',
     intro: '我们是专业拼花地板制造商，在常州拥有两个生产基地，总面积30,000平方米。20多年来，我们专注于拼花艺术。',
     craftTitle: '德国与意大利精密',
     craftText: '工厂拥有6条配备德国和意大利精密机械的现代化生产线。每块地板从原木到成品严格质检，精度达0.1mm。',

@@ -4,6 +4,7 @@ import HeroBanner from '@/components/home/HeroBanner';
 import BestSellers from '@/components/home/BestSellers';
 
 import AboutSnippet from '@/components/home/AboutSnippet';
+import CertificatesCarousel from '@/components/home/CertificatesCarousel';
 import ContactCTA from '@/components/home/ContactCTA';
 import RevealOnScroll from '@/components/shared/RevealOnScroll';
 
@@ -25,6 +26,9 @@ export default function HomePage({ params }: Props) {
       )}
       <RevealOnScroll>
         <AboutSnippet locale={locale} />
+      </RevealOnScroll>
+      <RevealOnScroll>
+        <CertificatesCarousel locale={locale} />
       </RevealOnScroll>
       <RevealOnScroll>
         <ContactCTA locale={locale} />

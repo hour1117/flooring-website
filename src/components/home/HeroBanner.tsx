@@ -6,16 +6,16 @@ import type { Locale } from '@/types';
 
 const content: Record<string, { overline: string; title: string; subtitle: string; cta1: string; cta2: string }> = {
   en: {
-    overline: 'Parquet Manufacturer | 20+ Years Excellence',
+    overline: 'Parquet Manufacturer | Since 2015',
     title: 'Premium Parquet Flooring',
-    subtitle: 'Crafted with precision since 2003. Herringbone, chevron, and custom patterns for exceptional interiors.',
+    subtitle: 'Crafted with precision since 2015. Herringbone, chevron, and custom patterns for exceptional interiors.',
     cta1: 'Discover Our Collection',
     cta2: 'Get in Touch',
   },
-  zh: { overline: '拼花地板制造商 | 20+年卓越', title: '高级拼花地板', subtitle: '自2003年精工制造。人字拼、鱼骨拼和定制图案，打造卓越室内空间。', cta1: '浏览产品', cta2: '联系我们' },
-  ru: { overline: 'Производитель Паркета | 20+ Лет',
+  zh: { overline: '拼花地板制造商 | 始于2015', title: '高级拼花地板', subtitle: '自2015年精工制造。人字拼、鱼骨拼和定制图案，打造卓越室内空间。', cta1: '浏览产品', cta2: '联系我们' },
+  ru: { overline: 'Производитель Паркета | С 2015 Года',
     title: 'Премиальный Паркет',
-    subtitle: 'Создано с точностью с 2003 года. Узоры ёлочка, шеврон и индивидуальные дизайны для исключительных интерьеров.',
+    subtitle: 'Создано с точностью с 2015 года. Узоры ёлочка, шеврон и индивидуальные дизайны для исключительных интерьеров.',
     cta1: 'Смотреть Коллекцию',
     cta2: 'Связаться',
   },
