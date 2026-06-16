@@ -86,6 +86,7 @@ export interface SiteSettings {
   site_description: LocalizedString;
   company_name: LocalizedString;
   email: string;
+  email2?: string;
   phone: string;
   whatsapp: string;
   address: LocalizedString;

@@ -49,6 +49,7 @@ export default function Footer({ locale, settings, categories }: Props) {
             <ul className="space-y-3">
               <li><a href={`tel:${settings.phone}`} className="text-sm font-light text-neutral-300 hover:text-white transition-colors">{settings.phone}</a></li>
               <li><a href={`mailto:${settings.email}`} className="text-sm font-light text-neutral-300 hover:text-white transition-colors">{settings.email}</a></li>
+              {settings.email2 && <li><a href={`mailto:${settings.email2}`} className="text-sm font-light text-neutral-300 hover:text-white transition-colors">{settings.email2}</a></li>}
               <li className="text-sm font-light text-neutral-400">{localizedValue(settings.address, locale)}</li>
             </ul>
             <div className="mt-6 flex gap-3">
