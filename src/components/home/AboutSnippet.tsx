@@ -5,11 +5,11 @@ import type { Locale } from '@/types';
 
 const content: Record<string, Record<string, string>> = {
   en: {
-    overline: 'About Liwin',
+    overline: 'About Liancheng',
     headline: 'Established in 2015 — Nearly a Decade of International Experience',
-    intro: 'Liwin Flooring is a professional wooden flooring manufacturer with nearly a decade of international experience. Our products reach over 50 countries across North America, Europe, Asia, and Oceania. We support flexible customization and eco-friendly production.',
-    craftTitle: 'Quality First, Customer Supreme',
-    craftText: 'Our core team — most with 5+ years in production, design, and international trade — ensures strict quality control and reliable craftsmanship. We offer a full range of flooring: solid wood, engineered, laminate, and parquet.',
+    intro: 'Liancheng Flooring is a premium wood flooring manufacturer based in Huzhou, the heart of China\'s wood flooring industry. With nearly a decade of international experience, we serve discerning partners and clients across more than 50 countries.',
+    craftTitle: 'European Precision, Chinese Craftsmanship',
+    craftText: 'Our 30,000 m² facility is equipped with advanced European technology — Austrian Wintersteiger frame saws, Italian Nardi drying kilns, German HOMAG processing lines, and Belgian Uniclic locking systems. Every plank passes ten rigorous quality stages.',
     qualityTitle: 'Trusted in 50+ Countries',
     qualityText: 'Our parquet floors grace luxury hotels, premium residences, and commercial spaces across Europe, the Middle East, Southeast Asia, and the Americas. 15+ international certifications.',
     stat1: 'Experience', stat2: 'Countries', stat3: 'Team Experience', stat4: 'Product Lines',
@@ -17,9 +17,9 @@ const content: Record<string, Record<string, string>> = {
   ru: {
     overline: 'Наша История',
     headline: 'Основана в 2015 — Почти 10 Лет Международного Опыта',
-    intro: 'Мы - специализированный производитель паркета с двумя производственными базами площадью 30 000 кв. м в Чанчжоу. Более 20 лет мы посвятили себя искусству паркета.',
-    craftTitle: 'Немецкая и Итальянская Точность',
-    craftText: 'Наша фабрика использует 6 линий с немецким и итальянским оборудованием. Каждая доска проходит строгий контроль — от сырья до отделки — допуск 0,1 мм.',
+    intro: 'Liancheng Flooring — премиальный производитель деревянных полов из Хучжоу, центра деревообрабатывающей промышленности Китая. С почти десятилетним международным опытом мы обслуживаем взыскательных партнеров и клиентов в более чем 50 странах.',
+    craftTitle: 'Европейская Точность, Китайское Мастерство',
+    craftText: 'Наш завод площадью 30 000 м² оснащен передовым европейским оборудованием — австрийские рамные пилы Wintersteiger, итальянские сушильные камеры Nardi, немецкие линии HOMAG и бельгийские замки Uniclic. Каждая доска проходит десять строгих этапов контроля.',
     qualityTitle: 'Доверие в 50+ Странах',
     qualityText: 'Наши полы в отелях, резиденциях и коммерческих помещениях Европы, Ближнего Востока, Азии и Америки. Более 15 международных сертификатов.',
     stat1: 'Производство', stat2: 'Страны', stat3: 'Годы', stat4: 'Мастера',
@@ -27,9 +27,9 @@ const content: Record<string, Record<string, string>> = {
   zh: {
     overline: '我们的故事',
     headline: '成立于2015年 — 近十年国际经验',
-    intro: '我们是专业拼花地板制造商，在常州拥有两个生产基地，总面积30,000平方米。20多年来，我们专注于拼花艺术。',
-    craftTitle: '德国与意大利精密',
-    craftText: '工厂拥有6条配备德国和意大利精密机械的现代化生产线。每块地板从原木到成品严格质检，精度达0.1mm。',
+    intro: 'Liancheng Flooring是一家高端木地板制造商，位于中国木地板之都湖州。拥有近十年的国际经验，我们服务全球50多个国家的挑剔客户与合作伙伴。',
+    craftTitle: '欧洲精密，中国制造',
+    craftText: '30,000平方米生产基地配备先进欧洲技术 — 奥地利Wintersteiger框锯、意大利Nardi干燥窑、德国HOMAG生产线和比利时Uniclic锁扣系统。每块地板经过十道严格质检工序。',
     qualityTitle: '50+国家的信任',
     qualityText: '我们的拼花地板遍布欧洲、中东、东南亚和美洲的豪华酒店、高端住宅和商业空间。持有15+国际认证。',
     stat1: '生产面积', stat2: '国家', stat3: '年份', stat4: '工匠',
@@ -81,7 +81,7 @@ export default function AboutSnippet({ locale }: { locale: Locale }) {
             <div className="mt-10 grid grid-cols-4 gap-8">
               <div><p className="text-2xl font-light text-black">30,000 m²</p><p className="mt-1 text-xs text-neutral-400">{t.stat1}</p></div>
               <div><p className="text-2xl font-light text-black">50+</p><p className="mt-1 text-xs text-neutral-400">{t.stat2}</p></div>
-              <div><p className="text-2xl font-light text-black">20+</p><p className="mt-1 text-xs text-neutral-400">{t.stat3}</p></div>
+              <div><p className="text-2xl font-light text-black">10+</p><p className="mt-1 text-xs text-neutral-400">{t.stat3}</p></div>
               <div><p className="text-2xl font-light text-black">200+</p><p className="mt-1 text-xs text-neutral-400">{t.stat4}</p></div>
             </div>
           </SlideInSection>
