@@ -5,34 +5,34 @@ import type { Locale } from '@/types';
 
 const content: Record<string, Record<string, string>> = {
   en: {
-    overline: 'About Liancheng',
-    headline: 'Established in 2015 — Nearly a Decade of International Experience',
-    intro: 'Liancheng Flooring is a premium wood flooring manufacturer based in Huzhou, the heart of China\'s wood flooring industry. With nearly a decade of international experience, we serve discerning partners and clients across more than 50 countries.',
+    overline: 'About Avonda',
+    headline: '40 Years of Heritage. A New Standard in Premium Flooring.',
+    intro: 'Avonda is the premium brand of Liancheng Wood Industry. With 10 years of export experience, backed by Liancheng\'s 40-year manufacturing heritage in Huzhou — the heart of China\'s wood flooring industry — we serve discerning partners and clients across more than 50 countries.',
     craftTitle: 'European Precision, Chinese Craftsmanship',
     craftText: 'Our 30,000 m² facility is equipped with advanced European technology — Austrian Wintersteiger frame saws, Italian Nardi drying kilns, German HOMAG processing lines, and Belgian Uniclic locking systems. Every plank passes ten rigorous quality stages.',
     qualityTitle: 'Trusted in 50+ Countries',
     qualityText: 'Our parquet floors grace luxury hotels, premium residences, and commercial spaces across Europe, the Middle East, Southeast Asia, and the Americas. 15+ international certifications.',
-    stat1: 'Experience', stat2: 'Countries', stat3: 'Team Experience', stat4: 'Product Lines',
+    stat1: 'Production Area', stat2: 'Countries', stat3: 'Heritage', stat4: 'Product Lines',
   },
   ru: {
     overline: 'Наша История',
-    headline: 'Основана в 2015 — Почти 10 Лет Международного Опыта',
-    intro: 'Liancheng Flooring — премиальный производитель деревянных полов из Хучжоу, центра деревообрабатывающей промышленности Китая. С почти десятилетним международным опытом мы обслуживаем взыскательных партнеров и клиентов в более чем 50 странах.',
+    headline: '40 Лет Наследия. Новый Стандарт Премиального Паркета.',
+    intro: 'Avonda — премиальный бренд компании Liancheng Wood Industry. С 10-летним экспортным опытом, опираясь на 40-летнее наследие Liancheng в Хучжоу — центре деревообрабатывающей промышленности Китая — мы обслуживаем взыскательных партнеров и клиентов в более чем 50 странах.',
     craftTitle: 'Европейская Точность, Китайское Мастерство',
     craftText: 'Наш завод площадью 30 000 м² оснащен передовым европейским оборудованием — австрийские рамные пилы Wintersteiger, итальянские сушильные камеры Nardi, немецкие линии HOMAG и бельгийские замки Uniclic. Каждая доска проходит десять строгих этапов контроля.',
     qualityTitle: 'Доверие в 50+ Странах',
     qualityText: 'Наши полы в отелях, резиденциях и коммерческих помещениях Европы, Ближнего Востока, Азии и Америки. Более 15 международных сертификатов.',
-    stat1: 'Производство', stat2: 'Страны', stat3: 'Годы', stat4: 'Мастера',
+    stat1: 'Производство', stat2: 'Страны', stat3: 'Наследие', stat4: 'Мастера',
   },
   zh: {
     overline: '我们的故事',
-    headline: '成立于2015年 — 近十年国际经验',
-    intro: 'Liancheng Flooring是一家高端木地板制造商，位于中国木地板之都湖州。拥有近十年的国际经验，我们服务全球50多个国家的挑剔客户与合作伙伴。',
+    headline: '四十年传承，高端地板新标杆',
+    intro: 'Avonda是联成木业旗下高端品牌。Avonda拥有10年出口经验，依托联成40年制造传承，坐落于中国木地板之都湖州，我们服务全球50多个国家的挑剔客户与合作伙伴。',
     craftTitle: '欧洲精密，中国制造',
     craftText: '30,000平方米生产基地配备先进欧洲技术 — 奥地利Wintersteiger框锯、意大利Nardi干燥窑、德国HOMAG生产线和比利时Uniclic锁扣系统。每块地板经过十道严格质检工序。',
     qualityTitle: '50+国家的信任',
     qualityText: '我们的拼花地板遍布欧洲、中东、东南亚和美洲的豪华酒店、高端住宅和商业空间。持有15+国际认证。',
-    stat1: '生产面积', stat2: '国家', stat3: '年份', stat4: '工匠',
+    stat1: '生产面积', stat2: '国家', stat3: '传承', stat4: '工匠',
   },
 };
 
@@ -81,7 +81,7 @@ export default function AboutSnippet({ locale }: { locale: Locale }) {
             <div className="mt-10 grid grid-cols-4 gap-8">
               <div><p className="text-2xl font-light text-black">30,000 m²</p><p className="mt-1 text-xs text-neutral-400">{t.stat1}</p></div>
               <div><p className="text-2xl font-light text-black">50+</p><p className="mt-1 text-xs text-neutral-400">{t.stat2}</p></div>
-              <div><p className="text-2xl font-light text-black">10+</p><p className="mt-1 text-xs text-neutral-400">{t.stat3}</p></div>
+              <div><p className="text-2xl font-light text-black">40+</p><p className="mt-1 text-xs text-neutral-400">{t.stat3}</p></div>
               <div><p className="text-2xl font-light text-black">200+</p><p className="mt-1 text-xs text-neutral-400">{t.stat4}</p></div>
             </div>
           </SlideInSection>
