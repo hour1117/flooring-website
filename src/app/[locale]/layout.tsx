@@ -10,6 +10,7 @@ import Footer from '@/components/layout/Footer';
 import WhatsAppFloat from '@/components/shared/WhatsAppFloat';
 import SocialSidebar from '@/components/shared/SocialSidebar';
 import BackToTop from '@/components/shared/BackToTop';
+import { Analytics } from '@vercel/analytics/next';
 import './globals.css';
 
 type Props = {
@@ -66,6 +67,7 @@ export default async function LocaleLayout({ children, params }: Props) {
           <SocialSidebar social={settings.social} />
           <BackToTop />
         </NextIntlClientProvider>
+        <Analytics />
       </body>
     </html>
   );
